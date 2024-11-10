@@ -6,7 +6,8 @@ export const meta: MetaFunction = () => {
     { title: "Ryan Aldred" },
     {
       name: "description",
-      content: "Welcome to Ryan Aldred's Remix blog on Cloudflare Workers!",
+      content:
+        "Welcome to Ryan Aldred's Remix blog running on Cloudflare Workers!",
     },
   ];
 };
