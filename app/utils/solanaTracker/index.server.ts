@@ -1,27 +1,29 @@
 import { ChartType, ChartPath, HLOCV, SolanaTrackerEndpoint } from "./types";
 
 export class SolanaTracker {
-  private static apiKey?: string = process.env.SOLANA_TRACKER_API_KEY;
   private static baseUrl = "https://data.solanatracker.io";
 
-  static async chartData({
-    token,
-    type,
-    fromTime,
-    toTime,
-  }: {
-    token: string;
-    type: ChartType;
-    fromTime?: Date;
-    toTime?: Date;
-  }) {
+  static async chartData(
+    {
+      token,
+      type,
+      fromTime,
+      toTime,
+    }: {
+      token: string;
+      type: ChartType;
+      fromTime?: Date;
+      toTime?: Date;
+    },
+    apiKey: string
+  ) {
     const path: ChartPath = `chart/${token}`;
     const time_from = fromTime
       ? this.timeInSeconds(fromTime).toString()
       : undefined;
     const time_to = toTime ? this.timeInSeconds(toTime).toString() : undefined;
 
-    const data = (await this.fetchData(path, {
+    const data = (await this.fetchData(apiKey, path, {
       type,
       time_from,
       time_to,
@@ -31,10 +33,11 @@ export class SolanaTracker {
   }
 
   private static async fetchData(
+    apiKey: string,
     endpoint: SolanaTrackerEndpoint,
     params?: Record<string, string | undefined>
   ) {
-    if (!this.apiKey) throw new Error("SOLANA_TRACKER_API_KEY is missing");
+    if (!apiKey) throw new Error("SOLANA_TRACKER_API_KEY is missing");
 
     const url = new URL(this.baseUrl);
     url.pathname = endpoint;
@@ -47,7 +50,7 @@ export class SolanaTracker {
 
     const res = await fetch(url.toString(), {
       headers: {
-        "x-api-key": this.apiKey,
+        "x-api-key": apiKey,
       },
     });
 

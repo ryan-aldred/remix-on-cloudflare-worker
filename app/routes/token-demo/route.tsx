@@ -2,7 +2,7 @@ import { Form, useActionData } from "@remix-run/react";
 import { ActionFunctionArgs } from "@remix-run/server-runtime";
 import { SolanaTracker } from "~/utils/solanaTracker/index.server";
 
-export async function action({ request }: ActionFunctionArgs) {
+export async function action({ request, context }: ActionFunctionArgs) {
   const formData = await request.formData();
   // should do spl validation instead
   const spl = formData.get("spl") as string;
@@ -17,11 +17,14 @@ export async function action({ request }: ActionFunctionArgs) {
       data: null,
     };
 
-  const chartData = await SolanaTracker.chartData({
-    token: spl,
-    type: "1h",
-    fromTime: new Date(Date.now() - 1000 * 60 * 60 * 24),
-  });
+  const chartData = await SolanaTracker.chartData(
+    {
+      token: spl,
+      type: "1h",
+      fromTime: new Date(Date.now() - 1000 * 60 * 60 * 24),
+    },
+    context.cloudflare.env.SOLANA_TRACKER_API_KEY
+  );
 
   return {
     success: true,
