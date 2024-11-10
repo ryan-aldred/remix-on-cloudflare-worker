@@ -8,7 +8,7 @@ export function Header() {
           Ryan Aldred
         </NavLink>
         <nav>
-          <ul>
+          <ul className="flex gap-3">
             {linkList.map(({ to, name }) => (
               <li key={to}>
                 <NavLink
@@ -28,4 +28,7 @@ export function Header() {
   );
 }
 
-const linkList = [{ name: "1) What", to: "/about" }];
+const linkList = [
+  { name: "1) What", to: "/about" },
+  { name: "2) Something I can build", to: "/token-demo" },
+];
