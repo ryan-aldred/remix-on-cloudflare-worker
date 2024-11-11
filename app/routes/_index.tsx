@@ -19,13 +19,13 @@ export default function Index() {
   return (
     <div className="flex flex-col h-screen items-center justify-center">
       <div className="flex">
-        <h1 className="leading text-7xl font-bold text-gray-800 dark:text-gray-100">
+        <h1 className="leading text-7xl font-bold text-pink-500">
           {greeting.msg}
         </h1>
         <div className="h-[144px] w-[434px]"></div>
       </div>
       <div className="flex flex-col items-start">
-        <h2>1) What</h2>
+        <h2 className="text-pink-500 text-4xl">1) What</h2>
         <span>Learn more about Ryan and this webiste</span>
         <button>
           <Link to="/about">Learn more</Link>
@@ -36,7 +36,7 @@ export default function Index() {
 }
 
 function getGreeting(hourOfDay: number) {
-  if (hourOfDay > 17 || (hourOfDay > 0 && hourOfDay < 4))
+  if (hourOfDay > 17 || hourOfDay < 4)
     return {
       msg: "Good evening",
       url: "",
