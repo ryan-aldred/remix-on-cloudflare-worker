@@ -24,16 +24,18 @@ export default function Tokens() {
   const actionData = useActionData<typeof action>();
 
   return (
-    <div>
-      <div>
-        <h1 className="text-pink-500 text-5xl">Enter an SPL token address</h1>
-        <TokensForm
-          fields={actionData?.fields}
-          fieldErrors={actionData?.fieldErrors}
-        />
-      </div>
-      <div>
-        <Outlet />
+    <div className="flex justify-center py-24">
+      <div className="container">
+        <div className="flex flex-col gap-6 items-center">
+          <h1 className="text-pink-500 text-5xl">Enter an SPL token address</h1>
+          <TokensForm
+            fields={actionData?.fields}
+            fieldErrors={actionData?.fieldErrors}
+          />
+        </div>
+        <div>
+          <Outlet />
+        </div>
       </div>
     </div>
   );
