@@ -13,6 +13,7 @@ export const meta: MetaFunction = () => {
   ];
 };
 
+// do a type in thing to hide that its actually loading
 export default function Index() {
   const hourOfDay = new Date(Date.now()).getHours();
   const greeting = getGreeting(hourOfDay);

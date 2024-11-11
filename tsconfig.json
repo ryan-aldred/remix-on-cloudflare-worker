@@ -7,7 +7,8 @@
     "**/.server/**/*.ts",
     "**/.server/**/*.tsx",
     "**/.client/**/*.ts",
-    "**/.client/**/*.tsx"
+    "**/.client/**/*.tsx",
+    "app/routes/tokens.$id"
   ],
   "compilerOptions": {
     "lib": ["DOM", "DOM.Iterable", "ES2022"],
