@@ -30,5 +30,5 @@ export function Header() {
 
 const linkList = [
   { name: "1) What", to: "/about" },
-  { name: "2) Something I built", to: "/tokens" },
+  { name: "2) Proof of Work", to: "/tokens" },
 ];
