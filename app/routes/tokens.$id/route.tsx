@@ -3,6 +3,7 @@ import { LoaderFunction } from "@remix-run/server-runtime";
 import { CandlestickData, Time } from "lightweight-charts";
 import { Chart } from "~/components/chart";
 import { SolanaTracker } from "~/utils/solanaTracker/index.server";
+import { HLOCV, TokenInfo } from "~/utils/solanaTracker/types";
 
 const chartData = [
   {
@@ -207,6 +208,206 @@ const chartData = [
   },
 ];
 
+const tokenInfo = {
+  token: {
+    name: "HARAMBE",
+    symbol: "HARAMBE",
+    mint: "Fch1oixTPri8zxBnmdCEADoJW2toyFHxqDZacQkwdvSP",
+    uri: "https://bafkreid4w525uxvn5ep4hanxrraqi2r2gbuwri6imxcovir46xqk75ttey.ipfs.nftstorage.link",
+    decimals: 9,
+    description:
+      "Harambe on Solana\nTG: t.me/HarambeCommunity\n\nsorry guys dev just wanted a better entry",
+    image:
+      "https://image.solanatracker.io/proxy?url=https%3A%2F%2Fbafkreiae6jhnm6fnankuwimzwwjumpdqnpk5jvlnwpxe2quprgvswzgipq.ipfs.nftstorage.link",
+    hasFileMetaData: true,
+  },
+  pools: [
+    {
+      poolId: "2BJKy9pnzTDvMPdHJhv8qbWejKiLzebD7i2taTyJxAze",
+      liquidity: {
+        quote: 13920.042645482,
+        usd: 2845051.7580286087,
+      },
+      price: {
+        quote: 0.0002634608530592058,
+        usd: 0.053847519167701224,
+      },
+      tokenSupply: 998955724.2762239,
+      lpBurn: 99,
+      tokenAddress: "Fch1oixTPri8zxBnmdCEADoJW2toyFHxqDZacQkwdvSP",
+      marketCap: {
+        quote: 263185.7272861907,
+        usd: 53791287.510648824,
+      },
+      market: "raydium",
+      quoteToken: "So11111111111111111111111111111111111111112",
+      decimals: 9,
+      security: {
+        freezeAuthority: null,
+        mintAuthority: null,
+      },
+      lastUpdated: 1731479567635,
+      createdAt: 1721760533688,
+      deployer: null,
+      txns: {
+        sells: 208021,
+        total: 381475,
+        buys: 173454,
+        volume: 9147874807,
+      },
+    },
+    {
+      poolId: "C2gpTALX9LKN5kKktckYXbmKicB5Z867QNJ3ypemWb94",
+      liquidity: {
+        quote: 486.291468174,
+        usd: 100325.76575139715,
+      },
+      price: {
+        quote: 0.00027172677302,
+        usd: 0.05605937665452655,
+      },
+      tokenSupply: 998955724.2762239,
+      lpBurn: 0,
+      tokenAddress: "Fch1oixTPri8zxBnmdCEADoJW2toyFHxqDZacQkwdvSP",
+      marketCap: {
+        quote: 271443.0153460551,
+        usd: 56000835.20839621,
+      },
+      market: "orca",
+      quoteToken: "So11111111111111111111111111111111111111112",
+      decimals: 9,
+      security: {
+        freezeAuthority: null,
+        mintAuthority: null,
+      },
+      lastUpdated: 1731478632183,
+      createdAt: 1721760533693,
+      deployer: null,
+      txns: {
+        buys: 10309,
+        total: 20746,
+        sells: 10437,
+        volume: 47505890,
+      },
+    },
+    {
+      poolId: "2y5Mzgs8TAEgweThA7coc8VXRHKymN9UkatCvLZQ3ucM",
+      liquidity: {
+        quote: 276.086886906,
+        usd: 56960.859722012996,
+      },
+      price: {
+        quote: 0.00027704529867,
+        usd: 0.05715859442299491,
+      },
+      tokenSupply: 998955724.2762239,
+      lpBurn: 0,
+      tokenAddress: "Fch1oixTPri8zxBnmdCEADoJW2toyFHxqDZacQkwdvSP",
+      marketCap: {
+        quote: 276755.98698990146,
+        usd: 57098905.09043382,
+      },
+      market: "orca",
+      quoteToken: "So11111111111111111111111111111111111111112",
+      decimals: 9,
+      security: {
+        freezeAuthority: null,
+        mintAuthority: null,
+      },
+      lastUpdated: 1731478750843,
+      createdAt: 1721760533698,
+      deployer: null,
+      txns: {
+        buys: 3879,
+        total: 7621,
+        sells: 3742,
+        volume: 3286514,
+      },
+    },
+    {
+      poolId: "3Btp6dhy58zt9WQtjPkQTuqusJ42E7yG7zxTuxpVpvWL",
+      liquidity: {
+        quote: 0.005801772,
+        usd: 1.0721224907392013,
+      },
+      price: {
+        quote: 0.00012585696747,
+        usd: 0.023257391956354508,
+      },
+      tokenSupply: 999087659.5644112,
+      lpBurn: 0,
+      tokenAddress: "Fch1oixTPri8zxBnmdCEADoJW2toyFHxqDZacQkwdvSP",
+      marketCap: {
+        quote: 125742.14307374806,
+        usd: 23236173.297246385,
+      },
+      market: "orca",
+      quoteToken: "So11111111111111111111111111111111111111112",
+      decimals: 9,
+      security: {
+        freezeAuthority: null,
+        mintAuthority: null,
+      },
+      lastUpdated: 1722272314219,
+      createdAt: 1721760533702,
+      deployer: null,
+      txns: {
+        buys: 0,
+        sells: 0,
+        total: 0,
+        volume: 0,
+      },
+    },
+  ],
+  events: {
+    "1m": {
+      priceChangePercentage: -0.941476561522369,
+    },
+    "5m": {
+      priceChangePercentage: -1.3596918725618008,
+    },
+    "15m": {
+      priceChangePercentage: -2.1170648257682823,
+    },
+    "30m": {
+      priceChangePercentage: -4.785155800882994,
+    },
+    "1h": {
+      priceChangePercentage: -4.057246496256356,
+    },
+    "2h": {
+      priceChangePercentage: -12.098036143666297,
+    },
+    "3h": {
+      priceChangePercentage: -4.2349820315584275,
+    },
+    "4h": {
+      priceChangePercentage: -2.5437635691512255,
+    },
+    "5h": {
+      priceChangePercentage: -7.323599211805706,
+    },
+    "6h": {
+      priceChangePercentage: -17.94825101380929,
+    },
+    "12h": {
+      priceChangePercentage: 0.9341596346706729,
+    },
+    "24h": {
+      priceChangePercentage: 5.3685332097497,
+    },
+  },
+  risk: {
+    rugged: false,
+    risks: [],
+    score: 0,
+    jupiterVerified: true,
+  },
+  buys: 0,
+  sells: 0,
+  txns: 0,
+};
+
 export const loader: LoaderFunction = async ({ params, context }) => {
   // in other project i dont do this, idk the different
   if (!params.id) throw new Error("no params.id");
@@ -219,17 +420,28 @@ export const loader: LoaderFunction = async ({ params, context }) => {
   //   context.cloudflare.env.SOLANA_TRACKER_API_KEY
   // );
 
+  // const tokenInfo = await SolanaTracker.tokenInfo(
+  //   params.id,
+  //   context.cloudflare.env.SOLANA_TRACKER_API_KEY
+  // );
+
   return {
     chartData,
+    tokenInfo,
   };
 };
 export default function Token() {
-  // why reix not default
-  const data = useLoaderData<typeof loader>();
+  const data = useLoaderData<typeof loader>() as {
+    chartData: HLOCV[];
+    tokenInfo: TokenInfo;
+  };
+
+  console.log("tokenInfo", data.tokenInfo);
 
   return (
     <div className="flex flex-col items-center">
-      <Chart data={data.chartData as CandlestickData<Time>[]} />
+      <h2>{data.tokenInfo.token.name}</h2>
+      <Chart data={data.chartData} />
     </div>
   );
 }

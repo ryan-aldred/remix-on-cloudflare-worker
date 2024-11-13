@@ -1,7 +1,21 @@
-import { ChartType, ChartPath, HLOCV, SolanaTrackerEndpoint } from "./types";
+import {
+  ChartType,
+  ChartPath,
+  HLOCV,
+  SolanaTrackerEndpoint,
+  TokenPath,
+} from "./types";
 
 export class SolanaTracker {
   private static baseUrl = "https://data.solanatracker.io";
+
+  static async tokenInfo(token: string, apiKey: string) {
+    const path: TokenPath = `tokens/${token}`;
+
+    const data = await this.fetchData(apiKey, path);
+
+    return data;
+  }
 
   static async chartData(
     {
