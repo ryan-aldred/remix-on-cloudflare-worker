@@ -1,8 +1,8 @@
-import { Link, NavLink } from "@remix-run/react";
+import { NavLink } from "@remix-run/react";
 
 export function Header() {
   return (
-    <header className="px-20 py-10 shadow-[0_0_15px_-3px_rgba(236,72,153,0.3)]">
+    <header className="px-6 md:px-20 py-10 shadow-[0_0_15px_-3px_rgba(236,72,153,0.3)]">
       <div className="flex justify-between">
         <NavLink to="/" className="hover:text-pink-500">
           Ryan Aldred
