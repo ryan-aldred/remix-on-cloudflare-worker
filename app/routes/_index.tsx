@@ -25,8 +25,8 @@ export default function Index() {
         </h1>
       </div>
       <div className="flex flex-col items-start gap-4">
-        <h2 className="text-sky-400 text-5xl md:text-6xl">1) What</h2>
-        <div className="flex flex-col gap-4  text-xl md:text-3xl">
+        <h2 className="text-sky-400 text-3xl md:text-4xl">1) What</h2>
+        <div className="flex flex-col gap-4  text-xl md:text-xl">
           <span>Ryan is a frontend developer</span>
           <span>
             He built this website with Remix, Tailwind, and Shadcn and deployed
