@@ -38,7 +38,7 @@ export default function Index() {
               </span>
               <span className="ml-4">
                 <span className="text-sky-400">speciality</span>: ["TypeScript",
-                "React"]
+                "React"],
               </span>
               <span className="ml-4">
                 <span className="text-sky-400">likes</span>: ["Mountain biking",
