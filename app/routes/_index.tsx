@@ -8,7 +8,7 @@ export const meta: MetaFunction = () => {
     {
       name: "description",
       content:
-        "Welcome to Ryan Aldred's Remix blog running on Cloudflare Workers!",
+        "Welcome to Ryan Aldred's blog built with Remix and Tailwind and is running on Cloudflare Workers!",
     },
   ];
 };
@@ -18,30 +18,55 @@ export default function Index() {
   const greeting = getGreeting(hourOfDay);
 
   return (
-    <div className="flex flex-col container items-center py-32 gap-20">
-      <div className="flex">
+    <div className="flex flex-col items-center mx-auto py-32 gap-20 max-w-3xl">
+      <div className="flex flex-col items-center gap-5">
         <h1 className="leading text-7xl font-bold text-pink-500">
           {greeting.msg}
         </h1>
       </div>
-      <div className="flex flex-col items-start gap-4">
-        <h2 className="text-sky-400 text-3xl md:text-4xl">1) What</h2>
-        <div className="flex flex-col gap-4  text-xl md:text-xl">
-          <span>Ryan is a frontend developer</span>
-          <span>
-            He built this website with Remix, Tailwind, and Shadcn and deployed
-            it to Cloudflare Workers
-          </span>
-          <span>
-            That's right, this is a fullstack React application running on
-            globablly distrubuted, performance, and cost-effective (free)
-            serverless infra
-          </span>
+      <div className="flex flex-col items-start gap-10">
+        <div className="flex flex-col gap-6 text-xl md:text-xl">
+          <h2 className="text-pink-500 text-3xl md:text-2xl">👨‍💻 About</h2>
+          <div className="group hover:translate-x-2 transition-transform cursor-pointer">
+            <span className="font-mono flex flex-col">
+              <span>
+                <span className="text-pink-500">const</span> Ryan = {"{"}
+              </span>
+              <span className="ml-4">
+                <span className="text-sky-400">profession</span>: "Frontend
+                Engineer",
+              </span>
+              <span className="ml-4">
+                <span className="text-sky-400">speciality</span>: ["TypeScript",
+                "React"]
+              </span>
+              <span className="ml-4">
+                <span className="text-sky-400">likes</span>: ["Mountain biking",
+                "Crypto", "Speculating"]
+              </span>
+              <span>{"}"};</span>
+            </span>
+          </div>
         </div>
-
-        <Button variant="secondary" size="lg">
-          <Link to="/about">Learn more</Link>
-        </Button>
+        <div className="flex flex-col items-start gap-5">
+          <span>
+            This website was built with Remix and Tailwind, and deployed to
+            Cloudflare Workers but I actually spend most of my time working in
+            client-side React apps that are millions of lines of code big
+          </span>
+          <Button
+            variant="secondary"
+            size="lg"
+            className="group relative overflow-hidden hover:scale-105 transition-transform"
+          >
+            <Link to="/about" className="flex items-center gap-1">
+              <span>Learn more about me</span>
+              <span className="group-hover:translate-x-1 transition-transform">
+                →
+              </span>
+            </Link>
+          </Button>
+        </div>
       </div>
     </div>
   );
