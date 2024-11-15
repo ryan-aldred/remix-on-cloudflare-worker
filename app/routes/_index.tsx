@@ -1,7 +1,10 @@
-import type { MetaFunction } from "@remix-run/cloudflare";
-import { Link } from "@remix-run/react";
+import { getHintUtils } from "@epic-web/client-hints";
+import type { LoaderFunctionArgs, MetaFunction } from "@remix-run/cloudflare";
+import { Link, useLoaderData } from "@remix-run/react";
 import { motion } from "framer-motion";
 import { Button } from "~/components/ui/button";
+import { clientHint as timeZoneHint } from "@epic-web/client-hints/time-zone";
+import { getHints } from "~/utils/client-hints";
 
 export const meta: MetaFunction = () => {
   return [
@@ -14,9 +17,19 @@ export const meta: MetaFunction = () => {
   ];
 };
 
+export const loader = async ({ request }: LoaderFunctionArgs) => {
+  const { timeZone } = getHints(request);
+  const clientTime = new Date().toLocaleString("en-US", {
+    timeZone,
+    hour12: false,
+    hour: "numeric",
+  });
+
+  return { greeting: getGreeting(Number(clientTime)) };
+};
+
 export default function Index() {
-  const hourOfDay = new Date(Date.now()).getHours();
-  const greeting = getGreeting(hourOfDay);
+  const { greeting } = useLoaderData<typeof loader>();
 
   return (
     <div className="flex flex-col items-center mx-auto py-32 gap-20 max-w-3xl">
@@ -27,7 +40,7 @@ export default function Index() {
           transition={{ duration: 0.7, type: "spring" }}
           className="leading text-7xl font-bold text-pink-500"
         >
-          {greeting.msg}
+          {greeting}
         </motion.h1>
       </div>
       <div className="flex flex-col items-start gap-10">
@@ -54,11 +67,15 @@ export default function Index() {
           </div>
         </div>
         <div className="flex flex-col items-start gap-5">
-          <span>
+          <p>
             This website was built with Remix and Tailwind and deployed to
             Cloudflare Workers but I actually spend most of my time working in
             enterprise React apps
-          </span>
+          </p>
+          <p>
+            I've also been working on a concentrated liquidity market making bot
+            for Solana which has been running full time since August 2024.
+          </p>
           <Button
             variant="secondary"
             size="lg"
@@ -78,20 +95,13 @@ export default function Index() {
 }
 
 function getGreeting(hourOfDay: number) {
-  if (hourOfDay > 17 || hourOfDay < 4)
-    return {
-      msg: "Good evening",
-      url: "",
-    };
+  if (hourOfDay > 17 || hourOfDay < 4) {
+    return "Good evening";
+  }
 
-  if (hourOfDay >= 4 && hourOfDay < 12)
-    return {
-      msg: "Good morning",
-      url: "",
-    };
+  if (hourOfDay >= 4 && hourOfDay < 12) {
+    return "Good morning";
+  }
 
-  return {
-    msg: "Good afternoon",
-    url: "",
-  };
+  return "Good afternoon";
 }

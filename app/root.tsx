@@ -5,11 +5,13 @@ import {
   Scripts,
   ScrollRestoration,
 } from "@remix-run/react";
-import type { LinksFunction } from "@remix-run/cloudflare";
+import type { LinksFunction, LoaderFunctionArgs } from "@remix-run/cloudflare";
 import styles from "./tailwind.css?url";
 
 import "./tailwind.css";
 import { Header } from "./components/header";
+import { ClientHintCheck, getHints } from "./utils/client-hints";
+import { useNonce } from "./utils/nonce-provider";
 
 export const links: LinksFunction = () => [
   { rel: "preconnect", href: styles },
@@ -25,12 +27,23 @@ export const links: LinksFunction = () => [
   },
 ];
 
+export const loader = async ({ request }: LoaderFunctionArgs) => {
+  return {
+    requestInfo: {
+      hints: getHints(request),
+    },
+  };
+};
+
 export function Layout({ children }: { children: React.ReactNode }) {
+  const nonce = useNonce();
+
   return (
     <html lang="en" className="dark">
       <head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <ClientHintCheck nonce={nonce} />
         <Meta />
         <Links />
       </head>

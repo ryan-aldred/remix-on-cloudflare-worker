@@ -8,6 +8,7 @@ import type { AppLoadContext, EntryContext } from "@remix-run/cloudflare";
 import { RemixServer } from "@remix-run/react";
 import { isbot } from "isbot";
 import { renderToReadableStream } from "react-dom/server";
+import { NonceProvider } from "./utils/nonce-provider";
 
 const ABORT_DELAY = 5000;
 
@@ -23,13 +24,16 @@ export default async function handleRequest(
 ) {
   const controller = new AbortController();
   const timeoutId = setTimeout(() => controller.abort(), ABORT_DELAY);
+  const nonce = crypto.randomUUID().replace(/-/g, "");
 
   const body = await renderToReadableStream(
-    <RemixServer
-      context={remixContext}
-      url={request.url}
-      abortDelay={ABORT_DELAY}
-    />,
+    <NonceProvider value={nonce}>
+      <RemixServer
+        context={remixContext}
+        url={request.url}
+        abortDelay={ABORT_DELAY}
+      />
+    </NonceProvider>,
     {
       signal: controller.signal,
       onError(error: unknown) {
