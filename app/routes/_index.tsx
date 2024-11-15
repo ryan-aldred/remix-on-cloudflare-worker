@@ -1,6 +1,6 @@
 import type { MetaFunction } from "@remix-run/cloudflare";
 import { Link } from "@remix-run/react";
-import { motion } from "motion/react";
+import { motion } from "framer-motion";
 import { Button } from "~/components/ui/button";
 
 export const meta: MetaFunction = () => {
