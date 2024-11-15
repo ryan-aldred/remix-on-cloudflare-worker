@@ -69,8 +69,8 @@ export default function Index() {
         <div className="flex flex-col items-start gap-5">
           <p>
             This website was built with Remix and Tailwind and deployed to
-            Cloudflare Workers but I actually spend most of my time working in
-            enterprise React apps
+            Cloudflare Workers but I actually spend most of my time working on
+            enterprise React apps.
           </p>
           <p>
             I've also been working on a concentrated liquidity market making bot
