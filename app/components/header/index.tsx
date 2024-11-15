@@ -28,4 +28,4 @@ export function Header() {
   );
 }
 
-const linkList = [{ name: "1) What", to: "/about" }];
+const linkList = [{ name: "About me", to: "/about" }];
