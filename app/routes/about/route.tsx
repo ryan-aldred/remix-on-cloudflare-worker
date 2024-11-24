@@ -1,6 +1,16 @@
-import { Link } from "@remix-run/react";
+import { Link, useLoaderData } from "@remix-run/react";
+import data from "./data.json";
+import { CareerChart } from "./components/CareerChart";
+
+export function loader() {
+  return {
+    data,
+  };
+}
 
 export default function About() {
+  const { data } = useLoaderData<typeof loader>();
+
   return (
     <div className="flex flex-col items-center mx-auto max-w-3xl text-lg">
       <div className="py-20 flex flex-col gap-10">
@@ -15,6 +25,9 @@ export default function About() {
             support to contributing code that helps powers ~10% of global
             ecommerce.
           </span>
+          <div className="w-full h-96 my-10">
+            <CareerChart data={data} />
+          </div>
         </div>
         <div className="flex flex-col gap-1">
           <h3 className="text-pink-500 text-3xl mb-4">About this website</h3>
