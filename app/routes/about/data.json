@@ -1,0 +1,8906 @@
+[
+  {
+    "date": "2019-01-02",
+    "price": "13.7600",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-01-03",
+    "price": "12.9790",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-01-04",
+    "price": "13.8060",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-01-07",
+    "price": "14.4390",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-01-08",
+    "price": "14.5440",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-01-09",
+    "price": "14.8620",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-01-10",
+    "price": "14.8270",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-01-11",
+    "price": "14.9430",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-01-14",
+    "price": "14.9100",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-01-15",
+    "price": "15.4300",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-01-16",
+    "price": "15.8250",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-01-17",
+    "price": "15.7690",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-01-18",
+    "price": "15.8430",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-01-22",
+    "price": "15.6280",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-01-23",
+    "price": "15.6600",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-01-24",
+    "price": "15.8410",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-01-25",
+    "price": "16.2820",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-01-28",
+    "price": "15.9440",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-01-29",
+    "price": "15.7110",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-01-30",
+    "price": "16.2430",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-01-31",
+    "price": "16.8470",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-02-01",
+    "price": "17.0590",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-02-04",
+    "price": "17.3550",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-02-05",
+    "price": "17.3570",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-02-06",
+    "price": "17.3600",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-02-07",
+    "price": "17.1800",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-02-08",
+    "price": "17.5950",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-02-11",
+    "price": "17.3170",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-02-12",
+    "price": "17.5550",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-02-13",
+    "price": "17.2020",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-02-14",
+    "price": "17.6520",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-02-15",
+    "price": "17.8190",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-02-19",
+    "price": "18.1300",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-02-20",
+    "price": "17.9210",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-02-21",
+    "price": "17.8470",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-02-22",
+    "price": "18.3630",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-02-25",
+    "price": "18.7500",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-02-26",
+    "price": "18.5030",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-02-27",
+    "price": "18.9200",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-02-28",
+    "price": "18.9150",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-03-01",
+    "price": "19.1520",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-03-04",
+    "price": "18.6470",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-03-05",
+    "price": "18.7500",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-03-06",
+    "price": "18.7370",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-03-07",
+    "price": "18.6940",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-03-08",
+    "price": "18.9760",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-03-11",
+    "price": "20.0390",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-03-12",
+    "price": "20.2470",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-03-13",
+    "price": "20.5510",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-03-14",
+    "price": "20.8230",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-03-15",
+    "price": "20.5980",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-03-18",
+    "price": "20.5770",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-03-19",
+    "price": "20.2090",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-03-20",
+    "price": "20.1340",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-03-21",
+    "price": "20.5000",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-03-22",
+    "price": "19.8750",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-03-25",
+    "price": "20.1450",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-03-26",
+    "price": "20.4370",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-03-27",
+    "price": "20.0080",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-03-28",
+    "price": "20.3450",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-03-29",
+    "price": "20.6620",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-04-01",
+    "price": "20.6040",
+    "jobPostings": null,
+    "gmv": 13.8
+  },
+  {
+    "date": "2019-04-02",
+    "price": "20.1460",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-04-03",
+    "price": "20.5120",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-04-04",
+    "price": "19.4750",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-04-05",
+    "price": "19.6650",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-04-08",
+    "price": "20.0240",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-04-09",
+    "price": "20.3960",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-04-10",
+    "price": "20.6500",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-04-11",
+    "price": "21.0990",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-04-12",
+    "price": "21.4830",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-04-15",
+    "price": "21.8030",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-04-16",
+    "price": "21.5400",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-04-17",
+    "price": "21.7050",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-04-18",
+    "price": "22.0720",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-04-22",
+    "price": "22.4290",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-04-23",
+    "price": "22.3440",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-04-24",
+    "price": "21.9810",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-04-25",
+    "price": "21.8970",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-04-26",
+    "price": "22.2280",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-04-29",
+    "price": "22.5790",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-04-30",
+    "price": "24.3530",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-05-01",
+    "price": "24.5160",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-05-02",
+    "price": "25.5540",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-05-03",
+    "price": "26.4030",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-05-06",
+    "price": "26.5520",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-05-07",
+    "price": "25.8690",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-05-08",
+    "price": "26.1510",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-05-09",
+    "price": "26.0620",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-05-10",
+    "price": "25.8830",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-05-13",
+    "price": "25.0790",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-05-14",
+    "price": "25.3150",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-05-15",
+    "price": "26.4160",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-05-16",
+    "price": "27.8010",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-05-17",
+    "price": "27.3500",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-05-20",
+    "price": "26.7190",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-05-21",
+    "price": "27.2810",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-05-22",
+    "price": "27.9000",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-05-23",
+    "price": "27.1620",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-05-24",
+    "price": "27.5850",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-05-28",
+    "price": "28.2430",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-05-29",
+    "price": "27.2680",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-05-30",
+    "price": "27.7050",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-05-31",
+    "price": "27.4900",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-06-03",
+    "price": "26.5000",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-06-04",
+    "price": "27.4000",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-06-05",
+    "price": "29.2520",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-06-06",
+    "price": "29.7060",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-06-07",
+    "price": "30.5050",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-06-10",
+    "price": "30.6730",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-06-11",
+    "price": "30.6710",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-06-12",
+    "price": "31.0140",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-06-13",
+    "price": "30.6990",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-06-14",
+    "price": "30.5110",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-06-17",
+    "price": "30.5850",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-06-18",
+    "price": "30.4210",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-06-19",
+    "price": "32.7020",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-06-20",
+    "price": "32.8010",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-06-21",
+    "price": "32.6850",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-06-24",
+    "price": "31.1830",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-06-25",
+    "price": "28.4040",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-06-26",
+    "price": "28.9030",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-06-27",
+    "price": "30.0960",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-06-28",
+    "price": "30.0150",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-07-01",
+    "price": "30.4680",
+    "jobPostings": null,
+    "gmv": 14.8
+  },
+  {
+    "date": "2019-07-02",
+    "price": "31.1960",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-07-03",
+    "price": "31.3330",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-07-05",
+    "price": "31.3720",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-07-08",
+    "price": "32.1000",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-07-09",
+    "price": "32.1980",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-07-10",
+    "price": "31.9010",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-07-11",
+    "price": "31.5000",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-07-12",
+    "price": "31.0020",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-07-15",
+    "price": "32.4020",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-07-16",
+    "price": "31.7390",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-07-17",
+    "price": "32.5320",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-07-18",
+    "price": "33.1150",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-07-19",
+    "price": "33.0000",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-07-22",
+    "price": "33.5240",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-07-23",
+    "price": "33.0220",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-07-24",
+    "price": "32.9570",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-07-25",
+    "price": "33.3340",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-07-26",
+    "price": "33.6540",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-07-29",
+    "price": "31.9710",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-07-30",
+    "price": "31.4300",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-07-31",
+    "price": "31.7880",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-08-01",
+    "price": "34.1390",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-08-02",
+    "price": "33.2190",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-08-05",
+    "price": "32.1390",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-08-06",
+    "price": "33.2670",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-08-07",
+    "price": "34.1310",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-08-08",
+    "price": "35.7810",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-08-09",
+    "price": "36.9950",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-08-12",
+    "price": "36.6730",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-08-13",
+    "price": "36.9230",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-08-14",
+    "price": "35.2800",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-08-15",
+    "price": "35.1070",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-08-16",
+    "price": "35.8740",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-08-19",
+    "price": "36.1830",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-08-20",
+    "price": "37.4970",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-08-21",
+    "price": "38.9830",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-08-22",
+    "price": "38.8540",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-08-23",
+    "price": "38.2750",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-08-26",
+    "price": "39.5960",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-08-27",
+    "price": "40.6990",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-08-28",
+    "price": "39.4800",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-08-29",
+    "price": "39.1710",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-08-30",
+    "price": "38.5390",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-09-03",
+    "price": "38.3910",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-09-04",
+    "price": "38.6490",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-09-05",
+    "price": "39.2720",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-09-06",
+    "price": "38.0420",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-09-09",
+    "price": "35.8670",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-09-10",
+    "price": "33.7240",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-09-11",
+    "price": "34.7510",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-09-12",
+    "price": "35.6630",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-09-13",
+    "price": "33.8310",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-09-16",
+    "price": "33.7930",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-09-17",
+    "price": "32.8820",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-09-18",
+    "price": "32.5850",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-09-19",
+    "price": "32.5000",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-09-20",
+    "price": "31.8820",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-09-23",
+    "price": "31.3260",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-09-24",
+    "price": "29.5470",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-09-25",
+    "price": "31.4600",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-09-26",
+    "price": "31.3140",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-09-27",
+    "price": "30.5690",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-09-30",
+    "price": "31.1660",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-10-01",
+    "price": "31.3220",
+    "jobPostings": null,
+    "gmv": 20.6
+  },
+  {
+    "date": "2019-10-02",
+    "price": "31.0360",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-10-03",
+    "price": "32.5570",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-10-04",
+    "price": "32.7200",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-10-07",
+    "price": "32.6320",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-10-08",
+    "price": "31.1050",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-10-09",
+    "price": "31.3850",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-10-10",
+    "price": "32.4470",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-10-11",
+    "price": "32.9260",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-10-14",
+    "price": "34.4300",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-10-15",
+    "price": "34.6080",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-10-16",
+    "price": "32.3640",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-10-17",
+    "price": "33.1340",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-10-18",
+    "price": "31.4340",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-10-21",
+    "price": "31.9730",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-10-22",
+    "price": "29.9690",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-10-23",
+    "price": "29.7140",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-10-24",
+    "price": "32.3340",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-10-25",
+    "price": "31.7450",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-10-28",
+    "price": "32.4930",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-10-29",
+    "price": "31.2520",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-10-30",
+    "price": "31.9120",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-10-31",
+    "price": "31.3570",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-11-01",
+    "price": "31.6760",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-11-04",
+    "price": "30.7910",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-11-05",
+    "price": "29.5500",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-11-06",
+    "price": "29.5020",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-11-07",
+    "price": "28.5750",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-11-08",
+    "price": "29.7640",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-11-11",
+    "price": "30.3320",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-11-12",
+    "price": "30.5560",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-11-13",
+    "price": "31.4310",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-11-14",
+    "price": "31.2450",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-11-15",
+    "price": "31.2380",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-11-18",
+    "price": "32.2980",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-11-19",
+    "price": "31.6280",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-11-20",
+    "price": "31.7050",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-11-21",
+    "price": "31.6070",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-11-22",
+    "price": "31.4520",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-11-25",
+    "price": "31.7070",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-11-26",
+    "price": "33.6190",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-11-27",
+    "price": "34.1000",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-11-29",
+    "price": "33.6750",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-12-02",
+    "price": "33.0840",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-12-03",
+    "price": "35.0660",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-12-04",
+    "price": "37.2000",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-12-05",
+    "price": "36.3590",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-12-06",
+    "price": "36.4600",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-12-09",
+    "price": "36.9790",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-12-10",
+    "price": "36.8000",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-12-11",
+    "price": "37.3080",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-12-12",
+    "price": "37.2050",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-12-13",
+    "price": "38.5570",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-12-16",
+    "price": "39.3630",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-12-17",
+    "price": "38.7950",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-12-18",
+    "price": "39.6940",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-12-19",
+    "price": "39.3060",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-12-20",
+    "price": "39.0070",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-12-23",
+    "price": "38.9130",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-12-24",
+    "price": "39.9390",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-12-26",
+    "price": "40.8750",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-12-27",
+    "price": "40.8000",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-12-30",
+    "price": "39.6360",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2019-12-31",
+    "price": "39.7580",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2020-01-02",
+    "price": "40.7810",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2020-01-03",
+    "price": "40.4290",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2020-01-06",
+    "price": "41.3330",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2020-01-07",
+    "price": "41.4500",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2020-01-08",
+    "price": "41.8100",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2020-01-09",
+    "price": "43.0200",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2020-01-10",
+    "price": "42.9170",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2020-01-13",
+    "price": "44.0250",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2020-01-14",
+    "price": "44.1220",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2020-01-15",
+    "price": "44.8510",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2020-01-16",
+    "price": "45.1300",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2020-01-17",
+    "price": "45.4880",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2020-01-21",
+    "price": "46.5440",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2020-01-22",
+    "price": "46.4760",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2020-01-23",
+    "price": "46.9250",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2020-01-24",
+    "price": "46.5480",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2020-01-27",
+    "price": "45.1110",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2020-01-28",
+    "price": "46.7660",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2020-01-29",
+    "price": "47.1670",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2020-01-30",
+    "price": "47.6880",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2020-01-31",
+    "price": "46.5660",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2020-02-03",
+    "price": "46.9390",
+    "jobPostings": "99.67",
+    "gmv": null
+  },
+  {
+    "date": "2020-02-04",
+    "price": "48.5460",
+    "jobPostings": "99.44",
+    "gmv": null
+  },
+  {
+    "date": "2020-02-05",
+    "price": "47.5560",
+    "jobPostings": "99.3",
+    "gmv": null
+  },
+  {
+    "date": "2020-02-06",
+    "price": "47.2980",
+    "jobPostings": "99.25",
+    "gmv": null
+  },
+  {
+    "date": "2020-02-07",
+    "price": "47.8690",
+    "jobPostings": "99.2",
+    "gmv": null
+  },
+  {
+    "date": "2020-02-10",
+    "price": "49.1690",
+    "jobPostings": "99.25",
+    "gmv": null
+  },
+  {
+    "date": "2020-02-11",
+    "price": "49.2750",
+    "jobPostings": "99.25",
+    "gmv": null
+  },
+  {
+    "date": "2020-02-12",
+    "price": "53.1250",
+    "jobPostings": "99.25",
+    "gmv": null
+  },
+  {
+    "date": "2020-02-13",
+    "price": "53.2970",
+    "jobPostings": "99.2",
+    "gmv": null
+  },
+  {
+    "date": "2020-02-14",
+    "price": "53.1220",
+    "jobPostings": "99.19",
+    "gmv": null
+  },
+  {
+    "date": "2020-02-18",
+    "price": "53.6410",
+    "jobPostings": "99.1",
+    "gmv": null
+  },
+  {
+    "date": "2020-02-19",
+    "price": "54.3210",
+    "jobPostings": "99.05",
+    "gmv": null
+  },
+  {
+    "date": "2020-02-20",
+    "price": "53.5580",
+    "jobPostings": "99.06",
+    "gmv": null
+  },
+  {
+    "date": "2020-02-21",
+    "price": "52.0660",
+    "jobPostings": "99.04",
+    "gmv": null
+  },
+  {
+    "date": "2020-02-24",
+    "price": "49.0960",
+    "jobPostings": "98.8",
+    "gmv": null
+  },
+  {
+    "date": "2020-02-25",
+    "price": "46.6460",
+    "jobPostings": "98.89",
+    "gmv": null
+  },
+  {
+    "date": "2020-02-26",
+    "price": "47.1180",
+    "jobPostings": "98.93",
+    "gmv": null
+  },
+  {
+    "date": "2020-02-27",
+    "price": "43.8370",
+    "jobPostings": "98.96",
+    "gmv": null
+  },
+  {
+    "date": "2020-02-28",
+    "price": "46.3310",
+    "jobPostings": "99.03",
+    "gmv": null
+  },
+  {
+    "date": "2020-03-02",
+    "price": "48.8400",
+    "jobPostings": "99.63",
+    "gmv": null
+  },
+  {
+    "date": "2020-03-03",
+    "price": "47.6940",
+    "jobPostings": "99.75",
+    "gmv": null
+  },
+  {
+    "date": "2020-03-04",
+    "price": "51.2230",
+    "jobPostings": "99.86",
+    "gmv": null
+  },
+  {
+    "date": "2020-03-05",
+    "price": "49.8220",
+    "jobPostings": "99.91",
+    "gmv": null
+  },
+  {
+    "date": "2020-03-06",
+    "price": "47.2070",
+    "jobPostings": "100.02",
+    "gmv": null
+  },
+  {
+    "date": "2020-03-09",
+    "price": "41.8320",
+    "jobPostings": "99.76",
+    "gmv": null
+  },
+  {
+    "date": "2020-03-10",
+    "price": "45.0340",
+    "jobPostings": "99.71",
+    "gmv": null
+  },
+  {
+    "date": "2020-03-11",
+    "price": "42.2310",
+    "jobPostings": "99.61",
+    "gmv": null
+  },
+  {
+    "date": "2020-03-12",
+    "price": "37.7780",
+    "jobPostings": "99.59",
+    "gmv": null
+  },
+  {
+    "date": "2020-03-13",
+    "price": "39.0900",
+    "jobPostings": "99.46",
+    "gmv": null
+  },
+  {
+    "date": "2020-03-16",
+    "price": "32.2290",
+    "jobPostings": "99.48",
+    "gmv": null
+  },
+  {
+    "date": "2020-03-17",
+    "price": "35.5090",
+    "jobPostings": "99.34",
+    "gmv": null
+  },
+  {
+    "date": "2020-03-18",
+    "price": "33.6830",
+    "jobPostings": "99.17",
+    "gmv": null
+  },
+  {
+    "date": "2020-03-19",
+    "price": "33.2500",
+    "jobPostings": "98.87",
+    "gmv": null
+  },
+  {
+    "date": "2020-03-20",
+    "price": "34.6060",
+    "jobPostings": "98.48",
+    "gmv": null
+  },
+  {
+    "date": "2020-03-23",
+    "price": "37.5390",
+    "jobPostings": "96.64",
+    "gmv": null
+  },
+  {
+    "date": "2020-03-24",
+    "price": "43.0000",
+    "jobPostings": "96.1",
+    "gmv": null
+  },
+  {
+    "date": "2020-03-25",
+    "price": "44.6600",
+    "jobPostings": "95.43",
+    "gmv": null
+  },
+  {
+    "date": "2020-03-26",
+    "price": "44.7410",
+    "jobPostings": "94.55",
+    "gmv": null
+  },
+  {
+    "date": "2020-03-27",
+    "price": "42.1620",
+    "jobPostings": "93.15",
+    "gmv": null
+  },
+  {
+    "date": "2020-03-30",
+    "price": "43.0380",
+    "jobPostings": "88.92",
+    "gmv": null
+  },
+  {
+    "date": "2020-03-31",
+    "price": "41.6930",
+    "jobPostings": "87.41",
+    "gmv": null
+  },
+  {
+    "date": "2020-04-01",
+    "price": "38.4670",
+    "jobPostings": "85.92",
+    "gmv": 30.1
+  },
+  {
+    "date": "2020-04-02",
+    "price": "34.6300",
+    "jobPostings": "84.55",
+    "gmv": null
+  },
+  {
+    "date": "2020-04-03",
+    "price": "35.7650",
+    "jobPostings": "83.78",
+    "gmv": null
+  },
+  {
+    "date": "2020-04-06",
+    "price": "39.2650",
+    "jobPostings": "81.39",
+    "gmv": null
+  },
+  {
+    "date": "2020-04-07",
+    "price": "37.8540",
+    "jobPostings": "80.47",
+    "gmv": null
+  },
+  {
+    "date": "2020-04-08",
+    "price": "41.4510",
+    "jobPostings": "79.76",
+    "gmv": null
+  },
+  {
+    "date": "2020-04-09",
+    "price": "41.7740",
+    "jobPostings": "79.03",
+    "gmv": null
+  },
+  {
+    "date": "2020-04-13",
+    "price": "44.7450",
+    "jobPostings": "77.05",
+    "gmv": null
+  },
+  {
+    "date": "2020-04-14",
+    "price": "49.6060",
+    "jobPostings": "76.71",
+    "gmv": null
+  },
+  {
+    "date": "2020-04-15",
+    "price": "49.7170",
+    "jobPostings": "76.3",
+    "gmv": null
+  },
+  {
+    "date": "2020-04-16",
+    "price": "52.6430",
+    "jobPostings": "75.91",
+    "gmv": null
+  },
+  {
+    "date": "2020-04-17",
+    "price": "59.0390",
+    "jobPostings": "75.46",
+    "gmv": null
+  },
+  {
+    "date": "2020-04-20",
+    "price": "62.9900",
+    "jobPostings": "73.91",
+    "gmv": null
+  },
+  {
+    "date": "2020-04-21",
+    "price": "58.5000",
+    "jobPostings": "73.57",
+    "gmv": null
+  },
+  {
+    "date": "2020-04-22",
+    "price": "62.6560",
+    "jobPostings": "73.14",
+    "gmv": null
+  },
+  {
+    "date": "2020-04-23",
+    "price": "62.0490",
+    "jobPostings": "72.82",
+    "gmv": null
+  },
+  {
+    "date": "2020-04-24",
+    "price": "64.3190",
+    "jobPostings": "72.43",
+    "gmv": null
+  },
+  {
+    "date": "2020-04-27",
+    "price": "62.8580",
+    "jobPostings": "71.33",
+    "gmv": null
+  },
+  {
+    "date": "2020-04-28",
+    "price": "63.3650",
+    "jobPostings": "70.84",
+    "gmv": null
+  },
+  {
+    "date": "2020-04-29",
+    "price": "63.9990",
+    "jobPostings": "70.35",
+    "gmv": null
+  },
+  {
+    "date": "2020-04-30",
+    "price": "63.2290",
+    "jobPostings": "69.87",
+    "gmv": null
+  },
+  {
+    "date": "2020-05-01",
+    "price": "61.3640",
+    "jobPostings": "69.42",
+    "gmv": null
+  },
+  {
+    "date": "2020-05-04",
+    "price": "65.8890",
+    "jobPostings": "68.24",
+    "gmv": null
+  },
+  {
+    "date": "2020-05-05",
+    "price": "68.6110",
+    "jobPostings": "67.96",
+    "gmv": null
+  },
+  {
+    "date": "2020-05-06",
+    "price": "73.3530",
+    "jobPostings": "67.83",
+    "gmv": null
+  },
+  {
+    "date": "2020-05-07",
+    "price": "72.2760",
+    "jobPostings": "67.65",
+    "gmv": null
+  },
+  {
+    "date": "2020-05-08",
+    "price": "70.8970",
+    "jobPostings": "67.45",
+    "gmv": null
+  },
+  {
+    "date": "2020-05-11",
+    "price": "75.0340",
+    "jobPostings": "67.1",
+    "gmv": null
+  },
+  {
+    "date": "2020-05-12",
+    "price": "74.2280",
+    "jobPostings": "66.75",
+    "gmv": null
+  },
+  {
+    "date": "2020-05-13",
+    "price": "75.4380",
+    "jobPostings": "66.1",
+    "gmv": null
+  },
+  {
+    "date": "2020-05-14",
+    "price": "75.4290",
+    "jobPostings": "65.68",
+    "gmv": null
+  },
+  {
+    "date": "2020-05-15",
+    "price": "76.7000",
+    "jobPostings": "65.49",
+    "gmv": null
+  },
+  {
+    "date": "2020-05-18",
+    "price": "73.8020",
+    "jobPostings": "64.22",
+    "gmv": null
+  },
+  {
+    "date": "2020-05-19",
+    "price": "75.3010",
+    "jobPostings": "64.01",
+    "gmv": null
+  },
+  {
+    "date": "2020-05-20",
+    "price": "77.8000",
+    "jobPostings": "64.12",
+    "gmv": null
+  },
+  {
+    "date": "2020-05-21",
+    "price": "80.2350",
+    "jobPostings": "64.2",
+    "gmv": null
+  },
+  {
+    "date": "2020-05-22",
+    "price": "82.5170",
+    "jobPostings": "64.24",
+    "gmv": null
+  },
+  {
+    "date": "2020-05-26",
+    "price": "76.7890",
+    "jobPostings": "64.62",
+    "gmv": null
+  },
+  {
+    "date": "2020-05-27",
+    "price": "75.0000",
+    "jobPostings": "64.62",
+    "gmv": null
+  },
+  {
+    "date": "2020-05-28",
+    "price": "74.4430",
+    "jobPostings": "64.45",
+    "gmv": null
+  },
+  {
+    "date": "2020-05-29",
+    "price": "75.7800",
+    "jobPostings": "64.29",
+    "gmv": null
+  },
+  {
+    "date": "2020-06-01",
+    "price": "75.8000",
+    "jobPostings": "64.39",
+    "gmv": null
+  },
+  {
+    "date": "2020-06-02",
+    "price": "77.9500",
+    "jobPostings": "64.48",
+    "gmv": null
+  },
+  {
+    "date": "2020-06-03",
+    "price": "76.2020",
+    "jobPostings": "64.67",
+    "gmv": null
+  },
+  {
+    "date": "2020-06-04",
+    "price": "73.5190",
+    "jobPostings": "64.79",
+    "gmv": null
+  },
+  {
+    "date": "2020-06-05",
+    "price": "72.7770",
+    "jobPostings": "64.93",
+    "gmv": null
+  },
+  {
+    "date": "2020-06-08",
+    "price": "73.0670",
+    "jobPostings": "65.29",
+    "gmv": null
+  },
+  {
+    "date": "2020-06-09",
+    "price": "74.1700",
+    "jobPostings": "65.25",
+    "gmv": null
+  },
+  {
+    "date": "2020-06-10",
+    "price": "74.3640",
+    "jobPostings": "65.23",
+    "gmv": null
+  },
+  {
+    "date": "2020-06-11",
+    "price": "72.5120",
+    "jobPostings": "65.28",
+    "gmv": null
+  },
+  {
+    "date": "2020-06-12",
+    "price": "74.2580",
+    "jobPostings": "65.26",
+    "gmv": null
+  },
+  {
+    "date": "2020-06-15",
+    "price": "80.5470",
+    "jobPostings": "65.0",
+    "gmv": null
+  },
+  {
+    "date": "2020-06-16",
+    "price": "80.5760",
+    "jobPostings": "65.07",
+    "gmv": null
+  },
+  {
+    "date": "2020-06-17",
+    "price": "81.7360",
+    "jobPostings": "65.06",
+    "gmv": null
+  },
+  {
+    "date": "2020-06-18",
+    "price": "86.3560",
+    "jobPostings": "65.15",
+    "gmv": null
+  },
+  {
+    "date": "2020-06-19",
+    "price": "88.1000",
+    "jobPostings": "65.17",
+    "gmv": null
+  },
+  {
+    "date": "2020-06-22",
+    "price": "90.4810",
+    "jobPostings": "65.7",
+    "gmv": null
+  },
+  {
+    "date": "2020-06-23",
+    "price": "91.1340",
+    "jobPostings": "65.74",
+    "gmv": null
+  },
+  {
+    "date": "2020-06-24",
+    "price": "89.7000",
+    "jobPostings": "65.76",
+    "gmv": null
+  },
+  {
+    "date": "2020-06-25",
+    "price": "91.6320",
+    "jobPostings": "65.8",
+    "gmv": null
+  },
+  {
+    "date": "2020-06-26",
+    "price": "91.0000",
+    "jobPostings": "65.83",
+    "gmv": null
+  },
+  {
+    "date": "2020-06-29",
+    "price": "92.2420",
+    "jobPostings": "65.68",
+    "gmv": null
+  },
+  {
+    "date": "2020-06-30",
+    "price": "94.9200",
+    "jobPostings": "65.66",
+    "gmv": null
+  },
+  {
+    "date": "2020-07-01",
+    "price": "101.6640",
+    "jobPostings": "65.67",
+    "gmv": 30.9
+  },
+  {
+    "date": "2020-07-02",
+    "price": "102.9970",
+    "jobPostings": "65.69",
+    "gmv": null
+  },
+  {
+    "date": "2020-07-06",
+    "price": "98.6770",
+    "jobPostings": "65.71",
+    "gmv": null
+  },
+  {
+    "date": "2020-07-07",
+    "price": "101.3990",
+    "jobPostings": "65.8",
+    "gmv": null
+  },
+  {
+    "date": "2020-07-08",
+    "price": "101.7300",
+    "jobPostings": "66.03",
+    "gmv": null
+  },
+  {
+    "date": "2020-07-09",
+    "price": "104.0020",
+    "jobPostings": "66.16",
+    "gmv": null
+  },
+  {
+    "date": "2020-07-10",
+    "price": "103.1860",
+    "jobPostings": "66.41",
+    "gmv": null
+  },
+  {
+    "date": "2020-07-13",
+    "price": "96.8750",
+    "jobPostings": "67.4",
+    "gmv": null
+  },
+  {
+    "date": "2020-07-14",
+    "price": "97.4410",
+    "jobPostings": "67.82",
+    "gmv": null
+  },
+  {
+    "date": "2020-07-15",
+    "price": "95.9450",
+    "jobPostings": "68.11",
+    "gmv": null
+  },
+  {
+    "date": "2020-07-16",
+    "price": "92.5490",
+    "jobPostings": "68.41",
+    "gmv": null
+  },
+  {
+    "date": "2020-07-17",
+    "price": "92.8130",
+    "jobPostings": "68.67",
+    "gmv": null
+  },
+  {
+    "date": "2020-07-20",
+    "price": "100.9390",
+    "jobPostings": "68.95",
+    "gmv": null
+  },
+  {
+    "date": "2020-07-21",
+    "price": "95.2830",
+    "jobPostings": "69.09",
+    "gmv": null
+  },
+  {
+    "date": "2020-07-22",
+    "price": "95.7330",
+    "jobPostings": "69.19",
+    "gmv": null
+  },
+  {
+    "date": "2020-07-23",
+    "price": "92.8410",
+    "jobPostings": "69.25",
+    "gmv": null
+  },
+  {
+    "date": "2020-07-24",
+    "price": "92.9810",
+    "jobPostings": "69.39",
+    "gmv": null
+  },
+  {
+    "date": "2020-07-27",
+    "price": "97.6390",
+    "jobPostings": "69.61",
+    "gmv": null
+  },
+  {
+    "date": "2020-07-28",
+    "price": "98.5000",
+    "jobPostings": "69.47",
+    "gmv": null
+  },
+  {
+    "date": "2020-07-29",
+    "price": "105.3590",
+    "jobPostings": "69.36",
+    "gmv": null
+  },
+  {
+    "date": "2020-07-30",
+    "price": "104.8840",
+    "jobPostings": "69.33",
+    "gmv": null
+  },
+  {
+    "date": "2020-07-31",
+    "price": "102.4000",
+    "jobPostings": "69.19",
+    "gmv": null
+  },
+  {
+    "date": "2020-08-03",
+    "price": "108.3050",
+    "jobPostings": "69.57",
+    "gmv": null
+  },
+  {
+    "date": "2020-08-04",
+    "price": "108.0000",
+    "jobPostings": "69.66",
+    "gmv": null
+  },
+  {
+    "date": "2020-08-05",
+    "price": "109.4650",
+    "jobPostings": "69.73",
+    "gmv": null
+  },
+  {
+    "date": "2020-08-06",
+    "price": "108.8130",
+    "jobPostings": "69.79",
+    "gmv": null
+  },
+  {
+    "date": "2020-08-07",
+    "price": "105.3120",
+    "jobPostings": "69.62",
+    "gmv": null
+  },
+  {
+    "date": "2020-08-10",
+    "price": "100.5560",
+    "jobPostings": "69.81",
+    "gmv": null
+  },
+  {
+    "date": "2020-08-11",
+    "price": "97.1990",
+    "jobPostings": "70.02",
+    "gmv": null
+  },
+  {
+    "date": "2020-08-12",
+    "price": "99.1000",
+    "jobPostings": "70.07",
+    "gmv": null
+  },
+  {
+    "date": "2020-08-13",
+    "price": "99.9900",
+    "jobPostings": "70.22",
+    "gmv": null
+  },
+  {
+    "date": "2020-08-14",
+    "price": "98.7900",
+    "jobPostings": "70.58",
+    "gmv": null
+  },
+  {
+    "date": "2020-08-17",
+    "price": "101.2960",
+    "jobPostings": "70.55",
+    "gmv": null
+  },
+  {
+    "date": "2020-08-18",
+    "price": "102.4710",
+    "jobPostings": "70.68",
+    "gmv": null
+  },
+  {
+    "date": "2020-08-19",
+    "price": "100.9110",
+    "jobPostings": "70.85",
+    "gmv": null
+  },
+  {
+    "date": "2020-08-20",
+    "price": "103.9620",
+    "jobPostings": "70.91",
+    "gmv": null
+  },
+  {
+    "date": "2020-08-21",
+    "price": "102.1120",
+    "jobPostings": "70.79",
+    "gmv": null
+  },
+  {
+    "date": "2020-08-24",
+    "price": "99.9320",
+    "jobPostings": "70.64",
+    "gmv": null
+  },
+  {
+    "date": "2020-08-25",
+    "price": "103.7190",
+    "jobPostings": "70.39",
+    "gmv": null
+  },
+  {
+    "date": "2020-08-26",
+    "price": "108.9330",
+    "jobPostings": "70.29",
+    "gmv": null
+  },
+  {
+    "date": "2020-08-27",
+    "price": "105.3500",
+    "jobPostings": "70.22",
+    "gmv": null
+  },
+  {
+    "date": "2020-08-28",
+    "price": "104.2060",
+    "jobPostings": "70.36",
+    "gmv": null
+  },
+  {
+    "date": "2020-08-31",
+    "price": "106.6420",
+    "jobPostings": "70.61",
+    "gmv": null
+  },
+  {
+    "date": "2020-09-01",
+    "price": "113.4320",
+    "jobPostings": "70.71",
+    "gmv": null
+  },
+  {
+    "date": "2020-09-02",
+    "price": "107.4590",
+    "jobPostings": "70.9",
+    "gmv": null
+  },
+  {
+    "date": "2020-09-03",
+    "price": "101.5700",
+    "jobPostings": "71.04",
+    "gmv": null
+  },
+  {
+    "date": "2020-09-04",
+    "price": "97.3020",
+    "jobPostings": "71.27",
+    "gmv": null
+  },
+  {
+    "date": "2020-09-08",
+    "price": "91.7400",
+    "jobPostings": "72.17",
+    "gmv": null
+  },
+  {
+    "date": "2020-09-09",
+    "price": "94.9310",
+    "jobPostings": "72.22",
+    "gmv": null
+  },
+  {
+    "date": "2020-09-10",
+    "price": "93.4170",
+    "jobPostings": "72.36",
+    "gmv": null
+  },
+  {
+    "date": "2020-09-11",
+    "price": "91.4500",
+    "jobPostings": "72.45",
+    "gmv": null
+  },
+  {
+    "date": "2020-09-14",
+    "price": "93.1830",
+    "jobPostings": "72.6",
+    "gmv": null
+  },
+  {
+    "date": "2020-09-15",
+    "price": "92.9390",
+    "jobPostings": "72.66",
+    "gmv": null
+  },
+  {
+    "date": "2020-09-16",
+    "price": "88.5180",
+    "jobPostings": "72.81",
+    "gmv": null
+  },
+  {
+    "date": "2020-09-17",
+    "price": "87.0760",
+    "jobPostings": "72.98",
+    "gmv": null
+  },
+  {
+    "date": "2020-09-18",
+    "price": "90.1340",
+    "jobPostings": "73.03",
+    "gmv": null
+  },
+  {
+    "date": "2020-09-21",
+    "price": "92.7890",
+    "jobPostings": "73.25",
+    "gmv": null
+  },
+  {
+    "date": "2020-09-22",
+    "price": "95.4250",
+    "jobPostings": "73.3",
+    "gmv": null
+  },
+  {
+    "date": "2020-09-23",
+    "price": "91.8810",
+    "jobPostings": "73.26",
+    "gmv": null
+  },
+  {
+    "date": "2020-09-24",
+    "price": "90.8610",
+    "jobPostings": "73.21",
+    "gmv": null
+  },
+  {
+    "date": "2020-09-25",
+    "price": "96.0920",
+    "jobPostings": "73.32",
+    "gmv": null
+  },
+  {
+    "date": "2020-09-28",
+    "price": "96.6500",
+    "jobPostings": "73.69",
+    "gmv": null
+  },
+  {
+    "date": "2020-09-29",
+    "price": "102.5700",
+    "jobPostings": "73.91",
+    "gmv": null
+  },
+  {
+    "date": "2020-09-30",
+    "price": "102.2970",
+    "jobPostings": "74.26",
+    "gmv": null
+  },
+  {
+    "date": "2020-10-01",
+    "price": "105.4430",
+    "jobPostings": "74.51",
+    "gmv": 41.1
+  },
+  {
+    "date": "2020-10-02",
+    "price": "102.8990",
+    "jobPostings": "74.74",
+    "gmv": null
+  },
+  {
+    "date": "2020-10-05",
+    "price": "106.5530",
+    "jobPostings": "75.55",
+    "gmv": null
+  },
+  {
+    "date": "2020-10-06",
+    "price": "104.1250",
+    "jobPostings": "75.73",
+    "gmv": null
+  },
+  {
+    "date": "2020-10-07",
+    "price": "107.3430",
+    "jobPostings": "75.82",
+    "gmv": null
+  },
+  {
+    "date": "2020-10-08",
+    "price": "106.9210",
+    "jobPostings": "76.01",
+    "gmv": null
+  },
+  {
+    "date": "2020-10-09",
+    "price": "109.6000",
+    "jobPostings": "76.12",
+    "gmv": null
+  },
+  {
+    "date": "2020-10-12",
+    "price": "109.0000",
+    "jobPostings": "76.17",
+    "gmv": null
+  },
+  {
+    "date": "2020-10-13",
+    "price": "110.6590",
+    "jobPostings": "76.25",
+    "gmv": null
+  },
+  {
+    "date": "2020-10-14",
+    "price": "108.2120",
+    "jobPostings": "76.36",
+    "gmv": null
+  },
+  {
+    "date": "2020-10-15",
+    "price": "107.8300",
+    "jobPostings": "76.58",
+    "gmv": null
+  },
+  {
+    "date": "2020-10-16",
+    "price": "106.7210",
+    "jobPostings": "76.58",
+    "gmv": null
+  },
+  {
+    "date": "2020-10-19",
+    "price": "106.9000",
+    "jobPostings": "77.21",
+    "gmv": null
+  },
+  {
+    "date": "2020-10-20",
+    "price": "105.6490",
+    "jobPostings": "77.52",
+    "gmv": null
+  },
+  {
+    "date": "2020-10-21",
+    "price": "102.2010",
+    "jobPostings": "77.84",
+    "gmv": null
+  },
+  {
+    "date": "2020-10-22",
+    "price": "100.7070",
+    "jobPostings": "78.04",
+    "gmv": null
+  },
+  {
+    "date": "2020-10-23",
+    "price": "102.6220",
+    "jobPostings": "78.38",
+    "gmv": null
+  },
+  {
+    "date": "2020-10-26",
+    "price": "103.8050",
+    "jobPostings": "79.0",
+    "gmv": null
+  },
+  {
+    "date": "2020-10-27",
+    "price": "108.2890",
+    "jobPostings": "79.12",
+    "gmv": null
+  },
+  {
+    "date": "2020-10-28",
+    "price": "102.6710",
+    "jobPostings": "79.32",
+    "gmv": null
+  },
+  {
+    "date": "2020-10-29",
+    "price": "97.7000",
+    "jobPostings": "79.44",
+    "gmv": null
+  },
+  {
+    "date": "2020-10-30",
+    "price": "92.5430",
+    "jobPostings": "79.51",
+    "gmv": null
+  },
+  {
+    "date": "2020-11-02",
+    "price": "91.4990",
+    "jobPostings": "80.45",
+    "gmv": null
+  },
+  {
+    "date": "2020-11-03",
+    "price": "94.1720",
+    "jobPostings": "80.86",
+    "gmv": null
+  },
+  {
+    "date": "2020-11-04",
+    "price": "99.6000",
+    "jobPostings": "81.23",
+    "gmv": null
+  },
+  {
+    "date": "2020-11-05",
+    "price": "103.6500",
+    "jobPostings": "81.66",
+    "gmv": null
+  },
+  {
+    "date": "2020-11-06",
+    "price": "104.5000",
+    "jobPostings": "82.18",
+    "gmv": null
+  },
+  {
+    "date": "2020-11-09",
+    "price": "90.2600",
+    "jobPostings": "83.01",
+    "gmv": null
+  },
+  {
+    "date": "2020-11-10",
+    "price": "88.5760",
+    "jobPostings": "83.29",
+    "gmv": null
+  },
+  {
+    "date": "2020-11-11",
+    "price": "94.7180",
+    "jobPostings": "83.49",
+    "gmv": null
+  },
+  {
+    "date": "2020-11-12",
+    "price": "92.5800",
+    "jobPostings": "83.7",
+    "gmv": null
+  },
+  {
+    "date": "2020-11-13",
+    "price": "91.8300",
+    "jobPostings": "83.94",
+    "gmv": null
+  },
+  {
+    "date": "2020-11-16",
+    "price": "91.9220",
+    "jobPostings": "84.98",
+    "gmv": null
+  },
+  {
+    "date": "2020-11-17",
+    "price": "91.4020",
+    "jobPostings": "85.29",
+    "gmv": null
+  },
+  {
+    "date": "2020-11-18",
+    "price": "93.1430",
+    "jobPostings": "85.73",
+    "gmv": null
+  },
+  {
+    "date": "2020-11-19",
+    "price": "96.6770",
+    "jobPostings": "86.11",
+    "gmv": null
+  },
+  {
+    "date": "2020-11-20",
+    "price": "98.8510",
+    "jobPostings": "86.44",
+    "gmv": null
+  },
+  {
+    "date": "2020-11-23",
+    "price": "98.0010",
+    "jobPostings": "87.13",
+    "gmv": null
+  },
+  {
+    "date": "2020-11-24",
+    "price": "97.1240",
+    "jobPostings": "87.29",
+    "gmv": null
+  },
+  {
+    "date": "2020-11-25",
+    "price": "101.9520",
+    "jobPostings": "87.38",
+    "gmv": null
+  },
+  {
+    "date": "2020-11-27",
+    "price": "103.4390",
+    "jobPostings": "87.6",
+    "gmv": null
+  },
+  {
+    "date": "2020-11-30",
+    "price": "109.0380",
+    "jobPostings": "87.88",
+    "gmv": null
+  },
+  {
+    "date": "2020-12-01",
+    "price": "106.9060",
+    "jobPostings": "87.8",
+    "gmv": null
+  },
+  {
+    "date": "2020-12-02",
+    "price": "107.9440",
+    "jobPostings": "87.87",
+    "gmv": null
+  },
+  {
+    "date": "2020-12-03",
+    "price": "106.2680",
+    "jobPostings": "87.97",
+    "gmv": null
+  },
+  {
+    "date": "2020-12-04",
+    "price": "105.3890",
+    "jobPostings": "88.21",
+    "gmv": null
+  },
+  {
+    "date": "2020-12-07",
+    "price": "108.4400",
+    "jobPostings": "88.74",
+    "gmv": null
+  },
+  {
+    "date": "2020-12-08",
+    "price": "110.2090",
+    "jobPostings": "89.07",
+    "gmv": null
+  },
+  {
+    "date": "2020-12-09",
+    "price": "103.8190",
+    "jobPostings": "89.28",
+    "gmv": null
+  },
+  {
+    "date": "2020-12-10",
+    "price": "106.7370",
+    "jobPostings": "89.35",
+    "gmv": null
+  },
+  {
+    "date": "2020-12-11",
+    "price": "105.7870",
+    "jobPostings": "89.5",
+    "gmv": null
+  },
+  {
+    "date": "2020-12-14",
+    "price": "105.9170",
+    "jobPostings": "90.22",
+    "gmv": null
+  },
+  {
+    "date": "2020-12-15",
+    "price": "107.4100",
+    "jobPostings": "90.51",
+    "gmv": null
+  },
+  {
+    "date": "2020-12-16",
+    "price": "115.7310",
+    "jobPostings": "90.73",
+    "gmv": null
+  },
+  {
+    "date": "2020-12-17",
+    "price": "118.0000",
+    "jobPostings": "90.97",
+    "gmv": null
+  },
+  {
+    "date": "2020-12-18",
+    "price": "117.0960",
+    "jobPostings": "91.09",
+    "gmv": null
+  },
+  {
+    "date": "2020-12-21",
+    "price": "119.7260",
+    "jobPostings": "91.39",
+    "gmv": null
+  },
+  {
+    "date": "2020-12-22",
+    "price": "127.7080",
+    "jobPostings": "91.5",
+    "gmv": null
+  },
+  {
+    "date": "2020-12-23",
+    "price": "119.7960",
+    "jobPostings": "91.57",
+    "gmv": null
+  },
+  {
+    "date": "2020-12-24",
+    "price": "122.5520",
+    "jobPostings": "91.7",
+    "gmv": null
+  },
+  {
+    "date": "2020-12-28",
+    "price": "114.7060",
+    "jobPostings": "92.08",
+    "gmv": null
+  },
+  {
+    "date": "2020-12-29",
+    "price": "117.1610",
+    "jobPostings": "92.17",
+    "gmv": null
+  },
+  {
+    "date": "2020-12-30",
+    "price": "116.3000",
+    "jobPostings": "92.25",
+    "gmv": null
+  },
+  {
+    "date": "2020-12-31",
+    "price": "113.1950",
+    "jobPostings": "92.33",
+    "gmv": null
+  },
+  {
+    "date": "2021-01-04",
+    "price": "109.2400",
+    "jobPostings": "92.26",
+    "gmv": null
+  },
+  {
+    "date": "2021-01-05",
+    "price": "111.8740",
+    "jobPostings": "92.11",
+    "gmv": null
+  },
+  {
+    "date": "2021-01-06",
+    "price": "108.7310",
+    "jobPostings": "92.11",
+    "gmv": null
+  },
+  {
+    "date": "2021-01-07",
+    "price": "115.9530",
+    "jobPostings": "92.19",
+    "gmv": null
+  },
+  {
+    "date": "2021-01-08",
+    "price": "118.8920",
+    "jobPostings": "92.36",
+    "gmv": null
+  },
+  {
+    "date": "2021-01-11",
+    "price": "117.7640",
+    "jobPostings": "92.88",
+    "gmv": null
+  },
+  {
+    "date": "2021-01-12",
+    "price": "118.8240",
+    "jobPostings": "93.26",
+    "gmv": null
+  },
+  {
+    "date": "2021-01-13",
+    "price": "119.9820",
+    "jobPostings": "93.57",
+    "gmv": null
+  },
+  {
+    "date": "2021-01-14",
+    "price": "117.8860",
+    "jobPostings": "93.88",
+    "gmv": null
+  },
+  {
+    "date": "2021-01-15",
+    "price": "117.0470",
+    "jobPostings": "94.27",
+    "gmv": null
+  },
+  {
+    "date": "2021-01-19",
+    "price": "117.3970",
+    "jobPostings": "95.75",
+    "gmv": null
+  },
+  {
+    "date": "2021-01-20",
+    "price": "120.0980",
+    "jobPostings": "95.93",
+    "gmv": null
+  },
+  {
+    "date": "2021-01-21",
+    "price": "119.8150",
+    "jobPostings": "96.06",
+    "gmv": null
+  },
+  {
+    "date": "2021-01-22",
+    "price": "119.6700",
+    "jobPostings": "96.14",
+    "gmv": null
+  },
+  {
+    "date": "2021-01-25",
+    "price": "120.5920",
+    "jobPostings": "96.19",
+    "gmv": null
+  },
+  {
+    "date": "2021-01-26",
+    "price": "115.9770",
+    "jobPostings": "96.42",
+    "gmv": null
+  },
+  {
+    "date": "2021-01-27",
+    "price": "109.2080",
+    "jobPostings": "96.72",
+    "gmv": null
+  },
+  {
+    "date": "2021-01-28",
+    "price": "112.0570",
+    "jobPostings": "97.1",
+    "gmv": null
+  },
+  {
+    "date": "2021-01-29",
+    "price": "109.8590",
+    "jobPostings": "97.5",
+    "gmv": null
+  },
+  {
+    "date": "2021-02-01",
+    "price": "114.4930",
+    "jobPostings": "98.74",
+    "gmv": null
+  },
+  {
+    "date": "2021-02-02",
+    "price": "123.5350",
+    "jobPostings": "99.1",
+    "gmv": null
+  },
+  {
+    "date": "2021-02-03",
+    "price": "122.4160",
+    "jobPostings": "99.36",
+    "gmv": null
+  },
+  {
+    "date": "2021-02-04",
+    "price": "126.0870",
+    "jobPostings": "99.52",
+    "gmv": null
+  },
+  {
+    "date": "2021-02-05",
+    "price": "128.7750",
+    "jobPostings": "99.79",
+    "gmv": null
+  },
+  {
+    "date": "2021-02-08",
+    "price": "134.5090",
+    "jobPostings": "100.6",
+    "gmv": null
+  },
+  {
+    "date": "2021-02-09",
+    "price": "143.2990",
+    "jobPostings": "100.8",
+    "gmv": null
+  },
+  {
+    "date": "2021-02-10",
+    "price": "146.2420",
+    "jobPostings": "101.08",
+    "gmv": null
+  },
+  {
+    "date": "2021-02-11",
+    "price": "146.3310",
+    "jobPostings": "101.45",
+    "gmv": null
+  },
+  {
+    "date": "2021-02-12",
+    "price": "145.5490",
+    "jobPostings": "101.75",
+    "gmv": null
+  },
+  {
+    "date": "2021-02-16",
+    "price": "147.4000",
+    "jobPostings": "103.14",
+    "gmv": null
+  },
+  {
+    "date": "2021-02-17",
+    "price": "142.5000",
+    "jobPostings": "103.45",
+    "gmv": null
+  },
+  {
+    "date": "2021-02-18",
+    "price": "138.4570",
+    "jobPostings": "103.69",
+    "gmv": null
+  },
+  {
+    "date": "2021-02-19",
+    "price": "143.5010",
+    "jobPostings": "103.93",
+    "gmv": null
+  },
+  {
+    "date": "2021-02-22",
+    "price": "138.1300",
+    "jobPostings": "104.48",
+    "gmv": null
+  },
+  {
+    "date": "2021-02-23",
+    "price": "130.0240",
+    "jobPostings": "104.81",
+    "gmv": null
+  },
+  {
+    "date": "2021-02-24",
+    "price": "130.1150",
+    "jobPostings": "105.24",
+    "gmv": null
+  },
+  {
+    "date": "2021-02-25",
+    "price": "124.5100",
+    "jobPostings": "105.66",
+    "gmv": null
+  },
+  {
+    "date": "2021-02-26",
+    "price": "128.0970",
+    "jobPostings": "106.06",
+    "gmv": null
+  },
+  {
+    "date": "2021-03-01",
+    "price": "130.9940",
+    "jobPostings": "107.2",
+    "gmv": null
+  },
+  {
+    "date": "2021-03-02",
+    "price": "130.9060",
+    "jobPostings": "107.47",
+    "gmv": null
+  },
+  {
+    "date": "2021-03-03",
+    "price": "122.0300",
+    "jobPostings": "107.66",
+    "gmv": null
+  },
+  {
+    "date": "2021-03-04",
+    "price": "114.9440",
+    "jobPostings": "107.85",
+    "gmv": null
+  },
+  {
+    "date": "2021-03-05",
+    "price": "113.1010",
+    "jobPostings": "108.03",
+    "gmv": null
+  },
+  {
+    "date": "2021-03-08",
+    "price": "107.2430",
+    "jobPostings": "108.49",
+    "gmv": null
+  },
+  {
+    "date": "2021-03-09",
+    "price": "113.0740",
+    "jobPostings": "108.83",
+    "gmv": null
+  },
+  {
+    "date": "2021-03-10",
+    "price": "108.7900",
+    "jobPostings": "109.15",
+    "gmv": null
+  },
+  {
+    "date": "2021-03-11",
+    "price": "114.2240",
+    "jobPostings": "109.45",
+    "gmv": null
+  },
+  {
+    "date": "2021-03-12",
+    "price": "114.0630",
+    "jobPostings": "109.77",
+    "gmv": null
+  },
+  {
+    "date": "2021-03-15",
+    "price": "115.9000",
+    "jobPostings": "111.11",
+    "gmv": null
+  },
+  {
+    "date": "2021-03-16",
+    "price": "114.3170",
+    "jobPostings": "111.44",
+    "gmv": null
+  },
+  {
+    "date": "2021-03-17",
+    "price": "116.9170",
+    "jobPostings": "111.77",
+    "gmv": null
+  },
+  {
+    "date": "2021-03-18",
+    "price": "111.7100",
+    "jobPostings": "112.21",
+    "gmv": null
+  },
+  {
+    "date": "2021-03-19",
+    "price": "112.0950",
+    "jobPostings": "112.68",
+    "gmv": null
+  },
+  {
+    "date": "2021-03-22",
+    "price": "116.0000",
+    "jobPostings": "114.05",
+    "gmv": null
+  },
+  {
+    "date": "2021-03-23",
+    "price": "116.2000",
+    "jobPostings": "114.49",
+    "gmv": null
+  },
+  {
+    "date": "2021-03-24",
+    "price": "110.6010",
+    "jobPostings": "114.97",
+    "gmv": null
+  },
+  {
+    "date": "2021-03-25",
+    "price": "106.1680",
+    "jobPostings": "115.34",
+    "gmv": null
+  },
+  {
+    "date": "2021-03-26",
+    "price": "106.5210",
+    "jobPostings": "115.72",
+    "gmv": null
+  },
+  {
+    "date": "2021-03-29",
+    "price": "103.9910",
+    "jobPostings": "116.47",
+    "gmv": null
+  },
+  {
+    "date": "2021-03-30",
+    "price": "104.8680",
+    "jobPostings": "116.66",
+    "gmv": null
+  },
+  {
+    "date": "2021-03-31",
+    "price": "110.6500",
+    "jobPostings": "116.77",
+    "gmv": null
+  },
+  {
+    "date": "2021-04-01",
+    "price": "115.5410",
+    "jobPostings": "116.91",
+    "gmv": 42.2
+  },
+  {
+    "date": "2021-04-05",
+    "price": "114.5950",
+    "jobPostings": "117.78",
+    "gmv": null
+  },
+  {
+    "date": "2021-04-06",
+    "price": "115.6140",
+    "jobPostings": "118.07",
+    "gmv": null
+  },
+  {
+    "date": "2021-04-07",
+    "price": "115.9470",
+    "jobPostings": "118.36",
+    "gmv": null
+  },
+  {
+    "date": "2021-04-08",
+    "price": "122.2690",
+    "jobPostings": "118.62",
+    "gmv": null
+  },
+  {
+    "date": "2021-04-09",
+    "price": "122.7300",
+    "jobPostings": "118.93",
+    "gmv": null
+  },
+  {
+    "date": "2021-04-12",
+    "price": "120.2000",
+    "jobPostings": "119.02",
+    "gmv": null
+  },
+  {
+    "date": "2021-04-13",
+    "price": "124.1540",
+    "jobPostings": "119.15",
+    "gmv": null
+  },
+  {
+    "date": "2021-04-14",
+    "price": "117.9860",
+    "jobPostings": "119.35",
+    "gmv": null
+  },
+  {
+    "date": "2021-04-15",
+    "price": "120.8340",
+    "jobPostings": "119.55",
+    "gmv": null
+  },
+  {
+    "date": "2021-04-16",
+    "price": "120.7800",
+    "jobPostings": "119.71",
+    "gmv": null
+  },
+  {
+    "date": "2021-04-19",
+    "price": "114.5780",
+    "jobPostings": "121.16",
+    "gmv": null
+  },
+  {
+    "date": "2021-04-20",
+    "price": "112.3010",
+    "jobPostings": "121.54",
+    "gmv": null
+  },
+  {
+    "date": "2021-04-21",
+    "price": "114.2060",
+    "jobPostings": "121.93",
+    "gmv": null
+  },
+  {
+    "date": "2021-04-22",
+    "price": "109.6640",
+    "jobPostings": "122.35",
+    "gmv": null
+  },
+  {
+    "date": "2021-04-23",
+    "price": "109.9030",
+    "jobPostings": "122.77",
+    "gmv": null
+  },
+  {
+    "date": "2021-04-26",
+    "price": "116.6000",
+    "jobPostings": "123.6",
+    "gmv": null
+  },
+  {
+    "date": "2021-04-27",
+    "price": "115.6890",
+    "jobPostings": "123.95",
+    "gmv": null
+  },
+  {
+    "date": "2021-04-28",
+    "price": "128.8800",
+    "jobPostings": "124.24",
+    "gmv": null
+  },
+  {
+    "date": "2021-04-29",
+    "price": "123.3070",
+    "jobPostings": "124.74",
+    "gmv": null
+  },
+  {
+    "date": "2021-04-30",
+    "price": "118.2510",
+    "jobPostings": "125.19",
+    "gmv": null
+  },
+  {
+    "date": "2021-05-03",
+    "price": "112.2010",
+    "jobPostings": "126.69",
+    "gmv": null
+  },
+  {
+    "date": "2021-05-04",
+    "price": "114.2940",
+    "jobPostings": "127.2",
+    "gmv": null
+  },
+  {
+    "date": "2021-05-05",
+    "price": "112.0350",
+    "jobPostings": "127.8",
+    "gmv": null
+  },
+  {
+    "date": "2021-05-06",
+    "price": "109.0930",
+    "jobPostings": "128.25",
+    "gmv": null
+  },
+  {
+    "date": "2021-05-07",
+    "price": "110.8600",
+    "jobPostings": "128.67",
+    "gmv": null
+  },
+  {
+    "date": "2021-05-10",
+    "price": "108.0240",
+    "jobPostings": "129.85",
+    "gmv": null
+  },
+  {
+    "date": "2021-05-11",
+    "price": "111.0200",
+    "jobPostings": "130.22",
+    "gmv": null
+  },
+  {
+    "date": "2021-05-12",
+    "price": "108.3900",
+    "jobPostings": "130.62",
+    "gmv": null
+  },
+  {
+    "date": "2021-05-13",
+    "price": "104.7770",
+    "jobPostings": "131.01",
+    "gmv": null
+  },
+  {
+    "date": "2021-05-14",
+    "price": "108.5010",
+    "jobPostings": "131.44",
+    "gmv": null
+  },
+  {
+    "date": "2021-05-17",
+    "price": "109.6390",
+    "jobPostings": "132.63",
+    "gmv": null
+  },
+  {
+    "date": "2021-05-18",
+    "price": "113.3360",
+    "jobPostings": "132.96",
+    "gmv": null
+  },
+  {
+    "date": "2021-05-19",
+    "price": "117.0390",
+    "jobPostings": "133.13",
+    "gmv": null
+  },
+  {
+    "date": "2021-05-20",
+    "price": "121.4900",
+    "jobPostings": "133.31",
+    "gmv": null
+  },
+  {
+    "date": "2021-05-21",
+    "price": "122.4120",
+    "jobPostings": "133.45",
+    "gmv": null
+  },
+  {
+    "date": "2021-05-24",
+    "price": "126.1430",
+    "jobPostings": "133.54",
+    "gmv": null
+  },
+  {
+    "date": "2021-05-25",
+    "price": "124.0000",
+    "jobPostings": "133.54",
+    "gmv": null
+  },
+  {
+    "date": "2021-05-26",
+    "price": "123.8830",
+    "jobPostings": "133.54",
+    "gmv": null
+  },
+  {
+    "date": "2021-05-27",
+    "price": "124.0840",
+    "jobPostings": "133.56",
+    "gmv": null
+  },
+  {
+    "date": "2021-05-28",
+    "price": "124.2870",
+    "jobPostings": "133.57",
+    "gmv": null
+  },
+  {
+    "date": "2021-06-01",
+    "price": "125.1560",
+    "jobPostings": "134.25",
+    "gmv": null
+  },
+  {
+    "date": "2021-06-02",
+    "price": "122.9590",
+    "jobPostings": "134.59",
+    "gmv": null
+  },
+  {
+    "date": "2021-06-03",
+    "price": "119.9000",
+    "jobPostings": "134.81",
+    "gmv": null
+  },
+  {
+    "date": "2021-06-04",
+    "price": "120.5740",
+    "jobPostings": "135.21",
+    "gmv": null
+  },
+  {
+    "date": "2021-06-07",
+    "price": "123.0550",
+    "jobPostings": "136.23",
+    "gmv": null
+  },
+  {
+    "date": "2021-06-08",
+    "price": "123.0740",
+    "jobPostings": "136.56",
+    "gmv": null
+  },
+  {
+    "date": "2021-06-09",
+    "price": "121.5560",
+    "jobPostings": "136.79",
+    "gmv": null
+  },
+  {
+    "date": "2021-06-10",
+    "price": "123.1100",
+    "jobPostings": "137.08",
+    "gmv": null
+  },
+  {
+    "date": "2021-06-11",
+    "price": "124.7020",
+    "jobPostings": "137.29",
+    "gmv": null
+  },
+  {
+    "date": "2021-06-14",
+    "price": "130.6640",
+    "jobPostings": "137.97",
+    "gmv": null
+  },
+  {
+    "date": "2021-06-15",
+    "price": "132.1080",
+    "jobPostings": "138.53",
+    "gmv": null
+  },
+  {
+    "date": "2021-06-16",
+    "price": "136.6300",
+    "jobPostings": "138.85",
+    "gmv": null
+  },
+  {
+    "date": "2021-06-17",
+    "price": "144.9270",
+    "jobPostings": "139.13",
+    "gmv": null
+  },
+  {
+    "date": "2021-06-18",
+    "price": "146.6870",
+    "jobPostings": "139.13",
+    "gmv": null
+  },
+  {
+    "date": "2021-06-21",
+    "price": "148.0230",
+    "jobPostings": "139.4",
+    "gmv": null
+  },
+  {
+    "date": "2021-06-22",
+    "price": "150.8440",
+    "jobPostings": "139.31",
+    "gmv": null
+  },
+  {
+    "date": "2021-06-23",
+    "price": "150.0530",
+    "jobPostings": "139.42",
+    "gmv": null
+  },
+  {
+    "date": "2021-06-24",
+    "price": "147.8990",
+    "jobPostings": "139.54",
+    "gmv": null
+  },
+  {
+    "date": "2021-06-25",
+    "price": "147.3540",
+    "jobPostings": "139.92",
+    "gmv": null
+  },
+  {
+    "date": "2021-06-28",
+    "price": "149.4990",
+    "jobPostings": "140.85",
+    "gmv": null
+  },
+  {
+    "date": "2021-06-29",
+    "price": "148.2990",
+    "jobPostings": "141.24",
+    "gmv": null
+  },
+  {
+    "date": "2021-06-30",
+    "price": "146.0980",
+    "jobPostings": "141.57",
+    "gmv": null
+  },
+  {
+    "date": "2021-07-01",
+    "price": "145.8000",
+    "jobPostings": "141.89",
+    "gmv": 41.8
+  },
+  {
+    "date": "2021-07-02",
+    "price": "146.4750",
+    "jobPostings": "142.15",
+    "gmv": null
+  },
+  {
+    "date": "2021-07-06",
+    "price": "153.8030",
+    "jobPostings": "143.38",
+    "gmv": null
+  },
+  {
+    "date": "2021-07-07",
+    "price": "152.0220",
+    "jobPostings": "143.67",
+    "gmv": null
+  },
+  {
+    "date": "2021-07-08",
+    "price": "146.3340",
+    "jobPostings": "143.93",
+    "gmv": null
+  },
+  {
+    "date": "2021-07-09",
+    "price": "149.4990",
+    "jobPostings": "144.26",
+    "gmv": null
+  },
+  {
+    "date": "2021-07-12",
+    "price": "149.4740",
+    "jobPostings": "144.68",
+    "gmv": null
+  },
+  {
+    "date": "2021-07-13",
+    "price": "151.6470",
+    "jobPostings": "145.06",
+    "gmv": null
+  },
+  {
+    "date": "2021-07-14",
+    "price": "146.3000",
+    "jobPostings": "145.44",
+    "gmv": null
+  },
+  {
+    "date": "2021-07-15",
+    "price": "144.1500",
+    "jobPostings": "145.89",
+    "gmv": null
+  },
+  {
+    "date": "2021-07-16",
+    "price": "144.2630",
+    "jobPostings": "146.21",
+    "gmv": null
+  },
+  {
+    "date": "2021-07-19",
+    "price": "147.2010",
+    "jobPostings": "147.82",
+    "gmv": null
+  },
+  {
+    "date": "2021-07-20",
+    "price": "152.4780",
+    "jobPostings": "148.15",
+    "gmv": null
+  },
+  {
+    "date": "2021-07-21",
+    "price": "156.9360",
+    "jobPostings": "148.5",
+    "gmv": null
+  },
+  {
+    "date": "2021-07-22",
+    "price": "159.4090",
+    "jobPostings": "148.76",
+    "gmv": null
+  },
+  {
+    "date": "2021-07-23",
+    "price": "164.3320",
+    "jobPostings": "149.16",
+    "gmv": null
+  },
+  {
+    "date": "2021-07-26",
+    "price": "158.2280",
+    "jobPostings": "150.31",
+    "gmv": null
+  },
+  {
+    "date": "2021-07-27",
+    "price": "155.5100",
+    "jobPostings": "150.41",
+    "gmv": null
+  },
+  {
+    "date": "2021-07-28",
+    "price": "153.8000",
+    "jobPostings": "150.56",
+    "gmv": null
+  },
+  {
+    "date": "2021-07-29",
+    "price": "152.5000",
+    "jobPostings": "150.78",
+    "gmv": null
+  },
+  {
+    "date": "2021-07-30",
+    "price": "149.9930",
+    "jobPostings": "150.92",
+    "gmv": null
+  },
+  {
+    "date": "2021-08-02",
+    "price": "153.8670",
+    "jobPostings": "151.28",
+    "gmv": null
+  },
+  {
+    "date": "2021-08-03",
+    "price": "152.2560",
+    "jobPostings": "151.49",
+    "gmv": null
+  },
+  {
+    "date": "2021-08-04",
+    "price": "155.5520",
+    "jobPostings": "151.7",
+    "gmv": null
+  },
+  {
+    "date": "2021-08-05",
+    "price": "154.5550",
+    "jobPostings": "151.96",
+    "gmv": null
+  },
+  {
+    "date": "2021-08-06",
+    "price": "152.5060",
+    "jobPostings": "152.28",
+    "gmv": null
+  },
+  {
+    "date": "2021-08-09",
+    "price": "154.9990",
+    "jobPostings": "152.31",
+    "gmv": null
+  },
+  {
+    "date": "2021-08-10",
+    "price": "152.5940",
+    "jobPostings": "152.88",
+    "gmv": null
+  },
+  {
+    "date": "2021-08-11",
+    "price": "148.5230",
+    "jobPostings": "153.43",
+    "gmv": null
+  },
+  {
+    "date": "2021-08-12",
+    "price": "150.3200",
+    "jobPostings": "153.96",
+    "gmv": null
+  },
+  {
+    "date": "2021-08-13",
+    "price": "149.8000",
+    "jobPostings": "154.64",
+    "gmv": null
+  },
+  {
+    "date": "2021-08-16",
+    "price": "148.9000",
+    "jobPostings": "157.41",
+    "gmv": null
+  },
+  {
+    "date": "2021-08-17",
+    "price": "148.1870",
+    "jobPostings": "158.07",
+    "gmv": null
+  },
+  {
+    "date": "2021-08-18",
+    "price": "148.9180",
+    "jobPostings": "158.31",
+    "gmv": null
+  },
+  {
+    "date": "2021-08-19",
+    "price": "146.6110",
+    "jobPostings": "158.86",
+    "gmv": null
+  },
+  {
+    "date": "2021-08-20",
+    "price": "145.0700",
+    "jobPostings": "159.36",
+    "gmv": null
+  },
+  {
+    "date": "2021-08-23",
+    "price": "148.1410",
+    "jobPostings": "162.8",
+    "gmv": null
+  },
+  {
+    "date": "2021-08-24",
+    "price": "153.8510",
+    "jobPostings": "163.71",
+    "gmv": null
+  },
+  {
+    "date": "2021-08-25",
+    "price": "155.2240",
+    "jobPostings": "165.18",
+    "gmv": null
+  },
+  {
+    "date": "2021-08-26",
+    "price": "151.5580",
+    "jobPostings": "166.38",
+    "gmv": null
+  },
+  {
+    "date": "2021-08-27",
+    "price": "153.1420",
+    "jobPostings": "167.32",
+    "gmv": null
+  },
+  {
+    "date": "2021-08-30",
+    "price": "154.9000",
+    "jobPostings": "168.3",
+    "gmv": null
+  },
+  {
+    "date": "2021-08-31",
+    "price": "152.4780",
+    "jobPostings": "168.49",
+    "gmv": null
+  },
+  {
+    "date": "2021-09-01",
+    "price": "153.9030",
+    "jobPostings": "168.48",
+    "gmv": null
+  },
+  {
+    "date": "2021-09-02",
+    "price": "154.2600",
+    "jobPostings": "168.54",
+    "gmv": null
+  },
+  {
+    "date": "2021-09-03",
+    "price": "155.4250",
+    "jobPostings": "168.83",
+    "gmv": null
+  },
+  {
+    "date": "2021-09-07",
+    "price": "153.6700",
+    "jobPostings": "170.23",
+    "gmv": null
+  },
+  {
+    "date": "2021-09-08",
+    "price": "147.7810",
+    "jobPostings": "170.8",
+    "gmv": null
+  },
+  {
+    "date": "2021-09-09",
+    "price": "150.4080",
+    "jobPostings": "171.14",
+    "gmv": null
+  },
+  {
+    "date": "2021-09-10",
+    "price": "148.4100",
+    "jobPostings": "171.37",
+    "gmv": null
+  },
+  {
+    "date": "2021-09-13",
+    "price": "147.6870",
+    "jobPostings": "172.15",
+    "gmv": null
+  },
+  {
+    "date": "2021-09-14",
+    "price": "145.1280",
+    "jobPostings": "172.31",
+    "gmv": null
+  },
+  {
+    "date": "2021-09-15",
+    "price": "147.4940",
+    "jobPostings": "172.53",
+    "gmv": null
+  },
+  {
+    "date": "2021-09-16",
+    "price": "147.5970",
+    "jobPostings": "172.74",
+    "gmv": null
+  },
+  {
+    "date": "2021-09-17",
+    "price": "148.6290",
+    "jobPostings": "173.02",
+    "gmv": null
+  },
+  {
+    "date": "2021-09-20",
+    "price": "143.4530",
+    "jobPostings": "173.78",
+    "gmv": null
+  },
+  {
+    "date": "2021-09-21",
+    "price": "143.7150",
+    "jobPostings": "173.98",
+    "gmv": null
+  },
+  {
+    "date": "2021-09-22",
+    "price": "146.5900",
+    "jobPostings": "174.2",
+    "gmv": null
+  },
+  {
+    "date": "2021-09-23",
+    "price": "147.6600",
+    "jobPostings": "174.64",
+    "gmv": null
+  },
+  {
+    "date": "2021-09-24",
+    "price": "144.4000",
+    "jobPostings": "175.0",
+    "gmv": null
+  },
+  {
+    "date": "2021-09-27",
+    "price": "144.3810",
+    "jobPostings": "176.19",
+    "gmv": null
+  },
+  {
+    "date": "2021-09-28",
+    "price": "136.9310",
+    "jobPostings": "176.73",
+    "gmv": null
+  },
+  {
+    "date": "2021-09-29",
+    "price": "134.6550",
+    "jobPostings": "177.3",
+    "gmv": null
+  },
+  {
+    "date": "2021-09-30",
+    "price": "135.5780",
+    "jobPostings": "177.58",
+    "gmv": null
+  },
+  {
+    "date": "2021-10-01",
+    "price": "135.0760",
+    "jobPostings": "177.98",
+    "gmv": 54.1
+  },
+  {
+    "date": "2021-10-04",
+    "price": "131.4900",
+    "jobPostings": "179.1",
+    "gmv": null
+  },
+  {
+    "date": "2021-10-05",
+    "price": "131.8080",
+    "jobPostings": "179.46",
+    "gmv": null
+  },
+  {
+    "date": "2021-10-06",
+    "price": "134.9880",
+    "jobPostings": "179.75",
+    "gmv": null
+  },
+  {
+    "date": "2021-10-07",
+    "price": "139.8500",
+    "jobPostings": "180.37",
+    "gmv": null
+  },
+  {
+    "date": "2021-10-08",
+    "price": "137.8030",
+    "jobPostings": "180.71",
+    "gmv": null
+  },
+  {
+    "date": "2021-10-11",
+    "price": "135.7010",
+    "jobPostings": "182.62",
+    "gmv": null
+  },
+  {
+    "date": "2021-10-12",
+    "price": "135.7220",
+    "jobPostings": "183.21",
+    "gmv": null
+  },
+  {
+    "date": "2021-10-13",
+    "price": "139.8970",
+    "jobPostings": "183.68",
+    "gmv": null
+  },
+  {
+    "date": "2021-10-14",
+    "price": "140.6750",
+    "jobPostings": "184.26",
+    "gmv": null
+  },
+  {
+    "date": "2021-10-15",
+    "price": "142.4580",
+    "jobPostings": "185.09",
+    "gmv": null
+  },
+  {
+    "date": "2021-10-18",
+    "price": "146.5110",
+    "jobPostings": "186.39",
+    "gmv": null
+  },
+  {
+    "date": "2021-10-19",
+    "price": "148.5740",
+    "jobPostings": "186.92",
+    "gmv": null
+  },
+  {
+    "date": "2021-10-20",
+    "price": "148.7470",
+    "jobPostings": "187.47",
+    "gmv": null
+  },
+  {
+    "date": "2021-10-21",
+    "price": "149.6710",
+    "jobPostings": "187.71",
+    "gmv": null
+  },
+  {
+    "date": "2021-10-22",
+    "price": "142.5850",
+    "jobPostings": "188.06",
+    "gmv": null
+  },
+  {
+    "date": "2021-10-25",
+    "price": "142.5160",
+    "jobPostings": "189.26",
+    "gmv": null
+  },
+  {
+    "date": "2021-10-26",
+    "price": "136.3700",
+    "jobPostings": "189.53",
+    "gmv": null
+  },
+  {
+    "date": "2021-10-27",
+    "price": "136.1120",
+    "jobPostings": "189.75",
+    "gmv": null
+  },
+  {
+    "date": "2021-10-28",
+    "price": "145.7000",
+    "jobPostings": "190.14",
+    "gmv": null
+  },
+  {
+    "date": "2021-10-29",
+    "price": "146.6730",
+    "jobPostings": "190.58",
+    "gmv": null
+  },
+  {
+    "date": "2021-11-01",
+    "price": "152.7620",
+    "jobPostings": "192.11",
+    "gmv": null
+  },
+  {
+    "date": "2021-11-02",
+    "price": "147.6640",
+    "jobPostings": "192.7",
+    "gmv": null
+  },
+  {
+    "date": "2021-11-03",
+    "price": "149.5340",
+    "jobPostings": "193.39",
+    "gmv": null
+  },
+  {
+    "date": "2021-11-04",
+    "price": "154.0560",
+    "jobPostings": "193.96",
+    "gmv": null
+  },
+  {
+    "date": "2021-11-05",
+    "price": "152.8060",
+    "jobPostings": "194.4",
+    "gmv": null
+  },
+  {
+    "date": "2021-11-08",
+    "price": "153.3770",
+    "jobPostings": "196.36",
+    "gmv": null
+  },
+  {
+    "date": "2021-11-09",
+    "price": "155.4850",
+    "jobPostings": "196.92",
+    "gmv": null
+  },
+  {
+    "date": "2021-11-10",
+    "price": "147.4000",
+    "jobPostings": "197.71",
+    "gmv": null
+  },
+  {
+    "date": "2021-11-11",
+    "price": "149.0340",
+    "jobPostings": "198.95",
+    "gmv": null
+  },
+  {
+    "date": "2021-11-12",
+    "price": "166.9520",
+    "jobPostings": "199.66",
+    "gmv": null
+  },
+  {
+    "date": "2021-11-15",
+    "price": "165.6500",
+    "jobPostings": "202.17",
+    "gmv": null
+  },
+  {
+    "date": "2021-11-16",
+    "price": "167.5320",
+    "jobPostings": "203.11",
+    "gmv": null
+  },
+  {
+    "date": "2021-11-17",
+    "price": "163.7810",
+    "jobPostings": "203.84",
+    "gmv": null
+  },
+  {
+    "date": "2021-11-18",
+    "price": "168.1300",
+    "jobPostings": "204.09",
+    "gmv": null
+  },
+  {
+    "date": "2021-11-19",
+    "price": "169.0600",
+    "jobPostings": "205.01",
+    "gmv": null
+  },
+  {
+    "date": "2021-11-22",
+    "price": "159.5010",
+    "jobPostings": "206.08",
+    "gmv": null
+  },
+  {
+    "date": "2021-11-23",
+    "price": "157.3060",
+    "jobPostings": "206.32",
+    "gmv": null
+  },
+  {
+    "date": "2021-11-24",
+    "price": "162.8700",
+    "jobPostings": "206.65",
+    "gmv": null
+  },
+  {
+    "date": "2021-11-26",
+    "price": "157.6700",
+    "jobPostings": "206.66",
+    "gmv": null
+  },
+  {
+    "date": "2021-11-29",
+    "price": "156.7020",
+    "jobPostings": "206.85",
+    "gmv": null
+  },
+  {
+    "date": "2021-11-30",
+    "price": "152.1790",
+    "jobPostings": "206.89",
+    "gmv": null
+  },
+  {
+    "date": "2021-12-01",
+    "price": "145.9710",
+    "jobPostings": "206.77",
+    "gmv": null
+  },
+  {
+    "date": "2021-12-02",
+    "price": "144.7150",
+    "jobPostings": "207.21",
+    "gmv": null
+  },
+  {
+    "date": "2021-12-03",
+    "price": "141.0000",
+    "jobPostings": "207.38",
+    "gmv": null
+  },
+  {
+    "date": "2021-12-06",
+    "price": "142.8120",
+    "jobPostings": "208.83",
+    "gmv": null
+  },
+  {
+    "date": "2021-12-07",
+    "price": "152.0510",
+    "jobPostings": "209.11",
+    "gmv": null
+  },
+  {
+    "date": "2021-12-08",
+    "price": "152.0290",
+    "jobPostings": "209.5",
+    "gmv": null
+  },
+  {
+    "date": "2021-12-09",
+    "price": "149.4950",
+    "jobPostings": "209.89",
+    "gmv": null
+  },
+  {
+    "date": "2021-12-10",
+    "price": "146.1580",
+    "jobPostings": "210.25",
+    "gmv": null
+  },
+  {
+    "date": "2021-12-13",
+    "price": "139.7150",
+    "jobPostings": "211.06",
+    "gmv": null
+  },
+  {
+    "date": "2021-12-14",
+    "price": "135.4280",
+    "jobPostings": "211.73",
+    "gmv": null
+  },
+  {
+    "date": "2021-12-15",
+    "price": "136.8080",
+    "jobPostings": "212.51",
+    "gmv": null
+  },
+  {
+    "date": "2021-12-16",
+    "price": "132.6880",
+    "jobPostings": "213.07",
+    "gmv": null
+  },
+  {
+    "date": "2021-12-17",
+    "price": "132.3400",
+    "jobPostings": "213.82",
+    "gmv": null
+  },
+  {
+    "date": "2021-12-20",
+    "price": "128.2170",
+    "jobPostings": "215.87",
+    "gmv": null
+  },
+  {
+    "date": "2021-12-21",
+    "price": "137.0110",
+    "jobPostings": "215.48",
+    "gmv": null
+  },
+  {
+    "date": "2021-12-22",
+    "price": "138.5630",
+    "jobPostings": "214.96",
+    "gmv": null
+  },
+  {
+    "date": "2021-12-23",
+    "price": "143.9330",
+    "jobPostings": "214.46",
+    "gmv": null
+  },
+  {
+    "date": "2021-12-27",
+    "price": "140.0590",
+    "jobPostings": "211.38",
+    "gmv": null
+  },
+  {
+    "date": "2021-12-28",
+    "price": "137.5620",
+    "jobPostings": "211.91",
+    "gmv": null
+  },
+  {
+    "date": "2021-12-29",
+    "price": "139.2080",
+    "jobPostings": "211.92",
+    "gmv": null
+  },
+  {
+    "date": "2021-12-30",
+    "price": "139.8240",
+    "jobPostings": "211.82",
+    "gmv": null
+  },
+  {
+    "date": "2021-12-31",
+    "price": "137.7390",
+    "jobPostings": "211.68",
+    "gmv": null
+  },
+  {
+    "date": "2022-01-03",
+    "price": "136.3140",
+    "jobPostings": "210.61",
+    "gmv": null
+  },
+  {
+    "date": "2022-01-04",
+    "price": "122.1860",
+    "jobPostings": "209.82",
+    "gmv": null
+  },
+  {
+    "date": "2022-01-05",
+    "price": "119.0010",
+    "jobPostings": "209.55",
+    "gmv": null
+  },
+  {
+    "date": "2022-01-06",
+    "price": "116.8930",
+    "jobPostings": "209.37",
+    "gmv": null
+  },
+  {
+    "date": "2022-01-07",
+    "price": "114.4480",
+    "jobPostings": "209.41",
+    "gmv": null
+  },
+  {
+    "date": "2022-01-10",
+    "price": "113.1170",
+    "jobPostings": "210.46",
+    "gmv": null
+  },
+  {
+    "date": "2022-01-11",
+    "price": "115.7310",
+    "jobPostings": "211.05",
+    "gmv": null
+  },
+  {
+    "date": "2022-01-12",
+    "price": "116.8760",
+    "jobPostings": "211.66",
+    "gmv": null
+  },
+  {
+    "date": "2022-01-13",
+    "price": "106.4360",
+    "jobPostings": "212.52",
+    "gmv": null
+  },
+  {
+    "date": "2022-01-14",
+    "price": "110.2910",
+    "jobPostings": "212.96",
+    "gmv": null
+  },
+  {
+    "date": "2022-01-18",
+    "price": "105.4660",
+    "jobPostings": "216.01",
+    "gmv": null
+  },
+  {
+    "date": "2022-01-19",
+    "price": "103.0950",
+    "jobPostings": "216.62",
+    "gmv": null
+  },
+  {
+    "date": "2022-01-20",
+    "price": "102.3950",
+    "jobPostings": "217.17",
+    "gmv": null
+  },
+  {
+    "date": "2022-01-21",
+    "price": "88.2120",
+    "jobPostings": "218.02",
+    "gmv": null
+  },
+  {
+    "date": "2022-01-24",
+    "price": "93.8490",
+    "jobPostings": "218.85",
+    "gmv": null
+  },
+  {
+    "date": "2022-01-25",
+    "price": "89.2390",
+    "jobPostings": "219.31",
+    "gmv": null
+  },
+  {
+    "date": "2022-01-26",
+    "price": "86.8920",
+    "jobPostings": "219.73",
+    "gmv": null
+  },
+  {
+    "date": "2022-01-27",
+    "price": "81.5760",
+    "jobPostings": "220.14",
+    "gmv": null
+  },
+  {
+    "date": "2022-01-28",
+    "price": "87.2230",
+    "jobPostings": "220.65",
+    "gmv": null
+  },
+  {
+    "date": "2022-01-31",
+    "price": "96.4240",
+    "jobPostings": "222.5",
+    "gmv": null
+  },
+  {
+    "date": "2022-02-01",
+    "price": "98.4200",
+    "jobPostings": "223.05",
+    "gmv": null
+  },
+  {
+    "date": "2022-02-02",
+    "price": "88.5880",
+    "jobPostings": "223.69",
+    "gmv": null
+  },
+  {
+    "date": "2022-02-03",
+    "price": "80.9440",
+    "jobPostings": "224.23",
+    "gmv": null
+  },
+  {
+    "date": "2022-02-04",
+    "price": "87.6000",
+    "jobPostings": "224.57",
+    "gmv": null
+  },
+  {
+    "date": "2022-02-07",
+    "price": "86.6890",
+    "jobPostings": "225.69",
+    "gmv": null
+  },
+  {
+    "date": "2022-02-08",
+    "price": "87.8000",
+    "jobPostings": "225.25",
+    "gmv": null
+  },
+  {
+    "date": "2022-02-09",
+    "price": "92.4970",
+    "jobPostings": "225.47",
+    "gmv": null
+  },
+  {
+    "date": "2022-02-10",
+    "price": "89.3340",
+    "jobPostings": "225.62",
+    "gmv": null
+  },
+  {
+    "date": "2022-02-11",
+    "price": "85.4000",
+    "jobPostings": "225.86",
+    "gmv": null
+  },
+  {
+    "date": "2022-02-14",
+    "price": "84.7450",
+    "jobPostings": "226.18",
+    "gmv": null
+  },
+  {
+    "date": "2022-02-15",
+    "price": "88.9500",
+    "jobPostings": "226.26",
+    "gmv": null
+  },
+  {
+    "date": "2022-02-16",
+    "price": "74.6850",
+    "jobPostings": "226.3",
+    "gmv": null
+  },
+  {
+    "date": "2022-02-17",
+    "price": "66.0000",
+    "jobPostings": "226.42",
+    "gmv": null
+  },
+  {
+    "date": "2022-02-18",
+    "price": "65.6880",
+    "jobPostings": "226.67",
+    "gmv": null
+  },
+  {
+    "date": "2022-02-22",
+    "price": "62.6160",
+    "jobPostings": "228.42",
+    "gmv": null
+  },
+  {
+    "date": "2022-02-23",
+    "price": "62.6610",
+    "jobPostings": "228.92",
+    "gmv": null
+  },
+  {
+    "date": "2022-02-24",
+    "price": "66.3980",
+    "jobPostings": "229.43",
+    "gmv": null
+  },
+  {
+    "date": "2022-02-25",
+    "price": "67.6950",
+    "jobPostings": "229.74",
+    "gmv": null
+  },
+  {
+    "date": "2022-02-28",
+    "price": "69.4260",
+    "jobPostings": "231.03",
+    "gmv": null
+  },
+  {
+    "date": "2022-03-01",
+    "price": "67.3440",
+    "jobPostings": "230.71",
+    "gmv": null
+  },
+  {
+    "date": "2022-03-02",
+    "price": "65.9830",
+    "jobPostings": "230.61",
+    "gmv": null
+  },
+  {
+    "date": "2022-03-03",
+    "price": "64.0750",
+    "jobPostings": "230.31",
+    "gmv": null
+  },
+  {
+    "date": "2022-03-04",
+    "price": "60.0840",
+    "jobPostings": "230.1",
+    "gmv": null
+  },
+  {
+    "date": "2022-03-07",
+    "price": "56.0800",
+    "jobPostings": "228.82",
+    "gmv": null
+  },
+  {
+    "date": "2022-03-08",
+    "price": "51.4950",
+    "jobPostings": "229.24",
+    "gmv": null
+  },
+  {
+    "date": "2022-03-09",
+    "price": "58.7650",
+    "jobPostings": "229.37",
+    "gmv": null
+  },
+  {
+    "date": "2022-03-10",
+    "price": "55.3180",
+    "jobPostings": "229.54",
+    "gmv": null
+  },
+  {
+    "date": "2022-03-11",
+    "price": "54.4370",
+    "jobPostings": "229.71",
+    "gmv": null
+  },
+  {
+    "date": "2022-03-14",
+    "price": "51.2550",
+    "jobPostings": "230.2",
+    "gmv": null
+  },
+  {
+    "date": "2022-03-15",
+    "price": "55.3430",
+    "jobPostings": "229.17",
+    "gmv": null
+  },
+  {
+    "date": "2022-03-16",
+    "price": "62.2380",
+    "jobPostings": "228.0",
+    "gmv": null
+  },
+  {
+    "date": "2022-03-17",
+    "price": "65.7380",
+    "jobPostings": "226.79",
+    "gmv": null
+  },
+  {
+    "date": "2022-03-18",
+    "price": "78.0000",
+    "jobPostings": "225.37",
+    "gmv": null
+  },
+  {
+    "date": "2022-03-21",
+    "price": "68.3450",
+    "jobPostings": "221.37",
+    "gmv": null
+  },
+  {
+    "date": "2022-03-22",
+    "price": "72.7010",
+    "jobPostings": "220.82",
+    "gmv": null
+  },
+  {
+    "date": "2022-03-23",
+    "price": "70.3590",
+    "jobPostings": "220.72",
+    "gmv": null
+  },
+  {
+    "date": "2022-03-24",
+    "price": "70.5000",
+    "jobPostings": "220.94",
+    "gmv": null
+  },
+  {
+    "date": "2022-03-25",
+    "price": "67.9530",
+    "jobPostings": "221.57",
+    "gmv": null
+  },
+  {
+    "date": "2022-03-28",
+    "price": "70.1600",
+    "jobPostings": "223.15",
+    "gmv": null
+  },
+  {
+    "date": "2022-03-29",
+    "price": "74.3980",
+    "jobPostings": "223.24",
+    "gmv": null
+  },
+  {
+    "date": "2022-03-30",
+    "price": "70.5600",
+    "jobPostings": "223.59",
+    "gmv": null
+  },
+  {
+    "date": "2022-03-31",
+    "price": "67.5960",
+    "jobPostings": "223.75",
+    "gmv": null
+  },
+  {
+    "date": "2022-04-01",
+    "price": "69.3000",
+    "jobPostings": "223.66",
+    "gmv": 46.9
+  },
+  {
+    "date": "2022-04-04",
+    "price": "72.7290",
+    "jobPostings": "222.73",
+    "gmv": null
+  },
+  {
+    "date": "2022-04-05",
+    "price": "70.2920",
+    "jobPostings": "223.33",
+    "gmv": null
+  },
+  {
+    "date": "2022-04-06",
+    "price": "65.6580",
+    "jobPostings": "223.23",
+    "gmv": null
+  },
+  {
+    "date": "2022-04-07",
+    "price": "64.3970",
+    "jobPostings": "223.03",
+    "gmv": null
+  },
+  {
+    "date": "2022-04-08",
+    "price": "60.3180",
+    "jobPostings": "222.94",
+    "gmv": null
+  },
+  {
+    "date": "2022-04-11",
+    "price": "61.7380",
+    "jobPostings": "221.92",
+    "gmv": null
+  },
+  {
+    "date": "2022-04-12",
+    "price": "59.1060",
+    "jobPostings": "221.61",
+    "gmv": null
+  },
+  {
+    "date": "2022-04-13",
+    "price": "60.4780",
+    "jobPostings": "221.35",
+    "gmv": null
+  },
+  {
+    "date": "2022-04-14",
+    "price": "57.9510",
+    "jobPostings": "221.27",
+    "gmv": null
+  },
+  {
+    "date": "2022-04-18",
+    "price": "58.1000",
+    "jobPostings": "222.39",
+    "gmv": null
+  },
+  {
+    "date": "2022-04-19",
+    "price": "60.5630",
+    "jobPostings": "222.73",
+    "gmv": null
+  },
+  {
+    "date": "2022-04-20",
+    "price": "52.5000",
+    "jobPostings": "223.09",
+    "gmv": null
+  },
+  {
+    "date": "2022-04-21",
+    "price": "48.1000",
+    "jobPostings": "223.4",
+    "gmv": null
+  },
+  {
+    "date": "2022-04-22",
+    "price": "45.9970",
+    "jobPostings": "223.8",
+    "gmv": null
+  },
+  {
+    "date": "2022-04-25",
+    "price": "45.9210",
+    "jobPostings": "224.33",
+    "gmv": null
+  },
+  {
+    "date": "2022-04-26",
+    "price": "42.8090",
+    "jobPostings": "224.27",
+    "gmv": null
+  },
+  {
+    "date": "2022-04-27",
+    "price": "41.6200",
+    "jobPostings": "222.14",
+    "gmv": null
+  },
+  {
+    "date": "2022-04-28",
+    "price": "44.3280",
+    "jobPostings": "222.0",
+    "gmv": null
+  },
+  {
+    "date": "2022-04-29",
+    "price": "42.6820",
+    "jobPostings": "221.63",
+    "gmv": null
+  },
+  {
+    "date": "2022-05-02",
+    "price": "45.2980",
+    "jobPostings": "220.94",
+    "gmv": null
+  },
+  {
+    "date": "2022-05-03",
+    "price": "46.5200",
+    "jobPostings": "221.04",
+    "gmv": null
+  },
+  {
+    "date": "2022-05-04",
+    "price": "48.5490",
+    "jobPostings": "223.12",
+    "gmv": null
+  },
+  {
+    "date": "2022-05-05",
+    "price": "41.3090",
+    "jobPostings": "223.28",
+    "gmv": null
+  },
+  {
+    "date": "2022-05-06",
+    "price": "37.7490",
+    "jobPostings": "223.86",
+    "gmv": null
+  },
+  {
+    "date": "2022-05-09",
+    "price": "34.0040",
+    "jobPostings": "225.38",
+    "gmv": null
+  },
+  {
+    "date": "2022-05-10",
+    "price": "33.5390",
+    "jobPostings": "225.91",
+    "gmv": null
+  },
+  {
+    "date": "2022-05-11",
+    "price": "31.8590",
+    "jobPostings": "226.19",
+    "gmv": null
+  },
+  {
+    "date": "2022-05-12",
+    "price": "35.3510",
+    "jobPostings": "226.26",
+    "gmv": null
+  },
+  {
+    "date": "2022-05-13",
+    "price": "40.2480",
+    "jobPostings": "226.08",
+    "gmv": null
+  },
+  {
+    "date": "2022-05-16",
+    "price": "35.9950",
+    "jobPostings": "226.05",
+    "gmv": null
+  },
+  {
+    "date": "2022-05-17",
+    "price": "37.2640",
+    "jobPostings": "225.29",
+    "gmv": null
+  },
+  {
+    "date": "2022-05-18",
+    "price": "36.0620",
+    "jobPostings": "225.14",
+    "gmv": null
+  },
+  {
+    "date": "2022-05-19",
+    "price": "39.1330",
+    "jobPostings": "225.07",
+    "gmv": null
+  },
+  {
+    "date": "2022-05-20",
+    "price": "36.3850",
+    "jobPostings": "224.91",
+    "gmv": null
+  },
+  {
+    "date": "2022-05-23",
+    "price": "36.8490",
+    "jobPostings": "224.16",
+    "gmv": null
+  },
+  {
+    "date": "2022-05-24",
+    "price": "32.4840",
+    "jobPostings": "224.64",
+    "gmv": null
+  },
+  {
+    "date": "2022-05-25",
+    "price": "33.3110",
+    "jobPostings": "224.66",
+    "gmv": null
+  },
+  {
+    "date": "2022-05-26",
+    "price": "35.1320",
+    "jobPostings": "224.67",
+    "gmv": null
+  },
+  {
+    "date": "2022-05-27",
+    "price": "36.9040",
+    "jobPostings": "224.66",
+    "gmv": null
+  },
+  {
+    "date": "2022-05-31",
+    "price": "37.5120",
+    "jobPostings": "223.83",
+    "gmv": null
+  },
+  {
+    "date": "2022-06-01",
+    "price": "36.1530",
+    "jobPostings": "223.35",
+    "gmv": null
+  },
+  {
+    "date": "2022-06-02",
+    "price": "39.8870",
+    "jobPostings": "222.65",
+    "gmv": null
+  },
+  {
+    "date": "2022-06-03",
+    "price": "35.3660",
+    "jobPostings": "221.98",
+    "gmv": null
+  },
+  {
+    "date": "2022-06-06",
+    "price": "36.0620",
+    "jobPostings": "219.98",
+    "gmv": null
+  },
+  {
+    "date": "2022-06-07",
+    "price": "38.0740",
+    "jobPostings": "219.38",
+    "gmv": null
+  },
+  {
+    "date": "2022-06-08",
+    "price": "39.1470",
+    "jobPostings": "218.81",
+    "gmv": null
+  },
+  {
+    "date": "2022-06-09",
+    "price": "37.1390",
+    "jobPostings": "218.46",
+    "gmv": null
+  },
+  {
+    "date": "2022-06-10",
+    "price": "34.8430",
+    "jobPostings": "217.99",
+    "gmv": null
+  },
+  {
+    "date": "2022-06-13",
+    "price": "31.2940",
+    "jobPostings": "216.91",
+    "gmv": null
+  },
+  {
+    "date": "2022-06-14",
+    "price": "30.3540",
+    "jobPostings": "216.76",
+    "gmv": null
+  },
+  {
+    "date": "2022-06-15",
+    "price": "32.6030",
+    "jobPostings": "216.58",
+    "gmv": null
+  },
+  {
+    "date": "2022-06-16",
+    "price": "30.5230",
+    "jobPostings": "216.28",
+    "gmv": null
+  },
+  {
+    "date": "2022-06-17",
+    "price": "31.6890",
+    "jobPostings": "216.17",
+    "gmv": null
+  },
+  {
+    "date": "2022-06-21",
+    "price": "32.8250",
+    "jobPostings": "215.91",
+    "gmv": null
+  },
+  {
+    "date": "2022-06-22",
+    "price": "33.8540",
+    "jobPostings": "215.83",
+    "gmv": null
+  },
+  {
+    "date": "2022-06-23",
+    "price": "36.3830",
+    "jobPostings": "215.94",
+    "gmv": null
+  },
+  {
+    "date": "2022-06-24",
+    "price": "38.5230",
+    "jobPostings": "215.78",
+    "gmv": null
+  },
+  {
+    "date": "2022-06-27",
+    "price": "37.3210",
+    "jobPostings": "214.32",
+    "gmv": null
+  },
+  {
+    "date": "2022-06-28",
+    "price": "35.0260",
+    "jobPostings": "213.36",
+    "gmv": null
+  },
+  {
+    "date": "2022-06-29",
+    "price": "33.0500",
+    "jobPostings": "212.42",
+    "gmv": null
+  },
+  {
+    "date": "2022-06-30",
+    "price": "31.2400",
+    "jobPostings": "211.47",
+    "gmv": null
+  },
+  {
+    "date": "2022-07-01",
+    "price": "31.4100",
+    "jobPostings": "210.68",
+    "gmv": 46.16
+  },
+  {
+    "date": "2022-07-05",
+    "price": "34.0000",
+    "jobPostings": "208.01",
+    "gmv": null
+  },
+  {
+    "date": "2022-07-06",
+    "price": "33.0400",
+    "jobPostings": "207.25",
+    "gmv": null
+  },
+  {
+    "date": "2022-07-07",
+    "price": "35.3300",
+    "jobPostings": "206.5",
+    "gmv": null
+  },
+  {
+    "date": "2022-07-08",
+    "price": "35.5700",
+    "jobPostings": "205.74",
+    "gmv": null
+  },
+  {
+    "date": "2022-07-11",
+    "price": "32.3200",
+    "jobPostings": "203.63",
+    "gmv": null
+  },
+  {
+    "date": "2022-07-12",
+    "price": "32.3800",
+    "jobPostings": "202.88",
+    "gmv": null
+  },
+  {
+    "date": "2022-07-13",
+    "price": "32.1500",
+    "jobPostings": "202.64",
+    "gmv": null
+  },
+  {
+    "date": "2022-07-14",
+    "price": "30.6700",
+    "jobPostings": "202.26",
+    "gmv": null
+  },
+  {
+    "date": "2022-07-15",
+    "price": "31.2700",
+    "jobPostings": "201.93",
+    "gmv": null
+  },
+  {
+    "date": "2022-07-18",
+    "price": "32.5400",
+    "jobPostings": "201.07",
+    "gmv": null
+  },
+  {
+    "date": "2022-07-19",
+    "price": "34.3700",
+    "jobPostings": "200.41",
+    "gmv": null
+  },
+  {
+    "date": "2022-07-20",
+    "price": "38.4900",
+    "jobPostings": "199.96",
+    "gmv": null
+  },
+  {
+    "date": "2022-07-21",
+    "price": "40.4000",
+    "jobPostings": "199.28",
+    "gmv": null
+  },
+  {
+    "date": "2022-07-22",
+    "price": "37.3500",
+    "jobPostings": "198.73",
+    "gmv": null
+  },
+  {
+    "date": "2022-07-25",
+    "price": "36.7100",
+    "jobPostings": "196.53",
+    "gmv": null
+  },
+  {
+    "date": "2022-07-26",
+    "price": "31.5500",
+    "jobPostings": "196.08",
+    "gmv": null
+  },
+  {
+    "date": "2022-07-27",
+    "price": "35.2400",
+    "jobPostings": "195.09",
+    "gmv": null
+  },
+  {
+    "date": "2022-07-28",
+    "price": "35.9100",
+    "jobPostings": "194.58",
+    "gmv": null
+  },
+  {
+    "date": "2022-07-29",
+    "price": "34.8300",
+    "jobPostings": "193.96",
+    "gmv": null
+  },
+  {
+    "date": "2022-08-01",
+    "price": "36.4400",
+    "jobPostings": "193.08",
+    "gmv": null
+  },
+  {
+    "date": "2022-08-02",
+    "price": "37.7400",
+    "jobPostings": "192.5",
+    "gmv": null
+  },
+  {
+    "date": "2022-08-03",
+    "price": "41.9300",
+    "jobPostings": "192.14",
+    "gmv": null
+  },
+  {
+    "date": "2022-08-04",
+    "price": "41.0200",
+    "jobPostings": "191.62",
+    "gmv": null
+  },
+  {
+    "date": "2022-08-05",
+    "price": "40.8100",
+    "jobPostings": "191.19",
+    "gmv": null
+  },
+  {
+    "date": "2022-08-08",
+    "price": "39.7700",
+    "jobPostings": "189.51",
+    "gmv": null
+  },
+  {
+    "date": "2022-08-09",
+    "price": "36.7500",
+    "jobPostings": "189.31",
+    "gmv": null
+  },
+  {
+    "date": "2022-08-10",
+    "price": "40.6100",
+    "jobPostings": "189.0",
+    "gmv": null
+  },
+  {
+    "date": "2022-08-11",
+    "price": "40.4200",
+    "jobPostings": "188.64",
+    "gmv": null
+  },
+  {
+    "date": "2022-08-12",
+    "price": "40.7600",
+    "jobPostings": "188.06",
+    "gmv": null
+  },
+  {
+    "date": "2022-08-15",
+    "price": "39.8400",
+    "jobPostings": "186.48",
+    "gmv": null
+  },
+  {
+    "date": "2022-08-16",
+    "price": "39.5800",
+    "jobPostings": "185.91",
+    "gmv": null
+  },
+  {
+    "date": "2022-08-17",
+    "price": "37.3000",
+    "jobPostings": "185.38",
+    "gmv": null
+  },
+  {
+    "date": "2022-08-18",
+    "price": "36.8600",
+    "jobPostings": "184.91",
+    "gmv": null
+  },
+  {
+    "date": "2022-08-19",
+    "price": "34.2000",
+    "jobPostings": "184.5",
+    "gmv": null
+  },
+  {
+    "date": "2022-08-22",
+    "price": "33.1800",
+    "jobPostings": "182.84",
+    "gmv": null
+  },
+  {
+    "date": "2022-08-23",
+    "price": "32.4700",
+    "jobPostings": "181.92",
+    "gmv": null
+  },
+  {
+    "date": "2022-08-24",
+    "price": "33.2900",
+    "jobPostings": "181.43",
+    "gmv": null
+  },
+  {
+    "date": "2022-08-25",
+    "price": "34.3400",
+    "jobPostings": "181.02",
+    "gmv": null
+  },
+  {
+    "date": "2022-08-26",
+    "price": "32.4200",
+    "jobPostings": "180.52",
+    "gmv": null
+  },
+  {
+    "date": "2022-08-29",
+    "price": "31.9400",
+    "jobPostings": "179.52",
+    "gmv": null
+  },
+  {
+    "date": "2022-08-30",
+    "price": "31.3600",
+    "jobPostings": "179.3",
+    "gmv": null
+  },
+  {
+    "date": "2022-08-31",
+    "price": "31.6500",
+    "jobPostings": "178.89",
+    "gmv": null
+  },
+  {
+    "date": "2022-09-01",
+    "price": "31.2700",
+    "jobPostings": "178.43",
+    "gmv": null
+  },
+  {
+    "date": "2022-09-02",
+    "price": "30.1100",
+    "jobPostings": "178.06",
+    "gmv": null
+  },
+  {
+    "date": "2022-09-06",
+    "price": "29.8400",
+    "jobPostings": "176.78",
+    "gmv": null
+  },
+  {
+    "date": "2022-09-07",
+    "price": "30.9800",
+    "jobPostings": "176.31",
+    "gmv": null
+  },
+  {
+    "date": "2022-09-08",
+    "price": "31.9400",
+    "jobPostings": "175.83",
+    "gmv": null
+  },
+  {
+    "date": "2022-09-09",
+    "price": "34.8100",
+    "jobPostings": "175.37",
+    "gmv": null
+  },
+  {
+    "date": "2022-09-12",
+    "price": "35.1600",
+    "jobPostings": "173.71",
+    "gmv": null
+  },
+  {
+    "date": "2022-09-13",
+    "price": "32.7000",
+    "jobPostings": "173.29",
+    "gmv": null
+  },
+  {
+    "date": "2022-09-14",
+    "price": "33.6900",
+    "jobPostings": "172.94",
+    "gmv": null
+  },
+  {
+    "date": "2022-09-15",
+    "price": "33.8500",
+    "jobPostings": "172.62",
+    "gmv": null
+  },
+  {
+    "date": "2022-09-16",
+    "price": "31.7300",
+    "jobPostings": "172.33",
+    "gmv": null
+  },
+  {
+    "date": "2022-09-19",
+    "price": "32.9400",
+    "jobPostings": "171.07",
+    "gmv": null
+  },
+  {
+    "date": "2022-09-20",
+    "price": "30.9500",
+    "jobPostings": "170.39",
+    "gmv": null
+  },
+  {
+    "date": "2022-09-21",
+    "price": "30.5500",
+    "jobPostings": "169.87",
+    "gmv": null
+  },
+  {
+    "date": "2022-09-22",
+    "price": "28.5700",
+    "jobPostings": "169.36",
+    "gmv": null
+  },
+  {
+    "date": "2022-09-23",
+    "price": "28.7600",
+    "jobPostings": "168.78",
+    "gmv": null
+  },
+  {
+    "date": "2022-09-26",
+    "price": "28.2500",
+    "jobPostings": "167.51",
+    "gmv": null
+  },
+  {
+    "date": "2022-09-27",
+    "price": "27.8500",
+    "jobPostings": "167.46",
+    "gmv": null
+  },
+  {
+    "date": "2022-09-28",
+    "price": "29.2400",
+    "jobPostings": "167.16",
+    "gmv": null
+  },
+  {
+    "date": "2022-09-29",
+    "price": "26.7700",
+    "jobPostings": "166.8",
+    "gmv": null
+  },
+  {
+    "date": "2022-09-30",
+    "price": "26.9400",
+    "jobPostings": "166.49",
+    "gmv": null
+  },
+  {
+    "date": "2022-10-03",
+    "price": "27.7600",
+    "jobPostings": "165.65",
+    "gmv": null
+  },
+  {
+    "date": "2022-10-04",
+    "price": "31.5300",
+    "jobPostings": "165.04",
+    "gmv": null
+  },
+  {
+    "date": "2022-10-05",
+    "price": "30.8300",
+    "jobPostings": "164.57",
+    "gmv": null
+  },
+  {
+    "date": "2022-10-06",
+    "price": "30.0600",
+    "jobPostings": "164.01",
+    "gmv": null
+  },
+  {
+    "date": "2022-10-07",
+    "price": "27.2100",
+    "jobPostings": "163.29",
+    "gmv": null
+  },
+  {
+    "date": "2022-10-10",
+    "price": "26.4500",
+    "jobPostings": "161.11",
+    "gmv": null
+  },
+  {
+    "date": "2022-10-11",
+    "price": "25.6700",
+    "jobPostings": "160.58",
+    "gmv": null
+  },
+  {
+    "date": "2022-10-12",
+    "price": "25.9900",
+    "jobPostings": "159.94",
+    "gmv": null
+  },
+  {
+    "date": "2022-10-13",
+    "price": "26.2400",
+    "jobPostings": "159.41",
+    "gmv": null
+  },
+  {
+    "date": "2022-10-14",
+    "price": "26.0600",
+    "jobPostings": "159.05",
+    "gmv": null
+  },
+  {
+    "date": "2022-10-17",
+    "price": "27.7600",
+    "jobPostings": "157.94",
+    "gmv": null
+  },
+  {
+    "date": "2022-10-18",
+    "price": "28.7300",
+    "jobPostings": "157.59",
+    "gmv": null
+  },
+  {
+    "date": "2022-10-19",
+    "price": "28.3500",
+    "jobPostings": "157.34",
+    "gmv": null
+  },
+  {
+    "date": "2022-10-20",
+    "price": "29.7300",
+    "jobPostings": "156.97",
+    "gmv": null
+  },
+  {
+    "date": "2022-10-21",
+    "price": "29.7500",
+    "jobPostings": "156.6",
+    "gmv": null
+  },
+  {
+    "date": "2022-10-24",
+    "price": "28.7500",
+    "jobPostings": "155.07",
+    "gmv": null
+  },
+  {
+    "date": "2022-10-25",
+    "price": "29.8300",
+    "jobPostings": "154.7",
+    "gmv": null
+  },
+  {
+    "date": "2022-10-26",
+    "price": "29.0600",
+    "jobPostings": "154.29",
+    "gmv": null
+  },
+  {
+    "date": "2022-10-27",
+    "price": "34.1000",
+    "jobPostings": "154.08",
+    "gmv": null
+  },
+  {
+    "date": "2022-10-28",
+    "price": "34.1900",
+    "jobPostings": "153.8",
+    "gmv": null
+  },
+  {
+    "date": "2022-10-31",
+    "price": "34.2300",
+    "jobPostings": "153.83",
+    "gmv": null
+  },
+  {
+    "date": "2022-11-01",
+    "price": "34.7900",
+    "jobPostings": "153.62",
+    "gmv": null
+  },
+  {
+    "date": "2022-11-02",
+    "price": "33.5100",
+    "jobPostings": "153.25",
+    "gmv": null
+  },
+  {
+    "date": "2022-11-03",
+    "price": "33.7400",
+    "jobPostings": "152.75",
+    "gmv": null
+  },
+  {
+    "date": "2022-11-04",
+    "price": "32.1500",
+    "jobPostings": "152.34",
+    "gmv": null
+  },
+  {
+    "date": "2022-11-07",
+    "price": "32.2400",
+    "jobPostings": "150.79",
+    "gmv": null
+  },
+  {
+    "date": "2022-11-08",
+    "price": "32.8000",
+    "jobPostings": "150.36",
+    "gmv": null
+  },
+  {
+    "date": "2022-11-09",
+    "price": "30.9000",
+    "jobPostings": "150.02",
+    "gmv": null
+  },
+  {
+    "date": "2022-11-10",
+    "price": "36.5100",
+    "jobPostings": "149.7",
+    "gmv": null
+  },
+  {
+    "date": "2022-11-11",
+    "price": "39.4400",
+    "jobPostings": "149.28",
+    "gmv": null
+  },
+  {
+    "date": "2022-11-14",
+    "price": "38.4000",
+    "jobPostings": "148.16",
+    "gmv": null
+  },
+  {
+    "date": "2022-11-15",
+    "price": "40.0200",
+    "jobPostings": "147.8",
+    "gmv": null
+  },
+  {
+    "date": "2022-11-16",
+    "price": "38.5100",
+    "jobPostings": "147.49",
+    "gmv": null
+  },
+  {
+    "date": "2022-11-17",
+    "price": "37.7200",
+    "jobPostings": "147.19",
+    "gmv": null
+  },
+  {
+    "date": "2022-11-18",
+    "price": "36.5900",
+    "jobPostings": "146.9",
+    "gmv": null
+  },
+  {
+    "date": "2022-11-21",
+    "price": "35.2100",
+    "jobPostings": "145.73",
+    "gmv": null
+  },
+  {
+    "date": "2022-11-22",
+    "price": "35.2800",
+    "jobPostings": "145.32",
+    "gmv": null
+  },
+  {
+    "date": "2022-11-23",
+    "price": "36.7700",
+    "jobPostings": "144.94",
+    "gmv": null
+  },
+  {
+    "date": "2022-11-25",
+    "price": "36.7900",
+    "jobPostings": "144.23",
+    "gmv": null
+  },
+  {
+    "date": "2022-11-28",
+    "price": "38.0300",
+    "jobPostings": "143.48",
+    "gmv": null
+  },
+  {
+    "date": "2022-11-29",
+    "price": "37.1500",
+    "jobPostings": "143.19",
+    "gmv": null
+  },
+  {
+    "date": "2022-11-30",
+    "price": "40.8800",
+    "jobPostings": "142.9",
+    "gmv": null
+  },
+  {
+    "date": "2022-12-01",
+    "price": "43.4000",
+    "jobPostings": "142.67",
+    "gmv": null
+  },
+  {
+    "date": "2022-12-02",
+    "price": "43.0600",
+    "jobPostings": "142.19",
+    "gmv": null
+  },
+  {
+    "date": "2022-12-05",
+    "price": "40.7900",
+    "jobPostings": "140.62",
+    "gmv": null
+  },
+  {
+    "date": "2022-12-06",
+    "price": "38.9700",
+    "jobPostings": "140.05",
+    "gmv": null
+  },
+  {
+    "date": "2022-12-07",
+    "price": "38.4900",
+    "jobPostings": "139.37",
+    "gmv": null
+  },
+  {
+    "date": "2022-12-08",
+    "price": "38.6400",
+    "jobPostings": "138.68",
+    "gmv": null
+  },
+  {
+    "date": "2022-12-09",
+    "price": "38.3800",
+    "jobPostings": "138.2",
+    "gmv": null
+  },
+  {
+    "date": "2022-12-12",
+    "price": "38.3800",
+    "jobPostings": "136.78",
+    "gmv": null
+  },
+  {
+    "date": "2022-12-13",
+    "price": "38.7800",
+    "jobPostings": "136.4",
+    "gmv": null
+  },
+  {
+    "date": "2022-12-14",
+    "price": "38.2400",
+    "jobPostings": "136.36",
+    "gmv": null
+  },
+  {
+    "date": "2022-12-15",
+    "price": "36.3900",
+    "jobPostings": "136.16",
+    "gmv": null
+  },
+  {
+    "date": "2022-12-16",
+    "price": "36.0900",
+    "jobPostings": "135.92",
+    "gmv": null
+  },
+  {
+    "date": "2022-12-19",
+    "price": "35.5000",
+    "jobPostings": "135.23",
+    "gmv": null
+  },
+  {
+    "date": "2022-12-20",
+    "price": "35.9900",
+    "jobPostings": "135.02",
+    "gmv": null
+  },
+  {
+    "date": "2022-12-21",
+    "price": "36.1900",
+    "jobPostings": "134.62",
+    "gmv": null
+  },
+  {
+    "date": "2022-12-22",
+    "price": "34.6800",
+    "jobPostings": "134.31",
+    "gmv": null
+  },
+  {
+    "date": "2022-12-23",
+    "price": "33.7100",
+    "jobPostings": "133.94",
+    "gmv": null
+  },
+  {
+    "date": "2022-12-27",
+    "price": "33.3900",
+    "jobPostings": "133.08",
+    "gmv": null
+  },
+  {
+    "date": "2022-12-28",
+    "price": "32.6400",
+    "jobPostings": "132.8",
+    "gmv": null
+  },
+  {
+    "date": "2022-12-29",
+    "price": "35.1000",
+    "jobPostings": "132.57",
+    "gmv": null
+  },
+  {
+    "date": "2022-12-30",
+    "price": "34.7100",
+    "jobPostings": "132.44",
+    "gmv": null
+  },
+  {
+    "date": "2023-01-03",
+    "price": "35.6800",
+    "jobPostings": "131.54",
+    "gmv": null
+  },
+  {
+    "date": "2023-01-04",
+    "price": "37.5400",
+    "jobPostings": "131.07",
+    "gmv": null
+  },
+  {
+    "date": "2023-01-05",
+    "price": "35.9500",
+    "jobPostings": "130.82",
+    "gmv": null
+  },
+  {
+    "date": "2023-01-06",
+    "price": "36.8500",
+    "jobPostings": "130.57",
+    "gmv": null
+  },
+  {
+    "date": "2023-01-09",
+    "price": "37.1900",
+    "jobPostings": "129.77",
+    "gmv": null
+  },
+  {
+    "date": "2023-01-10",
+    "price": "36.5000",
+    "jobPostings": "129.64",
+    "gmv": null
+  },
+  {
+    "date": "2023-01-11",
+    "price": "36.4400",
+    "jobPostings": "129.76",
+    "gmv": null
+  },
+  {
+    "date": "2023-01-12",
+    "price": "36.7600",
+    "jobPostings": "129.63",
+    "gmv": null
+  },
+  {
+    "date": "2023-01-13",
+    "price": "38.8900",
+    "jobPostings": "129.47",
+    "gmv": null
+  },
+  {
+    "date": "2023-01-17",
+    "price": "39.9800",
+    "jobPostings": "128.76",
+    "gmv": null
+  },
+  {
+    "date": "2023-01-18",
+    "price": "39.1700",
+    "jobPostings": "128.44",
+    "gmv": null
+  },
+  {
+    "date": "2023-01-19",
+    "price": "38.0600",
+    "jobPostings": "128.31",
+    "gmv": null
+  },
+  {
+    "date": "2023-01-20",
+    "price": "40.4800",
+    "jobPostings": "127.95",
+    "gmv": null
+  },
+  {
+    "date": "2023-01-23",
+    "price": "44.0400",
+    "jobPostings": "126.78",
+    "gmv": null
+  },
+  {
+    "date": "2023-01-24",
+    "price": "42.6900",
+    "jobPostings": "126.28",
+    "gmv": null
+  },
+  {
+    "date": "2023-01-25",
+    "price": "47.3300",
+    "jobPostings": "125.78",
+    "gmv": null
+  },
+  {
+    "date": "2023-01-26",
+    "price": "48.3300",
+    "jobPostings": "125.06",
+    "gmv": null
+  },
+  {
+    "date": "2023-01-27",
+    "price": "50.0800",
+    "jobPostings": "124.61",
+    "gmv": null
+  },
+  {
+    "date": "2023-01-30",
+    "price": "47.1900",
+    "jobPostings": "123.29",
+    "gmv": null
+  },
+  {
+    "date": "2023-01-31",
+    "price": "49.2700",
+    "jobPostings": "122.81",
+    "gmv": null
+  },
+  {
+    "date": "2023-02-01",
+    "price": "50.2600",
+    "jobPostings": "122.44",
+    "gmv": null
+  },
+  {
+    "date": "2023-02-02",
+    "price": "53.6300",
+    "jobPostings": "122.01",
+    "gmv": null
+  },
+  {
+    "date": "2023-02-03",
+    "price": "52.9300",
+    "jobPostings": "121.48",
+    "gmv": null
+  },
+  {
+    "date": "2023-02-06",
+    "price": "51.5700",
+    "jobPostings": "119.66",
+    "gmv": null
+  },
+  {
+    "date": "2023-02-07",
+    "price": "51.3500",
+    "jobPostings": "119.0",
+    "gmv": null
+  },
+  {
+    "date": "2023-02-08",
+    "price": "49.8000",
+    "jobPostings": "118.27",
+    "gmv": null
+  },
+  {
+    "date": "2023-02-09",
+    "price": "49.6400",
+    "jobPostings": "117.71",
+    "gmv": null
+  },
+  {
+    "date": "2023-02-10",
+    "price": "48.3000",
+    "jobPostings": "117.15",
+    "gmv": null
+  },
+  {
+    "date": "2023-02-13",
+    "price": "48.7000",
+    "jobPostings": "115.61",
+    "gmv": null
+  },
+  {
+    "date": "2023-02-14",
+    "price": "50.1100",
+    "jobPostings": "115.03",
+    "gmv": null
+  },
+  {
+    "date": "2023-02-15",
+    "price": "53.3900",
+    "jobPostings": "114.43",
+    "gmv": null
+  },
+  {
+    "date": "2023-02-16",
+    "price": "44.9100",
+    "jobPostings": "113.79",
+    "gmv": null
+  },
+  {
+    "date": "2023-02-17",
+    "price": "43.6100",
+    "jobPostings": "113.04",
+    "gmv": null
+  },
+  {
+    "date": "2023-02-21",
+    "price": "41.4200",
+    "jobPostings": "110.05",
+    "gmv": null
+  },
+  {
+    "date": "2023-02-22",
+    "price": "42.0300",
+    "jobPostings": "109.56",
+    "gmv": null
+  },
+  {
+    "date": "2023-02-23",
+    "price": "42.3800",
+    "jobPostings": "108.99",
+    "gmv": null
+  },
+  {
+    "date": "2023-02-24",
+    "price": "40.7500",
+    "jobPostings": "108.43",
+    "gmv": null
+  },
+  {
+    "date": "2023-02-27",
+    "price": "40.4800",
+    "jobPostings": "107.12",
+    "gmv": null
+  },
+  {
+    "date": "2023-02-28",
+    "price": "41.1400",
+    "jobPostings": "106.46",
+    "gmv": null
+  },
+  {
+    "date": "2023-03-01",
+    "price": "40.1000",
+    "jobPostings": "105.6",
+    "gmv": null
+  },
+  {
+    "date": "2023-03-02",
+    "price": "41.1800",
+    "jobPostings": "105.05",
+    "gmv": null
+  },
+  {
+    "date": "2023-03-03",
+    "price": "43.4000",
+    "jobPostings": "104.66",
+    "gmv": null
+  },
+  {
+    "date": "2023-03-06",
+    "price": "43.4800",
+    "jobPostings": "103.67",
+    "gmv": null
+  },
+  {
+    "date": "2023-03-07",
+    "price": "42.4600",
+    "jobPostings": "103.37",
+    "gmv": null
+  },
+  {
+    "date": "2023-03-08",
+    "price": "43.7000",
+    "jobPostings": "103.16",
+    "gmv": null
+  },
+  {
+    "date": "2023-03-09",
+    "price": "43.0000",
+    "jobPostings": "102.89",
+    "gmv": null
+  },
+  {
+    "date": "2023-03-10",
+    "price": "41.4600",
+    "jobPostings": "102.76",
+    "gmv": null
+  },
+  {
+    "date": "2023-03-13",
+    "price": "41.7800",
+    "jobPostings": "101.98",
+    "gmv": null
+  },
+  {
+    "date": "2023-03-14",
+    "price": "43.8000",
+    "jobPostings": "101.78",
+    "gmv": null
+  },
+  {
+    "date": "2023-03-15",
+    "price": "43.5400",
+    "jobPostings": "101.82",
+    "gmv": null
+  },
+  {
+    "date": "2023-03-16",
+    "price": "44.6700",
+    "jobPostings": "101.77",
+    "gmv": null
+  },
+  {
+    "date": "2023-03-17",
+    "price": "44.6800",
+    "jobPostings": "101.59",
+    "gmv": null
+  },
+  {
+    "date": "2023-03-20",
+    "price": "43.8800",
+    "jobPostings": "101.59",
+    "gmv": null
+  },
+  {
+    "date": "2023-03-21",
+    "price": "45.7400",
+    "jobPostings": "101.69",
+    "gmv": null
+  },
+  {
+    "date": "2023-03-22",
+    "price": "44.9600",
+    "jobPostings": "101.64",
+    "gmv": null
+  },
+  {
+    "date": "2023-03-23",
+    "price": "45.7900",
+    "jobPostings": "101.48",
+    "gmv": null
+  },
+  {
+    "date": "2023-03-24",
+    "price": "44.9800",
+    "jobPostings": "101.37",
+    "gmv": null
+  },
+  {
+    "date": "2023-03-27",
+    "price": "45.0700",
+    "jobPostings": "100.77",
+    "gmv": null
+  },
+  {
+    "date": "2023-03-28",
+    "price": "44.3100",
+    "jobPostings": "100.38",
+    "gmv": null
+  },
+  {
+    "date": "2023-03-29",
+    "price": "46.7000",
+    "jobPostings": "100.06",
+    "gmv": null
+  },
+  {
+    "date": "2023-03-30",
+    "price": "46.5100",
+    "jobPostings": "99.85",
+    "gmv": null
+  },
+  {
+    "date": "2023-03-31",
+    "price": "47.9400",
+    "jobPostings": "99.63",
+    "gmv": null
+  },
+  {
+    "date": "2023-04-03",
+    "price": "47.6800",
+    "jobPostings": "98.99",
+    "gmv": null
+  },
+  {
+    "date": "2023-04-04",
+    "price": "47.5900",
+    "jobPostings": "98.89",
+    "gmv": null
+  },
+  {
+    "date": "2023-04-05",
+    "price": "45.1900",
+    "jobPostings": "98.81",
+    "gmv": null
+  },
+  {
+    "date": "2023-04-06",
+    "price": "45.3500",
+    "jobPostings": "98.8",
+    "gmv": null
+  },
+  {
+    "date": "2023-04-10",
+    "price": "45.3500",
+    "jobPostings": "98.62",
+    "gmv": null
+  },
+  {
+    "date": "2023-04-11",
+    "price": "44.7800",
+    "jobPostings": "98.7",
+    "gmv": null
+  },
+  {
+    "date": "2023-04-12",
+    "price": "45.3000",
+    "jobPostings": "98.76",
+    "gmv": null
+  },
+  {
+    "date": "2023-04-13",
+    "price": "45.7300",
+    "jobPostings": "98.64",
+    "gmv": null
+  },
+  {
+    "date": "2023-04-14",
+    "price": "46.3900",
+    "jobPostings": "98.57",
+    "gmv": null
+  },
+  {
+    "date": "2023-04-17",
+    "price": "48.5200",
+    "jobPostings": "97.97",
+    "gmv": null
+  },
+  {
+    "date": "2023-04-18",
+    "price": "49.2000",
+    "jobPostings": "97.8",
+    "gmv": null
+  },
+  {
+    "date": "2023-04-19",
+    "price": "49.0500",
+    "jobPostings": "97.61",
+    "gmv": null
+  },
+  {
+    "date": "2023-04-20",
+    "price": "48.0000",
+    "jobPostings": "97.5",
+    "gmv": null
+  },
+  {
+    "date": "2023-04-21",
+    "price": "48.9400",
+    "jobPostings": "97.36",
+    "gmv": null
+  },
+  {
+    "date": "2023-04-24",
+    "price": "48.0200",
+    "jobPostings": "97.27",
+    "gmv": null
+  },
+  {
+    "date": "2023-04-25",
+    "price": "46.4600",
+    "jobPostings": "97.0",
+    "gmv": null
+  },
+  {
+    "date": "2023-04-26",
+    "price": "46.3700",
+    "jobPostings": "97.29",
+    "gmv": null
+  },
+  {
+    "date": "2023-04-27",
+    "price": "47.5900",
+    "jobPostings": "97.68",
+    "gmv": null
+  },
+  {
+    "date": "2023-04-28",
+    "price": "48.4500",
+    "jobPostings": "98.74",
+    "gmv": null
+  },
+  {
+    "date": "2023-05-01",
+    "price": "47.2800",
+    "jobPostings": "97.81",
+    "gmv": null
+  },
+  {
+    "date": "2023-05-02",
+    "price": "46.7800",
+    "jobPostings": "97.69",
+    "gmv": null
+  },
+  {
+    "date": "2023-05-03",
+    "price": "46.2700",
+    "jobPostings": "97.89",
+    "gmv": null
+  },
+  {
+    "date": "2023-05-04",
+    "price": "57.3000",
+    "jobPostings": "97.58",
+    "gmv": null
+  },
+  {
+    "date": "2023-05-05",
+    "price": "62.0300",
+    "jobPostings": "97.05",
+    "gmv": null
+  },
+  {
+    "date": "2023-05-08",
+    "price": "64.3800",
+    "jobPostings": "99.02",
+    "gmv": null
+  },
+  {
+    "date": "2023-05-09",
+    "price": "63.8900",
+    "jobPostings": "99.46",
+    "gmv": null
+  },
+  {
+    "date": "2023-05-10",
+    "price": "63.1700",
+    "jobPostings": "99.16",
+    "gmv": null
+  },
+  {
+    "date": "2023-05-11",
+    "price": "62.9000",
+    "jobPostings": "99.15",
+    "gmv": null
+  },
+  {
+    "date": "2023-05-12",
+    "price": "61.3300",
+    "jobPostings": "98.26",
+    "gmv": null
+  },
+  {
+    "date": "2023-05-15",
+    "price": "61.5800",
+    "jobPostings": "97.26",
+    "gmv": null
+  },
+  {
+    "date": "2023-05-16",
+    "price": "60.1200",
+    "jobPostings": "97.05",
+    "gmv": null
+  },
+  {
+    "date": "2023-05-17",
+    "price": "60.7600",
+    "jobPostings": "96.57",
+    "gmv": null
+  },
+  {
+    "date": "2023-05-18",
+    "price": "60.8500",
+    "jobPostings": "96.3",
+    "gmv": null
+  },
+  {
+    "date": "2023-05-19",
+    "price": "60.2000",
+    "jobPostings": "96.46",
+    "gmv": null
+  },
+  {
+    "date": "2023-05-22",
+    "price": "62.0600",
+    "jobPostings": "95.76",
+    "gmv": null
+  },
+  {
+    "date": "2023-05-23",
+    "price": "58.3300",
+    "jobPostings": "95.57",
+    "gmv": null
+  },
+  {
+    "date": "2023-05-24",
+    "price": "58.9700",
+    "jobPostings": "95.73",
+    "gmv": null
+  },
+  {
+    "date": "2023-05-25",
+    "price": "57.7100",
+    "jobPostings": "95.76",
+    "gmv": null
+  },
+  {
+    "date": "2023-05-26",
+    "price": "59.2600",
+    "jobPostings": "95.86",
+    "gmv": null
+  },
+  {
+    "date": "2023-05-30",
+    "price": "58.1900",
+    "jobPostings": "95.41",
+    "gmv": null
+  },
+  {
+    "date": "2023-05-31",
+    "price": "57.1900",
+    "jobPostings": "94.97",
+    "gmv": null
+  },
+  {
+    "date": "2023-06-01",
+    "price": "57.9400",
+    "jobPostings": "94.52",
+    "gmv": null
+  },
+  {
+    "date": "2023-06-02",
+    "price": "58.2900",
+    "jobPostings": "94.08",
+    "gmv": null
+  },
+  {
+    "date": "2023-06-05",
+    "price": "59.9200",
+    "jobPostings": "93.62",
+    "gmv": null
+  },
+  {
+    "date": "2023-06-06",
+    "price": "63.6600",
+    "jobPostings": "93.41",
+    "gmv": null
+  },
+  {
+    "date": "2023-06-07",
+    "price": "59.5600",
+    "jobPostings": "93.22",
+    "gmv": null
+  },
+  {
+    "date": "2023-06-08",
+    "price": "59.2800",
+    "jobPostings": "92.4",
+    "gmv": null
+  },
+  {
+    "date": "2023-06-09",
+    "price": "61.3600",
+    "jobPostings": "91.44",
+    "gmv": null
+  },
+  {
+    "date": "2023-06-12",
+    "price": "65.0100",
+    "jobPostings": "87.89",
+    "gmv": null
+  },
+  {
+    "date": "2023-06-13",
+    "price": "63.8400",
+    "jobPostings": "86.74",
+    "gmv": null
+  },
+  {
+    "date": "2023-06-14",
+    "price": "65.8800",
+    "jobPostings": "85.74",
+    "gmv": null
+  },
+  {
+    "date": "2023-06-15",
+    "price": "66.1000",
+    "jobPostings": "85.49",
+    "gmv": null
+  },
+  {
+    "date": "2023-06-16",
+    "price": "64.7100",
+    "jobPostings": "85.24",
+    "gmv": null
+  },
+  {
+    "date": "2023-06-20",
+    "price": "64.2600",
+    "jobPostings": "85.34",
+    "gmv": null
+  },
+  {
+    "date": "2023-06-21",
+    "price": "63.1700",
+    "jobPostings": "85.43",
+    "gmv": null
+  },
+  {
+    "date": "2023-06-22",
+    "price": "63.4800",
+    "jobPostings": "85.46",
+    "gmv": null
+  },
+  {
+    "date": "2023-06-23",
+    "price": "63.7900",
+    "jobPostings": "85.42",
+    "gmv": null
+  },
+  {
+    "date": "2023-06-26",
+    "price": "63.2500",
+    "jobPostings": "84.85",
+    "gmv": null
+  },
+  {
+    "date": "2023-06-27",
+    "price": "63.8000",
+    "jobPostings": "84.69",
+    "gmv": null
+  },
+  {
+    "date": "2023-06-28",
+    "price": "64.6200",
+    "jobPostings": "84.44",
+    "gmv": null
+  },
+  {
+    "date": "2023-06-29",
+    "price": "63.7600",
+    "jobPostings": "84.15",
+    "gmv": null
+  },
+  {
+    "date": "2023-06-30",
+    "price": "64.6000",
+    "jobPostings": "84.0",
+    "gmv": null
+  },
+  {
+    "date": "2023-07-03",
+    "price": "64.8500",
+    "jobPostings": "83.53",
+    "gmv": null
+  },
+  {
+    "date": "2023-07-05",
+    "price": "64.4400",
+    "jobPostings": "83.3",
+    "gmv": null
+  },
+  {
+    "date": "2023-07-06",
+    "price": "61.8300",
+    "jobPostings": "83.16",
+    "gmv": null
+  },
+  {
+    "date": "2023-07-07",
+    "price": "61.6700",
+    "jobPostings": "83.09",
+    "gmv": null
+  },
+  {
+    "date": "2023-07-10",
+    "price": "61.8900",
+    "jobPostings": "83.27",
+    "gmv": null
+  },
+  {
+    "date": "2023-07-11",
+    "price": "63.1500",
+    "jobPostings": "83.34",
+    "gmv": null
+  },
+  {
+    "date": "2023-07-12",
+    "price": "65.9400",
+    "jobPostings": "83.39",
+    "gmv": null
+  },
+  {
+    "date": "2023-07-13",
+    "price": "70.3700",
+    "jobPostings": "84.16",
+    "gmv": null
+  },
+  {
+    "date": "2023-07-14",
+    "price": "68.4500",
+    "jobPostings": "84.81",
+    "gmv": null
+  },
+  {
+    "date": "2023-07-17",
+    "price": "68.6800",
+    "jobPostings": "86.71",
+    "gmv": null
+  },
+  {
+    "date": "2023-07-18",
+    "price": "67.2600",
+    "jobPostings": "87.26",
+    "gmv": null
+  },
+  {
+    "date": "2023-07-19",
+    "price": "68.2300",
+    "jobPostings": "87.79",
+    "gmv": null
+  },
+  {
+    "date": "2023-07-20",
+    "price": "65.4400",
+    "jobPostings": "87.68",
+    "gmv": null
+  },
+  {
+    "date": "2023-07-21",
+    "price": "65.5700",
+    "jobPostings": "87.63",
+    "gmv": null
+  },
+  {
+    "date": "2023-07-24",
+    "price": "66.1700",
+    "jobPostings": "86.63",
+    "gmv": null
+  },
+  {
+    "date": "2023-07-25",
+    "price": "64.9900",
+    "jobPostings": "86.39",
+    "gmv": null
+  },
+  {
+    "date": "2023-07-26",
+    "price": "64.6800",
+    "jobPostings": "86.14",
+    "gmv": null
+  },
+  {
+    "date": "2023-07-27",
+    "price": "63.9600",
+    "jobPostings": "85.33",
+    "gmv": null
+  },
+  {
+    "date": "2023-07-28",
+    "price": "66.0400",
+    "jobPostings": "84.61",
+    "gmv": null
+  },
+  {
+    "date": "2023-07-31",
+    "price": "67.5800",
+    "jobPostings": "82.88",
+    "gmv": null
+  },
+  {
+    "date": "2023-08-01",
+    "price": "67.4500",
+    "jobPostings": "82.31",
+    "gmv": null
+  },
+  {
+    "date": "2023-08-02",
+    "price": "62.4300",
+    "jobPostings": "81.53",
+    "gmv": null
+  },
+  {
+    "date": "2023-08-03",
+    "price": "59.0400",
+    "jobPostings": "81.23",
+    "gmv": null
+  },
+  {
+    "date": "2023-08-04",
+    "price": "57.9300",
+    "jobPostings": "80.89",
+    "gmv": null
+  },
+  {
+    "date": "2023-08-07",
+    "price": "57.5700",
+    "jobPostings": "80.22",
+    "gmv": null
+  },
+  {
+    "date": "2023-08-08",
+    "price": "56.1900",
+    "jobPostings": "80.02",
+    "gmv": null
+  },
+  {
+    "date": "2023-08-09",
+    "price": "55.2000",
+    "jobPostings": "79.98",
+    "gmv": null
+  },
+  {
+    "date": "2023-08-10",
+    "price": "56.4700",
+    "jobPostings": "79.99",
+    "gmv": null
+  },
+  {
+    "date": "2023-08-11",
+    "price": "55.2700",
+    "jobPostings": "79.98",
+    "gmv": null
+  },
+  {
+    "date": "2023-08-14",
+    "price": "55.9800",
+    "jobPostings": "80.06",
+    "gmv": null
+  },
+  {
+    "date": "2023-08-15",
+    "price": "55.3400",
+    "jobPostings": "79.99",
+    "gmv": null
+  },
+  {
+    "date": "2023-08-16",
+    "price": "55.3400",
+    "jobPostings": "80.01",
+    "gmv": null
+  },
+  {
+    "date": "2023-08-17",
+    "price": "53.2200",
+    "jobPostings": "80.14",
+    "gmv": null
+  },
+  {
+    "date": "2023-08-18",
+    "price": "53.1400",
+    "jobPostings": "80.42",
+    "gmv": null
+  },
+  {
+    "date": "2023-08-21",
+    "price": "53.9300",
+    "jobPostings": "80.32",
+    "gmv": null
+  },
+  {
+    "date": "2023-08-22",
+    "price": "53.9600",
+    "jobPostings": "80.21",
+    "gmv": null
+  },
+  {
+    "date": "2023-08-23",
+    "price": "56.7300",
+    "jobPostings": "80.1",
+    "gmv": null
+  },
+  {
+    "date": "2023-08-24",
+    "price": "55.4600",
+    "jobPostings": "79.88",
+    "gmv": null
+  },
+  {
+    "date": "2023-08-25",
+    "price": "55.5400",
+    "jobPostings": "79.39",
+    "gmv": null
+  },
+  {
+    "date": "2023-08-28",
+    "price": "56.3100",
+    "jobPostings": "78.72",
+    "gmv": null
+  },
+  {
+    "date": "2023-08-29",
+    "price": "58.8000",
+    "jobPostings": "78.72",
+    "gmv": null
+  },
+  {
+    "date": "2023-08-30",
+    "price": "60.0100",
+    "jobPostings": "78.65",
+    "gmv": null
+  },
+  {
+    "date": "2023-08-31",
+    "price": "66.4900",
+    "jobPostings": "78.61",
+    "gmv": null
+  },
+  {
+    "date": "2023-09-01",
+    "price": "66.7100",
+    "jobPostings": "78.72",
+    "gmv": null
+  },
+  {
+    "date": "2023-09-05",
+    "price": "65.8000",
+    "jobPostings": "79.22",
+    "gmv": null
+  },
+  {
+    "date": "2023-09-06",
+    "price": "65.8200",
+    "jobPostings": "79.22",
+    "gmv": null
+  },
+  {
+    "date": "2023-09-07",
+    "price": "64.7800",
+    "jobPostings": "79.28",
+    "gmv": null
+  },
+  {
+    "date": "2023-09-08",
+    "price": "63.0100",
+    "jobPostings": "79.28",
+    "gmv": null
+  },
+  {
+    "date": "2023-09-11",
+    "price": "64.5600",
+    "jobPostings": "79.05",
+    "gmv": null
+  },
+  {
+    "date": "2023-09-12",
+    "price": "62.9300",
+    "jobPostings": "78.94",
+    "gmv": null
+  },
+  {
+    "date": "2023-09-13",
+    "price": "62.6200",
+    "jobPostings": "78.89",
+    "gmv": null
+  },
+  {
+    "date": "2023-09-14",
+    "price": "63.4000",
+    "jobPostings": "78.77",
+    "gmv": null
+  },
+  {
+    "date": "2023-09-15",
+    "price": "62.3800",
+    "jobPostings": "78.52",
+    "gmv": null
+  },
+  {
+    "date": "2023-09-18",
+    "price": "59.5000",
+    "jobPostings": "77.46",
+    "gmv": null
+  },
+  {
+    "date": "2023-09-19",
+    "price": "58.3300",
+    "jobPostings": "77.06",
+    "gmv": null
+  },
+  {
+    "date": "2023-09-20",
+    "price": "56.9700",
+    "jobPostings": "76.6",
+    "gmv": null
+  },
+  {
+    "date": "2023-09-21",
+    "price": "53.7000",
+    "jobPostings": "76.06",
+    "gmv": null
+  },
+  {
+    "date": "2023-09-22",
+    "price": "53.0800",
+    "jobPostings": "75.68",
+    "gmv": null
+  },
+  {
+    "date": "2023-09-25",
+    "price": "53.5800",
+    "jobPostings": "74.76",
+    "gmv": null
+  },
+  {
+    "date": "2023-09-26",
+    "price": "51.5100",
+    "jobPostings": "74.6",
+    "gmv": null
+  },
+  {
+    "date": "2023-09-27",
+    "price": "51.8500",
+    "jobPostings": "74.49",
+    "gmv": null
+  },
+  {
+    "date": "2023-09-28",
+    "price": "53.2000",
+    "jobPostings": "74.54",
+    "gmv": null
+  },
+  {
+    "date": "2023-09-29",
+    "price": "54.5700",
+    "jobPostings": "74.48",
+    "gmv": null
+  },
+  {
+    "date": "2023-10-02",
+    "price": "54.0000",
+    "jobPostings": "74.44",
+    "gmv": null
+  },
+  {
+    "date": "2023-10-03",
+    "price": "51.3800",
+    "jobPostings": "74.41",
+    "gmv": null
+  },
+  {
+    "date": "2023-10-04",
+    "price": "52.5800",
+    "jobPostings": "74.48",
+    "gmv": null
+  },
+  {
+    "date": "2023-10-05",
+    "price": "52.1900",
+    "jobPostings": "74.47",
+    "gmv": null
+  },
+  {
+    "date": "2023-10-06",
+    "price": "53.6500",
+    "jobPostings": "74.54",
+    "gmv": null
+  },
+  {
+    "date": "2023-10-09",
+    "price": "53.5100",
+    "jobPostings": "74.82",
+    "gmv": null
+  },
+  {
+    "date": "2023-10-10",
+    "price": "55.0800",
+    "jobPostings": "74.78",
+    "gmv": null
+  },
+  {
+    "date": "2023-10-11",
+    "price": "54.2400",
+    "jobPostings": "74.64",
+    "gmv": null
+  },
+  {
+    "date": "2023-10-12",
+    "price": "53.3300",
+    "jobPostings": "74.56",
+    "gmv": null
+  },
+  {
+    "date": "2023-10-13",
+    "price": "51.5500",
+    "jobPostings": "74.51",
+    "gmv": null
+  },
+  {
+    "date": "2023-10-16",
+    "price": "53.2800",
+    "jobPostings": "74.47",
+    "gmv": null
+  },
+  {
+    "date": "2023-10-17",
+    "price": "54.1700",
+    "jobPostings": "74.56",
+    "gmv": null
+  },
+  {
+    "date": "2023-10-18",
+    "price": "52.8400",
+    "jobPostings": "74.57",
+    "gmv": null
+  },
+  {
+    "date": "2023-10-19",
+    "price": "51.8300",
+    "jobPostings": "74.69",
+    "gmv": null
+  },
+  {
+    "date": "2023-10-20",
+    "price": "51.1400",
+    "jobPostings": "74.69",
+    "gmv": null
+  },
+  {
+    "date": "2023-10-23",
+    "price": "51.0000",
+    "jobPostings": "74.46",
+    "gmv": null
+  },
+  {
+    "date": "2023-10-24",
+    "price": "52.3500",
+    "jobPostings": "74.38",
+    "gmv": null
+  },
+  {
+    "date": "2023-10-25",
+    "price": "48.4900",
+    "jobPostings": "74.39",
+    "gmv": null
+  },
+  {
+    "date": "2023-10-26",
+    "price": "46.6900",
+    "jobPostings": "74.29",
+    "gmv": null
+  },
+  {
+    "date": "2023-10-27",
+    "price": "46.4000",
+    "jobPostings": "74.18",
+    "gmv": null
+  },
+  {
+    "date": "2023-10-30",
+    "price": "46.9200",
+    "jobPostings": "74.11",
+    "gmv": null
+  },
+  {
+    "date": "2023-10-31",
+    "price": "47.1900",
+    "jobPostings": "73.95",
+    "gmv": null
+  },
+  {
+    "date": "2023-11-01",
+    "price": "48.7900",
+    "jobPostings": "73.92",
+    "gmv": null
+  },
+  {
+    "date": "2023-11-02",
+    "price": "59.7000",
+    "jobPostings": "73.96",
+    "gmv": null
+  },
+  {
+    "date": "2023-11-03",
+    "price": "61.4700",
+    "jobPostings": "74.14",
+    "gmv": null
+  },
+  {
+    "date": "2023-11-06",
+    "price": "60.4300",
+    "jobPostings": "74.59",
+    "gmv": null
+  },
+  {
+    "date": "2023-11-07",
+    "price": "61.6900",
+    "jobPostings": "74.81",
+    "gmv": null
+  },
+  {
+    "date": "2023-11-08",
+    "price": "62.7400",
+    "jobPostings": "74.92",
+    "gmv": null
+  },
+  {
+    "date": "2023-11-09",
+    "price": "60.3700",
+    "jobPostings": "74.97",
+    "gmv": null
+  },
+  {
+    "date": "2023-11-10",
+    "price": "61.3400",
+    "jobPostings": "75.01",
+    "gmv": null
+  },
+  {
+    "date": "2023-11-13",
+    "price": "62.3400",
+    "jobPostings": "75.04",
+    "gmv": null
+  },
+  {
+    "date": "2023-11-14",
+    "price": "65.5200",
+    "jobPostings": "75.04",
+    "gmv": null
+  },
+  {
+    "date": "2023-11-15",
+    "price": "67.8500",
+    "jobPostings": "75.0",
+    "gmv": null
+  },
+  {
+    "date": "2023-11-16",
+    "price": "67.2800",
+    "jobPostings": "74.98",
+    "gmv": null
+  },
+  {
+    "date": "2023-11-17",
+    "price": "68.3400",
+    "jobPostings": "74.99",
+    "gmv": null
+  },
+  {
+    "date": "2023-11-20",
+    "price": "69.5100",
+    "jobPostings": "74.84",
+    "gmv": null
+  },
+  {
+    "date": "2023-11-21",
+    "price": "69.7300",
+    "jobPostings": "74.82",
+    "gmv": null
+  },
+  {
+    "date": "2023-11-22",
+    "price": "70.9600",
+    "jobPostings": "74.78",
+    "gmv": null
+  },
+  {
+    "date": "2023-11-24",
+    "price": "70.3500",
+    "jobPostings": "74.52",
+    "gmv": null
+  },
+  {
+    "date": "2023-11-27",
+    "price": "73.7900",
+    "jobPostings": "74.12",
+    "gmv": null
+  },
+  {
+    "date": "2023-11-28",
+    "price": "73.5100",
+    "jobPostings": "74.0",
+    "gmv": null
+  },
+  {
+    "date": "2023-11-29",
+    "price": "73.3300",
+    "jobPostings": "73.91",
+    "gmv": null
+  },
+  {
+    "date": "2023-11-30",
+    "price": "72.8200",
+    "jobPostings": "73.72",
+    "gmv": null
+  },
+  {
+    "date": "2023-12-01",
+    "price": "73.8600",
+    "jobPostings": "73.6",
+    "gmv": null
+  },
+  {
+    "date": "2023-12-04",
+    "price": "72.5200",
+    "jobPostings": "73.45",
+    "gmv": null
+  },
+  {
+    "date": "2023-12-05",
+    "price": "74.7200",
+    "jobPostings": "73.37",
+    "gmv": null
+  },
+  {
+    "date": "2023-12-06",
+    "price": "71.1400",
+    "jobPostings": "73.52",
+    "gmv": null
+  },
+  {
+    "date": "2023-12-07",
+    "price": "71.8600",
+    "jobPostings": "73.78",
+    "gmv": null
+  },
+  {
+    "date": "2023-12-08",
+    "price": "72.5200",
+    "jobPostings": "73.93",
+    "gmv": null
+  },
+  {
+    "date": "2023-12-11",
+    "price": "72.8100",
+    "jobPostings": "74.26",
+    "gmv": null
+  },
+  {
+    "date": "2023-12-12",
+    "price": "72.5000",
+    "jobPostings": "74.44",
+    "gmv": null
+  },
+  {
+    "date": "2023-12-13",
+    "price": "73.8600",
+    "jobPostings": "74.42",
+    "gmv": null
+  },
+  {
+    "date": "2023-12-14",
+    "price": "77.5400",
+    "jobPostings": "74.43",
+    "gmv": null
+  },
+  {
+    "date": "2023-12-15",
+    "price": "76.8200",
+    "jobPostings": "74.44",
+    "gmv": null
+  },
+  {
+    "date": "2023-12-18",
+    "price": "77.1300",
+    "jobPostings": "74.57",
+    "gmv": null
+  },
+  {
+    "date": "2023-12-19",
+    "price": "78.3500",
+    "jobPostings": "74.64",
+    "gmv": null
+  },
+  {
+    "date": "2023-12-20",
+    "price": "75.4200",
+    "jobPostings": "74.73",
+    "gmv": null
+  },
+  {
+    "date": "2023-12-21",
+    "price": "76.1400",
+    "jobPostings": "74.75",
+    "gmv": null
+  },
+  {
+    "date": "2023-12-22",
+    "price": "76.8300",
+    "jobPostings": "74.75",
+    "gmv": null
+  },
+  {
+    "date": "2023-12-26",
+    "price": "78.2100",
+    "jobPostings": "74.79",
+    "gmv": null
+  },
+  {
+    "date": "2023-12-27",
+    "price": "78.3400",
+    "jobPostings": "74.79",
+    "gmv": null
+  },
+  {
+    "date": "2023-12-28",
+    "price": "79.1100",
+    "jobPostings": "74.82",
+    "gmv": null
+  },
+  {
+    "date": "2023-12-29",
+    "price": "77.9000",
+    "jobPostings": "74.92",
+    "gmv": null
+  },
+  {
+    "date": "2024-01-02",
+    "price": "73.8300",
+    "jobPostings": "74.31",
+    "gmv": null
+  },
+  {
+    "date": "2024-01-03",
+    "price": "71.8200",
+    "jobPostings": "73.98",
+    "gmv": null
+  },
+  {
+    "date": "2024-01-04",
+    "price": "73.4200",
+    "jobPostings": "73.72",
+    "gmv": null
+  },
+  {
+    "date": "2024-01-05",
+    "price": "74.5100",
+    "jobPostings": "73.43",
+    "gmv": null
+  },
+  {
+    "date": "2024-01-08",
+    "price": "77.6900",
+    "jobPostings": "72.52",
+    "gmv": null
+  },
+  {
+    "date": "2024-01-09",
+    "price": "80.1100",
+    "jobPostings": "72.47",
+    "gmv": null
+  },
+  {
+    "date": "2024-01-10",
+    "price": "81.1000",
+    "jobPostings": "72.36",
+    "gmv": null
+  },
+  {
+    "date": "2024-01-11",
+    "price": "81.3000",
+    "jobPostings": "72.23",
+    "gmv": null
+  },
+  {
+    "date": "2024-01-12",
+    "price": "81.4000",
+    "jobPostings": "72.14",
+    "gmv": null
+  },
+  {
+    "date": "2024-01-16",
+    "price": "81.3200",
+    "jobPostings": "72.31",
+    "gmv": null
+  },
+  {
+    "date": "2024-01-17",
+    "price": "80.3200",
+    "jobPostings": "72.37",
+    "gmv": null
+  },
+  {
+    "date": "2024-01-18",
+    "price": "77.5200",
+    "jobPostings": "72.42",
+    "gmv": null
+  },
+  {
+    "date": "2024-01-19",
+    "price": "80.0100",
+    "jobPostings": "72.51",
+    "gmv": null
+  },
+  {
+    "date": "2024-01-22",
+    "price": "80.2600",
+    "jobPostings": "72.58",
+    "gmv": null
+  },
+  {
+    "date": "2024-01-23",
+    "price": "81.1400",
+    "jobPostings": "72.63",
+    "gmv": null
+  },
+  {
+    "date": "2024-01-24",
+    "price": "80.7300",
+    "jobPostings": "72.67",
+    "gmv": null
+  },
+  {
+    "date": "2024-01-25",
+    "price": "80.4900",
+    "jobPostings": "72.63",
+    "gmv": null
+  },
+  {
+    "date": "2024-01-26",
+    "price": "81.5500",
+    "jobPostings": "72.5",
+    "gmv": null
+  },
+  {
+    "date": "2024-01-29",
+    "price": "83.5400",
+    "jobPostings": "72.69",
+    "gmv": null
+  },
+  {
+    "date": "2024-01-30",
+    "price": "82.3300",
+    "jobPostings": "72.69",
+    "gmv": null
+  },
+  {
+    "date": "2024-01-31",
+    "price": "80.0700",
+    "jobPostings": "72.63",
+    "gmv": null
+  },
+  {
+    "date": "2024-02-01",
+    "price": "76.7200",
+    "jobPostings": "72.73",
+    "gmv": null
+  },
+  {
+    "date": "2024-02-02",
+    "price": "82.9300",
+    "jobPostings": "72.94",
+    "gmv": null
+  },
+  {
+    "date": "2024-02-05",
+    "price": "81.4000",
+    "jobPostings": "72.87",
+    "gmv": null
+  },
+  {
+    "date": "2024-02-06",
+    "price": "81.5600",
+    "jobPostings": "72.84",
+    "gmv": null
+  },
+  {
+    "date": "2024-02-07",
+    "price": "85.1700",
+    "jobPostings": "72.89",
+    "gmv": null
+  },
+  {
+    "date": "2024-02-08",
+    "price": "87.8700",
+    "jobPostings": "72.82",
+    "gmv": null
+  },
+  {
+    "date": "2024-02-09",
+    "price": "90.7200",
+    "jobPostings": "72.79",
+    "gmv": null
+  },
+  {
+    "date": "2024-02-12",
+    "price": "89.1200",
+    "jobPostings": "72.68",
+    "gmv": null
+  },
+  {
+    "date": "2024-02-13",
+    "price": "77.1800",
+    "jobPostings": "72.69",
+    "gmv": null
+  },
+  {
+    "date": "2024-02-14",
+    "price": "80.6700",
+    "jobPostings": "72.69",
+    "gmv": null
+  },
+  {
+    "date": "2024-02-15",
+    "price": "84.0000",
+    "jobPostings": "72.64",
+    "gmv": null
+  },
+  {
+    "date": "2024-02-16",
+    "price": "81.2900",
+    "jobPostings": "72.54",
+    "gmv": null
+  },
+  {
+    "date": "2024-02-20",
+    "price": "78.6200",
+    "jobPostings": "72.14",
+    "gmv": null
+  },
+  {
+    "date": "2024-02-21",
+    "price": "75.5900",
+    "jobPostings": "72.09",
+    "gmv": null
+  },
+  {
+    "date": "2024-02-22",
+    "price": "75.0300",
+    "jobPostings": "72.02",
+    "gmv": null
+  },
+  {
+    "date": "2024-02-23",
+    "price": "76.2400",
+    "jobPostings": "71.92",
+    "gmv": null
+  },
+  {
+    "date": "2024-02-26",
+    "price": "77.5600",
+    "jobPostings": "72.07",
+    "gmv": null
+  },
+  {
+    "date": "2024-02-27",
+    "price": "76.6300",
+    "jobPostings": "72.02",
+    "gmv": null
+  },
+  {
+    "date": "2024-02-28",
+    "price": "75.5600",
+    "jobPostings": "71.99",
+    "gmv": null
+  },
+  {
+    "date": "2024-02-29",
+    "price": "76.3700",
+    "jobPostings": "72.21",
+    "gmv": null
+  },
+  {
+    "date": "2024-03-01",
+    "price": "76.5900",
+    "jobPostings": "72.25",
+    "gmv": null
+  },
+  {
+    "date": "2024-03-04",
+    "price": "75.7700",
+    "jobPostings": "72.03",
+    "gmv": null
+  },
+  {
+    "date": "2024-03-05",
+    "price": "73.4700",
+    "jobPostings": "71.96",
+    "gmv": null
+  },
+  {
+    "date": "2024-03-06",
+    "price": "74.0100",
+    "jobPostings": "72.03",
+    "gmv": null
+  },
+  {
+    "date": "2024-03-07",
+    "price": "75.3300",
+    "jobPostings": "71.78",
+    "gmv": null
+  },
+  {
+    "date": "2024-03-08",
+    "price": "76.1600",
+    "jobPostings": "71.77",
+    "gmv": null
+  },
+  {
+    "date": "2024-03-11",
+    "price": "74.9700",
+    "jobPostings": "71.88",
+    "gmv": null
+  },
+  {
+    "date": "2024-03-12",
+    "price": "76.3600",
+    "jobPostings": "71.83",
+    "gmv": null
+  },
+  {
+    "date": "2024-03-13",
+    "price": "78.6800",
+    "jobPostings": "71.78",
+    "gmv": null
+  },
+  {
+    "date": "2024-03-14",
+    "price": "78.4200",
+    "jobPostings": "71.77",
+    "gmv": null
+  },
+  {
+    "date": "2024-03-15",
+    "price": "77.1500",
+    "jobPostings": "71.75",
+    "gmv": null
+  },
+  {
+    "date": "2024-03-18",
+    "price": "77.5200",
+    "jobPostings": "71.79",
+    "gmv": null
+  },
+  {
+    "date": "2024-03-19",
+    "price": "77.5300",
+    "jobPostings": "71.89",
+    "gmv": null
+  },
+  {
+    "date": "2024-03-20",
+    "price": "81.3300",
+    "jobPostings": "71.86",
+    "gmv": null
+  },
+  {
+    "date": "2024-03-21",
+    "price": "79.5900",
+    "jobPostings": "71.82",
+    "gmv": null
+  },
+  {
+    "date": "2024-03-22",
+    "price": "78.7200",
+    "jobPostings": "71.79",
+    "gmv": null
+  },
+  {
+    "date": "2024-03-25",
+    "price": "78.4200",
+    "jobPostings": "71.86",
+    "gmv": null
+  },
+  {
+    "date": "2024-03-26",
+    "price": "78.5300",
+    "jobPostings": "71.83",
+    "gmv": null
+  },
+  {
+    "date": "2024-03-27",
+    "price": "78.6200",
+    "jobPostings": "71.8",
+    "gmv": null
+  },
+  {
+    "date": "2024-03-28",
+    "price": "77.1700",
+    "jobPostings": "71.79",
+    "gmv": null
+  },
+  {
+    "date": "2024-04-01",
+    "price": "78.1900",
+    "jobPostings": "71.56",
+    "gmv": 67.25
+  },
+  {
+    "date": "2024-04-02",
+    "price": "78.1200",
+    "jobPostings": "71.38",
+    "gmv": null
+  },
+  {
+    "date": "2024-04-03",
+    "price": "75.6400",
+    "jobPostings": "71.35",
+    "gmv": null
+  },
+  {
+    "date": "2024-04-04",
+    "price": "74.8100",
+    "jobPostings": "71.34",
+    "gmv": null
+  },
+  {
+    "date": "2024-04-05",
+    "price": "75.2800",
+    "jobPostings": "71.21",
+    "gmv": null
+  },
+  {
+    "date": "2024-04-08",
+    "price": "74.3800",
+    "jobPostings": "71.07",
+    "gmv": null
+  },
+  {
+    "date": "2024-04-09",
+    "price": "74.9200",
+    "jobPostings": "71.04",
+    "gmv": null
+  },
+  {
+    "date": "2024-04-10",
+    "price": "71.9800",
+    "jobPostings": "71.06",
+    "gmv": null
+  },
+  {
+    "date": "2024-04-11",
+    "price": "71.5700",
+    "jobPostings": "71.09",
+    "gmv": null
+  },
+  {
+    "date": "2024-04-12",
+    "price": "70.0000",
+    "jobPostings": "71.2",
+    "gmv": null
+  },
+  {
+    "date": "2024-04-15",
+    "price": "68.5700",
+    "jobPostings": "71.24",
+    "gmv": null
+  },
+  {
+    "date": "2024-04-16",
+    "price": "68.7000",
+    "jobPostings": "71.26",
+    "gmv": null
+  },
+  {
+    "date": "2024-04-17",
+    "price": "69.4100",
+    "jobPostings": "71.2",
+    "gmv": null
+  },
+  {
+    "date": "2024-04-18",
+    "price": "69.5100",
+    "jobPostings": "71.06",
+    "gmv": null
+  },
+  {
+    "date": "2024-04-19",
+    "price": "69.6700",
+    "jobPostings": "70.9",
+    "gmv": null
+  },
+  {
+    "date": "2024-04-22",
+    "price": "70.5500",
+    "jobPostings": "70.21",
+    "gmv": null
+  },
+  {
+    "date": "2024-04-23",
+    "price": "74.0100",
+    "jobPostings": "70.08",
+    "gmv": null
+  },
+  {
+    "date": "2024-04-24",
+    "price": "72.2600",
+    "jobPostings": "69.84",
+    "gmv": null
+  },
+  {
+    "date": "2024-04-25",
+    "price": "70.5500",
+    "jobPostings": "69.64",
+    "gmv": null
+  },
+  {
+    "date": "2024-04-26",
+    "price": "71.3300",
+    "jobPostings": "69.4",
+    "gmv": null
+  },
+  {
+    "date": "2024-04-29",
+    "price": "72.4800",
+    "jobPostings": "69.24",
+    "gmv": null
+  },
+  {
+    "date": "2024-04-30",
+    "price": "70.2000",
+    "jobPostings": "69.13",
+    "gmv": null
+  },
+  {
+    "date": "2024-05-01",
+    "price": "70.4000",
+    "jobPostings": "69.08",
+    "gmv": null
+  },
+  {
+    "date": "2024-05-02",
+    "price": "72.0000",
+    "jobPostings": "69.01",
+    "gmv": null
+  },
+  {
+    "date": "2024-05-03",
+    "price": "74.4600",
+    "jobPostings": "69.03",
+    "gmv": null
+  },
+  {
+    "date": "2024-05-06",
+    "price": "77.3700",
+    "jobPostings": "68.95",
+    "gmv": null
+  },
+  {
+    "date": "2024-05-07",
+    "price": "77.0500",
+    "jobPostings": "69.0",
+    "gmv": null
+  },
+  {
+    "date": "2024-05-08",
+    "price": "62.7300",
+    "jobPostings": "69.06",
+    "gmv": null
+  },
+  {
+    "date": "2024-05-09",
+    "price": "62.4500",
+    "jobPostings": "69.19",
+    "gmv": null
+  },
+  {
+    "date": "2024-05-10",
+    "price": "58.9400",
+    "jobPostings": "69.35",
+    "gmv": null
+  },
+  {
+    "date": "2024-05-13",
+    "price": "58.7800",
+    "jobPostings": "69.58",
+    "gmv": null
+  },
+  {
+    "date": "2024-05-14",
+    "price": "58.0300",
+    "jobPostings": "69.64",
+    "gmv": null
+  },
+  {
+    "date": "2024-05-15",
+    "price": "58.7700",
+    "jobPostings": "69.76",
+    "gmv": null
+  },
+  {
+    "date": "2024-05-16",
+    "price": "57.8100",
+    "jobPostings": "69.79",
+    "gmv": null
+  },
+  {
+    "date": "2024-05-17",
+    "price": "58.5300",
+    "jobPostings": "69.68",
+    "gmv": null
+  },
+  {
+    "date": "2024-05-20",
+    "price": "58.9100",
+    "jobPostings": "68.7",
+    "gmv": null
+  },
+  {
+    "date": "2024-05-21",
+    "price": "57.0200",
+    "jobPostings": "68.25",
+    "gmv": null
+  },
+  {
+    "date": "2024-05-22",
+    "price": "58.7000",
+    "jobPostings": "68.27",
+    "gmv": null
+  },
+  {
+    "date": "2024-05-23",
+    "price": "57.6400",
+    "jobPostings": "68.31",
+    "gmv": null
+  },
+  {
+    "date": "2024-05-24",
+    "price": "56.9700",
+    "jobPostings": "68.5",
+    "gmv": null
+  },
+  {
+    "date": "2024-05-28",
+    "price": "58.1900",
+    "jobPostings": "70.44",
+    "gmv": null
+  },
+  {
+    "date": "2024-05-29",
+    "price": "58.3700",
+    "jobPostings": "70.41",
+    "gmv": null
+  },
+  {
+    "date": "2024-05-30",
+    "price": "58.5400",
+    "jobPostings": "70.4",
+    "gmv": null
+  },
+  {
+    "date": "2024-05-31",
+    "price": "59.1500",
+    "jobPostings": "70.3",
+    "gmv": null
+  },
+  {
+    "date": "2024-06-03",
+    "price": "59.7000",
+    "jobPostings": "70.25",
+    "gmv": null
+  },
+  {
+    "date": "2024-06-04",
+    "price": "60.6800",
+    "jobPostings": "70.29",
+    "gmv": null
+  },
+  {
+    "date": "2024-06-05",
+    "price": "61.2500",
+    "jobPostings": "70.42",
+    "gmv": null
+  },
+  {
+    "date": "2024-06-06",
+    "price": "61.4600",
+    "jobPostings": "70.56",
+    "gmv": null
+  },
+  {
+    "date": "2024-06-07",
+    "price": "61.5900",
+    "jobPostings": "70.68",
+    "gmv": null
+  },
+  {
+    "date": "2024-06-10",
+    "price": "63.0100",
+    "jobPostings": "70.81",
+    "gmv": null
+  },
+  {
+    "date": "2024-06-11",
+    "price": "63.8200",
+    "jobPostings": "70.77",
+    "gmv": null
+  },
+  {
+    "date": "2024-06-12",
+    "price": "65.4700",
+    "jobPostings": "70.75",
+    "gmv": null
+  },
+  {
+    "date": "2024-06-13",
+    "price": "64.6900",
+    "jobPostings": "70.67",
+    "gmv": null
+  },
+  {
+    "date": "2024-06-14",
+    "price": "67.6600",
+    "jobPostings": "70.6",
+    "gmv": null
+  },
+  {
+    "date": "2024-06-17",
+    "price": "66.5200",
+    "jobPostings": "70.22",
+    "gmv": null
+  },
+  {
+    "date": "2024-06-18",
+    "price": "64.2500",
+    "jobPostings": "70.21",
+    "gmv": null
+  },
+  {
+    "date": "2024-06-20",
+    "price": "63.8800",
+    "jobPostings": "70.19",
+    "gmv": null
+  },
+  {
+    "date": "2024-06-21",
+    "price": "65.0300",
+    "jobPostings": "70.27",
+    "gmv": null
+  },
+  {
+    "date": "2024-06-24",
+    "price": "64.3100",
+    "jobPostings": "70.54",
+    "gmv": null
+  },
+  {
+    "date": "2024-06-25",
+    "price": "64.7800",
+    "jobPostings": "70.59",
+    "gmv": null
+  },
+  {
+    "date": "2024-06-26",
+    "price": "65.4500",
+    "jobPostings": "70.56",
+    "gmv": null
+  },
+  {
+    "date": "2024-06-27",
+    "price": "66.3700",
+    "jobPostings": "70.62",
+    "gmv": null
+  },
+  {
+    "date": "2024-06-28",
+    "price": "66.0500",
+    "jobPostings": "70.57",
+    "gmv": null
+  },
+  {
+    "date": "2024-07-01",
+    "price": "64.6300",
+    "jobPostings": "70.39",
+    "gmv": 69.72
+  },
+  {
+    "date": "2024-07-02",
+    "price": "66.0600",
+    "jobPostings": "70.31",
+    "gmv": null
+  },
+  {
+    "date": "2024-07-03",
+    "price": "66.7300",
+    "jobPostings": "70.26",
+    "gmv": null
+  },
+  {
+    "date": "2024-07-05",
+    "price": "67.6300",
+    "jobPostings": "70.07",
+    "gmv": null
+  },
+  {
+    "date": "2024-07-08",
+    "price": "67.3400",
+    "jobPostings": "69.96",
+    "gmv": null
+  },
+  {
+    "date": "2024-07-09",
+    "price": "66.1300",
+    "jobPostings": "69.95",
+    "gmv": null
+  },
+  {
+    "date": "2024-07-10",
+    "price": "65.6100",
+    "jobPostings": "70.0",
+    "gmv": null
+  },
+  {
+    "date": "2024-07-11",
+    "price": "65.3100",
+    "jobPostings": "69.97",
+    "gmv": null
+  },
+  {
+    "date": "2024-07-12",
+    "price": "64.8900",
+    "jobPostings": "70.05",
+    "gmv": null
+  },
+  {
+    "date": "2024-07-15",
+    "price": "64.2100",
+    "jobPostings": "70.49",
+    "gmv": null
+  },
+  {
+    "date": "2024-07-16",
+    "price": "69.7200",
+    "jobPostings": "70.51",
+    "gmv": null
+  },
+  {
+    "date": "2024-07-17",
+    "price": "64.8100",
+    "jobPostings": "70.49",
+    "gmv": null
+  },
+  {
+    "date": "2024-07-18",
+    "price": "63.1100",
+    "jobPostings": "70.43",
+    "gmv": null
+  },
+  {
+    "date": "2024-07-19",
+    "price": "63.1600",
+    "jobPostings": "70.38",
+    "gmv": null
+  },
+  {
+    "date": "2024-07-22",
+    "price": "62.6900",
+    "jobPostings": "69.72",
+    "gmv": null
+  },
+  {
+    "date": "2024-07-23",
+    "price": "62.6600",
+    "jobPostings": "69.65",
+    "gmv": null
+  },
+  {
+    "date": "2024-07-24",
+    "price": "59.2700",
+    "jobPostings": "69.64",
+    "gmv": null
+  },
+  {
+    "date": "2024-07-25",
+    "price": "59.4400",
+    "jobPostings": "69.63",
+    "gmv": null
+  },
+  {
+    "date": "2024-07-26",
+    "price": "59.9400",
+    "jobPostings": "69.59",
+    "gmv": null
+  },
+  {
+    "date": "2024-07-29",
+    "price": "59.8700",
+    "jobPostings": "69.41",
+    "gmv": null
+  },
+  {
+    "date": "2024-07-30",
+    "price": "59.2000",
+    "jobPostings": "69.36",
+    "gmv": null
+  },
+  {
+    "date": "2024-07-31",
+    "price": "61.2000",
+    "jobPostings": "69.22",
+    "gmv": null
+  },
+  {
+    "date": "2024-08-01",
+    "price": "58.1700",
+    "jobPostings": "69.26",
+    "gmv": null
+  },
+  {
+    "date": "2024-08-02",
+    "price": "54.4300",
+    "jobPostings": "69.14",
+    "gmv": null
+  },
+  {
+    "date": "2024-08-05",
+    "price": "52.2600",
+    "jobPostings": "68.89",
+    "gmv": null
+  },
+  {
+    "date": "2024-08-06",
+    "price": "54.2200",
+    "jobPostings": "68.81",
+    "gmv": null
+  },
+  {
+    "date": "2024-08-07",
+    "price": "63.8900",
+    "jobPostings": "68.69",
+    "gmv": null
+  },
+  {
+    "date": "2024-08-08",
+    "price": "68.5500",
+    "jobPostings": "68.53",
+    "gmv": null
+  },
+  {
+    "date": "2024-08-09",
+    "price": "69.3000",
+    "jobPostings": "68.47",
+    "gmv": null
+  },
+  {
+    "date": "2024-08-12",
+    "price": "68.3100",
+    "jobPostings": "68.4",
+    "gmv": null
+  },
+  {
+    "date": "2024-08-13",
+    "price": "69.9000",
+    "jobPostings": "68.45",
+    "gmv": null
+  },
+  {
+    "date": "2024-08-14",
+    "price": "71.5900",
+    "jobPostings": "68.51",
+    "gmv": null
+  },
+  {
+    "date": "2024-08-15",
+    "price": "74.8500",
+    "jobPostings": "68.46",
+    "gmv": null
+  },
+  {
+    "date": "2024-08-16",
+    "price": "74.5500",
+    "jobPostings": "68.47",
+    "gmv": null
+  },
+  {
+    "date": "2024-08-19",
+    "price": "75.1600",
+    "jobPostings": "68.6",
+    "gmv": null
+  },
+  {
+    "date": "2024-08-20",
+    "price": "74.8700",
+    "jobPostings": "68.53",
+    "gmv": null
+  },
+  {
+    "date": "2024-08-21",
+    "price": "76.1400",
+    "jobPostings": "68.34",
+    "gmv": null
+  },
+  {
+    "date": "2024-08-22",
+    "price": "74.3000",
+    "jobPostings": "68.25",
+    "gmv": null
+  },
+  {
+    "date": "2024-08-23",
+    "price": "76.1400",
+    "jobPostings": "68.2",
+    "gmv": null
+  },
+  {
+    "date": "2024-08-26",
+    "price": "74.9500",
+    "jobPostings": "67.75",
+    "gmv": null
+  },
+  {
+    "date": "2024-08-27",
+    "price": "74.5300",
+    "jobPostings": "67.64",
+    "gmv": null
+  },
+  {
+    "date": "2024-08-28",
+    "price": "72.5300",
+    "jobPostings": "67.77",
+    "gmv": null
+  },
+  {
+    "date": "2024-08-29",
+    "price": "73.2700",
+    "jobPostings": "67.86",
+    "gmv": null
+  },
+  {
+    "date": "2024-08-30",
+    "price": "74.0700",
+    "jobPostings": "67.88",
+    "gmv": null
+  },
+  {
+    "date": "2024-09-03",
+    "price": "71.2600",
+    "jobPostings": "68.12",
+    "gmv": null
+  },
+  {
+    "date": "2024-09-04",
+    "price": "70.2200",
+    "jobPostings": "68.09",
+    "gmv": null
+  },
+  {
+    "date": "2024-09-05",
+    "price": "70.1100",
+    "jobPostings": "68.05",
+    "gmv": null
+  },
+  {
+    "date": "2024-09-06",
+    "price": "67.0100",
+    "jobPostings": "68.02",
+    "gmv": null
+  },
+  {
+    "date": "2024-09-09",
+    "price": "68.1300",
+    "jobPostings": "68.25",
+    "gmv": null
+  },
+  {
+    "date": "2024-09-10",
+    "price": "68.1700",
+    "jobPostings": "68.43",
+    "gmv": null
+  },
+  {
+    "date": "2024-09-11",
+    "price": "71.5200",
+    "jobPostings": "68.56",
+    "gmv": null
+  },
+  {
+    "date": "2024-09-12",
+    "price": "71.3100",
+    "jobPostings": "68.67",
+    "gmv": null
+  },
+  {
+    "date": "2024-09-13",
+    "price": "72.4500",
+    "jobPostings": "68.77",
+    "gmv": null
+  },
+  {
+    "date": "2024-09-16",
+    "price": "73.5800",
+    "jobPostings": "68.94",
+    "gmv": null
+  },
+  {
+    "date": "2024-09-17",
+    "price": "74.4500",
+    "jobPostings": "68.99",
+    "gmv": null
+  },
+  {
+    "date": "2024-09-18",
+    "price": "75.2200",
+    "jobPostings": "69.05",
+    "gmv": null
+  },
+  {
+    "date": "2024-09-19",
+    "price": "78.6800",
+    "jobPostings": "69.17",
+    "gmv": null
+  },
+  {
+    "date": "2024-09-20",
+    "price": "78.7200",
+    "jobPostings": "69.27",
+    "gmv": null
+  },
+  {
+    "date": "2024-09-23",
+    "price": "80.1100",
+    "jobPostings": "69.32",
+    "gmv": null
+  },
+  {
+    "date": "2024-09-24",
+    "price": "80.3300",
+    "jobPostings": "69.3",
+    "gmv": null
+  },
+  {
+    "date": "2024-09-25",
+    "price": "79.2600",
+    "jobPostings": "69.29",
+    "gmv": null
+  },
+  {
+    "date": "2024-09-26",
+    "price": "80.7500",
+    "jobPostings": "69.19",
+    "gmv": null
+  },
+  {
+    "date": "2024-09-27",
+    "price": "79.2100",
+    "jobPostings": "68.96",
+    "gmv": null
+  },
+  {
+    "date": "2024-09-30",
+    "price": "80.1400",
+    "jobPostings": "68.53",
+    "gmv": null
+  },
+  {
+    "date": "2024-10-01",
+    "price": "78.4500",
+    "jobPostings": "68.4",
+    "gmv": null
+  },
+  {
+    "date": "2024-10-02",
+    "price": "79.1000",
+    "jobPostings": "68.21",
+    "gmv": null
+  },
+  {
+    "date": "2024-10-03",
+    "price": "78.1400",
+    "jobPostings": "68.01",
+    "gmv": null
+  },
+  {
+    "date": "2024-10-04",
+    "price": "82.4300",
+    "jobPostings": "68.1",
+    "gmv": null
+  },
+  {
+    "date": "2024-10-07",
+    "price": "80.8600",
+    "jobPostings": "68.33",
+    "gmv": null
+  },
+  {
+    "date": "2024-10-08",
+    "price": "82.5800",
+    "jobPostings": "68.43",
+    "gmv": null
+  },
+  {
+    "date": "2024-10-09",
+    "price": "83.4100",
+    "jobPostings": "68.52",
+    "gmv": null
+  },
+  {
+    "date": "2024-10-10",
+    "price": "82.7100",
+    "jobPostings": "68.45",
+    "gmv": null
+  },
+  {
+    "date": "2024-10-11",
+    "price": "83.2400",
+    "jobPostings": "68.23",
+    "gmv": null
+  },
+  {
+    "date": "2024-10-14",
+    "price": "83.6800",
+    "jobPostings": "67.52",
+    "gmv": null
+  },
+  {
+    "date": "2024-10-15",
+    "price": "81.9300",
+    "jobPostings": "67.32",
+    "gmv": null
+  },
+  {
+    "date": "2024-10-16",
+    "price": "81.8500",
+    "jobPostings": "67.06",
+    "gmv": null
+  },
+  {
+    "date": "2024-10-17",
+    "price": "81.6300",
+    "jobPostings": "67.01",
+    "gmv": null
+  },
+  {
+    "date": "2024-10-18",
+    "price": "82.6800",
+    "jobPostings": "66.99",
+    "gmv": null
+  },
+  {
+    "date": "2024-10-21",
+    "price": "82.6600",
+    "jobPostings": "66.87",
+    "gmv": null
+  },
+  {
+    "date": "2024-10-22",
+    "price": "81.6100",
+    "jobPostings": "66.89",
+    "gmv": null
+  },
+  {
+    "date": "2024-10-23",
+    "price": "79.6600",
+    "jobPostings": "66.95",
+    "gmv": null
+  },
+  {
+    "date": "2024-10-24",
+    "price": "79.8200",
+    "jobPostings": "66.93",
+    "gmv": null
+  },
+  {
+    "date": "2024-10-25",
+    "price": "79.0500",
+    "jobPostings": "66.92",
+    "gmv": null
+  },
+  {
+    "date": "2024-10-28",
+    "price": "79.8700",
+    "jobPostings": "67.11",
+    "gmv": null
+  },
+  {
+    "date": "2024-10-29",
+    "price": "80.3900",
+    "jobPostings": "67.13",
+    "gmv": null
+  },
+  {
+    "date": "2024-10-30",
+    "price": "80.0100",
+    "jobPostings": "67.16",
+    "gmv": null
+  },
+  {
+    "date": "2024-10-31",
+    "price": "78.2100",
+    "jobPostings": "67.27",
+    "gmv": null
+  },
+  {
+    "date": "2024-11-01",
+    "price": "78.9900",
+    "jobPostings": "67.39",
+    "gmv": null
+  },
+  {
+    "date": "2024-11-04",
+    "price": "78.4400",
+    "jobPostings": "67.82",
+    "gmv": null
+  },
+  {
+    "date": "2024-11-05",
+    "price": "79.5700",
+    "jobPostings": "67.9",
+    "gmv": null
+  },
+  {
+    "date": "2024-11-06",
+    "price": "81.9200",
+    "jobPostings": "67.97",
+    "gmv": null
+  },
+  {
+    "date": "2024-11-07",
+    "price": "85.5500",
+    "jobPostings": "67.97",
+    "gmv": null
+  },
+  {
+    "date": "2024-11-08",
+    "price": "87.1200",
+    "jobPostings": "67.97",
+    "gmv": null
+  },
+  {
+    "date": "2024-11-11",
+    "price": "89.9900",
+    "jobPostings": "67.77",
+    "gmv": null
+  },
+  {
+    "date": "2024-11-12",
+    "price": "108.9200",
+    "jobPostings": "67.71",
+    "gmv": null
+  },
+  {
+    "date": "2024-11-13",
+    "price": "115.0900",
+    "jobPostings": "67.68",
+    "gmv": null
+  },
+  {
+    "date": "2024-11-14",
+    "price": "109.0800",
+    "jobPostings": "67.65",
+    "gmv": null
+  },
+  {
+    "date": "2024-11-15",
+    "price": "108.4900",
+    "jobPostings": "67.58",
+    "gmv": null
+  },
+  {
+    "date": "2024-11-18",
+    "price": "105.8800",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2024-11-19",
+    "price": "104.5900",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2024-11-20",
+    "price": "103.9400",
+    "jobPostings": null,
+    "gmv": null
+  },
+  {
+    "date": "2024-11-21",
+    "price": "106.4800",
+    "jobPostings": null,
+    "gmv": null
+  }
+]

@@ -60,7 +60,7 @@ export default function Index() {
               </span>
               <span className="ml-4">
                 <span className="text-sky-400">likes</span>: ["Mountain biking",
-                "Crypto", "Speculating"]
+                "Solana", "Speculating"]
               </span>
               <span>{"}"};</span>
             </span>
@@ -69,12 +69,13 @@ export default function Index() {
         <div className="flex flex-col items-start gap-5">
           <p>
             This website was built with Remix and Tailwind and deployed to
-            Cloudflare Workers but I actually spend most of my time working in
-            enterprise React apps
+            Cloudflare Workers but I actually spend most of my time working on
+            enterprise React apps.
           </p>
           <p>
-            I've also been working on a concentrated liquidity market making bot
-            for Solana which has been running full time since August 2024.
+            In the evenings I've also been working on a concentrated liquidity
+            bot for Solana which hit prod in Aug '24'. This is a server side
+            TypeScript project built with Bun.
           </p>
           <Button
             variant="secondary"
